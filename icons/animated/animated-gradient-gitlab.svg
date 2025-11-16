@@ -1,0 +1,14 @@
+<svg viewBox="0 0 24 24" width="24" height="24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gitlab-anim-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#fc6d26;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e24329;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <path d="M12 21l-8-6 2-9 6 3 6-3 2 9-8 6z" stroke="url(#gitlab-anim-gradient)" stroke-width="1.5" stroke-linejoin="round" fill="url(#gitlab-anim-gradient)" opacity="0.15">
+    <animate attributeName="opacity" values="0.15;0.35;0.15" dur="3s" repeatCount="indefinite"/>
+  </path>
+  <path d="M12 9v12M4 15l8-6 8 6" stroke="url(#gitlab-anim-gradient)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="2s" repeatCount="indefinite"/>
+  </path>
+</svg>

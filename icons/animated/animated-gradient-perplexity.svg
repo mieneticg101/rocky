@@ -1,0 +1,17 @@
+<svg viewBox="0 0 24 24" width="24" height="24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="perplexity-anim-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#20808d;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#19b8c9;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <circle cx="12" cy="12" r="9" stroke="url(#perplexity-anim-gradient)" stroke-width="1.5" fill="url(#perplexity-anim-gradient)" opacity="0.1">
+    <animate attributeName="r" values="9;9.5;9" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <path d="M9 9h6v6H9z" stroke="url(#perplexity-anim-gradient)" stroke-width="1.5" stroke-linejoin="round" fill="url(#perplexity-anim-gradient)" opacity="0.2">
+    <animateTransform attributeName="transform" type="rotate" values="0 12 12;360 12 12" dur="8s" repeatCount="indefinite"/>
+  </path>
+  <circle cx="12" cy="12" r="2" stroke="url(#perplexity-anim-gradient)" stroke-width="1.5">
+    <animate attributeName="r" values="2;2.5;2" dur="2s" repeatCount="indefinite"/>
+  </circle>
+</svg>

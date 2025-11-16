@@ -1,0 +1,14 @@
+<svg viewBox="0 0 24 24" width="24" height="24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="supabase-anim-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3ecf8e;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#3fcf8e;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <path d="M5 13h9l5-10H10L5 13z" stroke="url(#supabase-anim-gradient)" stroke-width="1.5" stroke-linejoin="round" fill="url(#supabase-anim-gradient)" opacity="0.2">
+    <animate attributeName="opacity" values="0.2;0.4;0.2" dur="3s" repeatCount="indefinite" begin="0s"/>
+  </path>
+  <path d="M19 11v10L10 11h9z" stroke="url(#supabase-anim-gradient)" stroke-width="1.5" stroke-linejoin="round" fill="url(#supabase-anim-gradient)" opacity="0.15">
+    <animate attributeName="opacity" values="0.15;0.35;0.15" dur="3s" repeatCount="indefinite" begin="0.5s"/>
+  </path>
+</svg>
