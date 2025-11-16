@@ -1,0 +1,14 @@
+<svg viewBox="0 0 24 24" width="24" height="24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="ocean-cleanup-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#36d1dc;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#5b86e5;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#667eea;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <path d="M3 15c2-2 4-2 6 0s4 2 6 0 4-2 6 0" stroke="url(#ocean-cleanup-gradient)" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M3 19c2-2 4-2 6 0s4 2 6 0 4-2 6 0" stroke="url(#ocean-cleanup-gradient)" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M12 5v10m-3-7l3 3 3-3" stroke="url(#ocean-cleanup-gradient)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="8" cy="8" r="1" fill="url(#ocean-cleanup-gradient)"/>
+  <circle cx="16" cy="10" r="1" fill="url(#ocean-cleanup-gradient)"/>
+</svg>

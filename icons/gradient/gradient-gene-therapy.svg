@@ -1,0 +1,13 @@
+<svg viewBox="0 0 24 24" width="24" height="24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gene-therapy-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#11998e;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#38ef7d;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#36d1dc;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <path d="M12 2v5m0 10v5M2 12h5m10 0h5" stroke="url(#gene-therapy-gradient)" stroke-width="1.5" stroke-linecap="round"/>
+  <circle cx="12" cy="12" r="5" stroke="url(#gene-therapy-gradient)" stroke-width="1.5" fill="url(#gene-therapy-gradient)" opacity="0.2"/>
+  <path d="M8 8l8 8M8 16l8-8" stroke="url(#gene-therapy-gradient)" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M16.5 7.5l1 1m-11 7l1 1m7-11l1 1m-11 7l1 1" stroke="url(#gene-therapy-gradient)" stroke-width="1.5" stroke-linecap="round"/>
+</svg>

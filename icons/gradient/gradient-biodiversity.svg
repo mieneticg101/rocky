@@ -1,0 +1,12 @@
+<svg viewBox="0 0 24 24" width="24" height="24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="biodiversity-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#56ab2f;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#a8e063;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#7ec850;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <circle cx="12" cy="12" r="9" stroke="url(#biodiversity-gradient)" stroke-width="1.5" fill="url(#biodiversity-gradient)" opacity="0.1"/>
+  <path d="M12 3c-2 3-2 6 0 9M12 12c2 3 2 6 0 9M3 12c3 2 6 2 9 0M12 12c3-2 6-2 9 0" stroke="url(#biodiversity-gradient)" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M8 8l2 2m2-2l-2 2m0 0l2 2m0 0l2-2" stroke="url(#biodiversity-gradient)" stroke-width="1.5" stroke-linecap="round"/>
+</svg>
