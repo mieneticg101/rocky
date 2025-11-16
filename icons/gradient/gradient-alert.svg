@@ -1,4 +1,4 @@
-<svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="url(#alert-gradient)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 24 24" width="24" height="24" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="alert-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" style="stop-color:#ff6b6b;stop-opacity:1" />
