@@ -1,0 +1,22 @@
+<svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg">
+  <path d="M18 10h-1.26A8 8 0 1 0 9 20h9a5 5 0 0 0 0-10z"/>
+  <line x1="8" y1="15" x2="8.01" y2="15">
+    <animate attributeName="y1" values="15;20;15" dur="2s" repeatCount="indefinite" begin="0s"/>
+    <animate attributeName="y2" values="15;20;15" dur="2s" repeatCount="indefinite" begin="0s"/>
+    <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite" begin="0s"/>
+  </line>
+  <line x1="12" y1="17" x2="12.01" y2="17">
+    <animate attributeName="y1" values="17;22;17" dur="2.5s" repeatCount="indefinite" begin="0.3s"/>
+    <animate attributeName="y2" values="17;22;17" dur="2.5s" repeatCount="indefinite" begin="0.3s"/>
+    <animate attributeName="opacity" values="1;0.3;1" dur="2.5s" repeatCount="indefinite" begin="0.3s"/>
+  </line>
+  <line x1="16" y1="16" x2="16.01" y2="16">
+    <animate attributeName="y1" values="16;21;16" dur="2.2s" repeatCount="indefinite" begin="0.6s"/>
+    <animate attributeName="y2" values="16;21;16" dur="2.2s" repeatCount="indefinite" begin="0.6s"/>
+    <animate attributeName="opacity" values="1;0.3;1" dur="2.2s" repeatCount="indefinite" begin="0.6s"/>
+  </line>
+  <circle cx="8" cy="15" r="1" opacity="0">
+    <animate attributeName="cy" values="15;20;15" dur="2s" repeatCount="indefinite" begin="0s"/>
+    <animate attributeName="opacity" values="0.5;0;0.5" dur="2s" repeatCount="indefinite" begin="0s"/>
+  </circle>
+</svg>
