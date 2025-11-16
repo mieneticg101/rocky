@@ -1,22 +1,22 @@
 {
-  "generated": "2025-11-16T20:40:41.680Z",
+  "generated": "2025-11-16T20:47:56.246Z",
   "stats": {
-    "total": 786,
+    "total": 792,
     "gradient": 786,
     "animated": 131,
     "animated-gradient": 269,
     "categories": {
-      "thai": 39,
-      "business": 106,
+      "thai": 40,
+      "business": 108,
       "app": 9,
       "brand": 58,
       "technology": 173,
       "essential": 134,
       "entertainment": 57,
-      "dev": 64,
+      "dev": 66,
       "home": 28,
       "healthcare": 27,
-      "social": 49,
+      "social": 50,
       "nature": 42
     }
   },
@@ -1925,6 +1925,24 @@
       "tags": [
         "business",
         "calendar",
+        "work",
+        "office"
+      ]
+    },
+    {
+      "name": "calendly",
+      "category": "business",
+      "path": "icons/business/productivity/calendly.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <rect x=\"3\" y=\"4\" width=\"18\" height=\"18\" rx=\"2\"/>\n  <path d=\"M3 9h18\"/>\n  <path d=\"M8 4v3\"/>\n  <path d=\"M16 4v3\"/>\n  <path d=\"M12 14l2 2 3-3\"/>\n</svg>\n",
+      "variants": {
+        "normal": true,
+        "gradient": false,
+        "animated": false,
+        "animated-gradient": false
+      },
+      "tags": [
+        "business",
+        "calendly",
         "work",
         "office"
       ]
@@ -6578,6 +6596,24 @@
       ]
     },
     {
+      "name": "line",
+      "category": "social",
+      "path": "icons/social/line.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M21 11.5a8.38 8.38 0 0 1-.9 3.8 8.5 8.5 0 0 1-7.6 4.7 8.38 8.38 0 0 1-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 0 1-.9-3.8 8.5 8.5 0 0 1 4.7-7.6 8.38 8.38 0 0 1 3.8-.9h.5a8.48 8.48 0 0 1 8 8z\"/>\n  <path d=\"M9 12h6\"/>\n</svg>\n",
+      "variants": {
+        "normal": true,
+        "gradient": false,
+        "animated": false,
+        "animated-gradient": false
+      },
+      "tags": [
+        "social",
+        "line",
+        "media",
+        "network"
+      ]
+    },
+    {
       "name": "line-bank",
       "category": "thai",
       "path": "icons/thai/line-bank.svg",
@@ -8428,6 +8464,25 @@
       ]
     },
     {
+      "name": "payload",
+      "category": "dev",
+      "path": "icons/dev/payload.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\"/>\n  <path d=\"M9 9h6v6H9z\"/>\n  <path d=\"M12 9v6\"/>\n</svg>\n",
+      "variants": {
+        "normal": true,
+        "gradient": false,
+        "animated": false,
+        "animated-gradient": false
+      },
+      "tags": [
+        "dev",
+        "payload",
+        "development",
+        "code",
+        "tools"
+      ]
+    },
+    {
       "name": "paypal",
       "category": "brand",
       "path": "icons/brand/paypal.svg",
@@ -10216,6 +10271,25 @@
       ]
     },
     {
+      "name": "sanity",
+      "category": "dev",
+      "path": "icons/dev/sanity.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <circle cx=\"12\" cy=\"12\" r=\"10\"/>\n  <path d=\"M8 8c2-2 4-2 6 0s2 4 0 6-4 2-6 0-2-4 0-6z\"/>\n</svg>\n",
+      "variants": {
+        "normal": true,
+        "gradient": false,
+        "animated": false,
+        "animated-gradient": false
+      },
+      "tags": [
+        "dev",
+        "sanity",
+        "development",
+        "code",
+        "tools"
+      ]
+    },
+    {
       "name": "save",
       "category": "essential",
       "path": "icons/essential/actions/save.svg",
@@ -10264,6 +10338,24 @@
         "thai",
         "scb",
         "easy",
+        "thailand",
+        "local"
+      ]
+    },
+    {
+      "name": "scg",
+      "category": "thai",
+      "path": "icons/thai/scg.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\"/>\n  <path d=\"M8 8c0-1 1-2 2-2s2 1 2 2-1 2-2 2\"/>\n  <path d=\"M10 10c-1 0-2 1-2 2s1 2 2 2 2-1 2-2\"/>\n  <path d=\"M14 8c2 0 3 1 3 3v3h-6\"/>\n</svg>\n",
+      "variants": {
+        "normal": true,
+        "gradient": false,
+        "animated": false,
+        "animated-gradient": false
+      },
+      "tags": [
+        "thai",
+        "scg",
         "thailand",
         "local"
       ]
@@ -11660,6 +11752,24 @@
         "supabase",
         "tech",
         "software"
+      ]
+    },
+    {
+      "name": "superhuman",
+      "category": "business",
+      "path": "icons/business/productivity/superhuman.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M12 2L4 7v10l8 5 8-5V7l-8-5z\"/>\n  <path d=\"M12 2v20\"/>\n  <path d=\"M4 7l8 5\"/>\n  <path d=\"M20 7l-8 5\"/>\n</svg>\n",
+      "variants": {
+        "normal": true,
+        "gradient": false,
+        "animated": false,
+        "animated-gradient": false
+      },
+      "tags": [
+        "business",
+        "superhuman",
+        "work",
+        "office"
       ]
     },
     {
