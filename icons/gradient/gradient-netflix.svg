@@ -1,0 +1,13 @@
+<svg viewBox="0 0 24 24" width="24" height="24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="netflix-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ffd89b;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#19547b;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <path d="M8 2v20" stroke="url(#netflix-gradient)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" fill="url(#netflix-gradient)" opacity="0.1"/>
+  <path d="M16 2v20" stroke="url(#netflix-gradient)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" fill="url(#netflix-gradient)" opacity="0.1"/>
+  <path d="M8 2l8 20" stroke="url(#netflix-gradient)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" fill="url(#netflix-gradient)" opacity="0.1"/>
+  <path d="M4 2h16" stroke="url(#netflix-gradient)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" fill="url(#netflix-gradient)" opacity="0.1"/>
+  <path d="M4 22h16" stroke="url(#netflix-gradient)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" fill="url(#netflix-gradient)" opacity="0.1"/>
+</svg>
