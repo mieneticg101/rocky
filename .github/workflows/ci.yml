@@ -1,0 +1,76 @@
+name: CI
+
+on:
+  push:
+    branches: [ main, develop, claude/** ]
+  pull_request:
+    branches: [ main, develop ]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [18.x, 20.x]
+
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Use Node.js ${{ matrix.node-version }}
+      uses: actions/setup-node@v4
+      with:
+        node-version: ${{ matrix.node-version }}
+        cache: 'npm'
+
+    - name: Install dependencies
+      run: npm ci
+
+    - name: Lint code
+      run: npm run lint --if-present
+
+    - name: Format check
+      run: npm run format -- --check
+
+    - name: Run tests
+      run: npm test --if-present
+
+    - name: Build library
+      run: npm run build:lib
+
+    - name: Build website
+      run: npm run build:site
+
+    - name: Check bundle size
+      run: |
+        if [ -d "dist" ]; then
+          echo "Checking bundle sizes..."
+          du -sh dist/*
+        fi
+
+  optimize-icons:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Use Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '20.x'
+        cache: 'npm'
+
+    - name: Install dependencies
+      run: npm ci
+
+    - name: Optimize SVG icons
+      run: npm run optimize
+
+    - name: Count icons
+      run: |
+        echo "Total icons: $(find icons -name '*.svg' | wc -l)"
+        echo "Essential: $(find icons/essential -name '*.svg' | wc -l)"
+        echo "Business: $(find icons/business -name '*.svg' | wc -l)"
+        echo "Technology: $(find icons/technology -name '*.svg' | wc -l)"
+        echo "Social: $(find icons/social -name '*.svg' | wc -l)"
+        echo "Animated: $(find icons/animated -name '*.svg' | wc -l)"

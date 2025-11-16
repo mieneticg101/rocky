@@ -1,6 +1,6 @@
 {
   "name": "@rocky-icons/library",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Modern icon library with 5000+ icons - Static & Animated | ไลบรารีไอคอนทันสมัย 5,000+ ไอคอน ทั้งแบบปกติและเคลื่อนไหว",
   "keywords": [
     "icons",
@@ -11,12 +11,18 @@
     "design-system",
     "ui-icons",
     "modern-icons",
-    "2025-design-trends"
+    "2025-design-trends",
+    "icon-library",
+    "icon-pack",
+    "ui-components"
   ],
   "type": "module",
   "main": "./dist/index.js",
   "module": "./dist/index.esm.js",
   "types": "./dist/index.d.ts",
+  "sideEffects": [
+    "*.css"
+  ],
   "exports": {
     ".": {
       "import": "./dist/index.esm.js",
@@ -47,16 +53,18 @@
   ],
   "scripts": {
     "dev": "vite",
-    "build": "npm run build:icons && npm run build:lib && npm run build:site",
-    "build:icons": "node scripts/build-icons.js",
+    "build": "npm run optimize && npm run generate && npm run build:lib && npm run build:site",
     "build:lib": "rollup -c",
     "build:site": "vite build",
     "preview": "vite preview",
     "generate": "node scripts/generate-icons.js",
     "optimize": "node scripts/optimize-svg.js",
+    "prepublishOnly": "npm run build:lib",
     "test": "vitest",
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx",
-    "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,css,md}\""
+    "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,css,md}\"",
+    "version": "npm run build && git add -A",
+    "postversion": "git push && git push --tags"
   },
   "devDependencies": {
     "@rollup/plugin-node-resolve": "^15.2.3",

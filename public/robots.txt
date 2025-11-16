@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rocky-icons.dev/sitemap.xml
