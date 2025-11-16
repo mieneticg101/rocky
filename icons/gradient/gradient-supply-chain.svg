@@ -1,0 +1,16 @@
+<svg viewBox="0 0 24 24" width="24" height="24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="supply-chain-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f7971e;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ffd200;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect x="2" y="16" width="6" height="6" stroke="url(#supply-chain-gradient)" stroke-width="1.5" fill="url(#supply-chain-gradient)" opacity="0.2"/>
+  <rect x="9" y="9" width="6" height="6" stroke="url(#supply-chain-gradient)" stroke-width="1.5" fill="url(#supply-chain-gradient)" opacity="0.2"/>
+  <rect x="16" y="2" width="6" height="6" stroke="url(#supply-chain-gradient)" stroke-width="1.5" fill="url(#supply-chain-gradient)" opacity="0.2"/>
+  <line x1="8" y1="19" x2="9" y2="12" stroke="url(#supply-chain-gradient)" stroke-width="1.5"/>
+  <line x1="15" y1="12" x2="16" y2="5" stroke="url(#supply-chain-gradient)" stroke-width="1.5"/>
+  <circle cx="5" cy="19" r="1" fill="url(#supply-chain-gradient)"/>
+  <circle cx="12" cy="12" r="1" fill="url(#supply-chain-gradient)"/>
+  <circle cx="19" cy="5" r="1" fill="url(#supply-chain-gradient)"/>
+</svg>

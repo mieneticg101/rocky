@@ -1,0 +1,13 @@
+<svg viewBox="0 0 24 24" width="24" height="24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="smart-watch-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#434343;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#000000;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect x="7" y="2" width="10" height="4" rx="1" stroke="url(#smart-watch-gradient)" stroke-width="1.5"/>
+  <rect x="7" y="18" width="10" height="4" rx="1" stroke="url(#smart-watch-gradient)" stroke-width="1.5"/>
+  <rect x="5" y="6" width="14" height="12" rx="3" stroke="url(#smart-watch-gradient)" stroke-width="1.5" fill="url(#smart-watch-gradient)" opacity="0.2"/>
+  <polyline points="10 10 12 12 14 10" stroke="url(#smart-watch-gradient)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="12" y1="12" x2="12" y2="15" stroke="url(#smart-watch-gradient)" stroke-width="1.5" stroke-linecap="round"/>
+</svg>

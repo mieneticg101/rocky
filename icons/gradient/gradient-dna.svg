@@ -1,0 +1,15 @@
+<svg viewBox="0 0 24 24" width="24" height="24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="dna-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#00d2ff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#3a7bd5;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <path d="M8 2s3 0 4 6-4 6-4 6" stroke="url(#dna-gradient)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M16 2s-3 0-4 6 4 6 4 6" stroke="url(#dna-gradient)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M8 22s3 0 4-6-4-6-4-6" stroke="url(#dna-gradient)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M16 22s-3 0-4-6 4-6 4-6" stroke="url(#dna-gradient)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="8" y1="5" x2="16" y2="5" stroke="url(#dna-gradient)" stroke-width="1.5"/>
+  <line x1="8" y1="12" x2="16" y2="12" stroke="url(#dna-gradient)" stroke-width="1.5"/>
+  <line x1="8" y1="19" x2="16" y2="19" stroke="url(#dna-gradient)" stroke-width="1.5"/>
+</svg>
