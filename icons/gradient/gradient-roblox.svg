@@ -1,0 +1,11 @@
+<svg viewBox="0 0 24 24" width="24" height="24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="roblox-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ffd89b;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#19547b;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect x="6" y="6" width="12" height="12" rx="1" transform="rotate(15 12 12)" stroke="url(#roblox-gradient)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" fill="url(#roblox-gradient)" opacity="0.1"/>
+  <circle cx="10" cy="10" r="1.5" stroke="url(#roblox-gradient)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" fill="url(#roblox-gradient)" opacity="0.1"/>
+  <circle cx="14" cy="14" r="1.5" stroke="url(#roblox-gradient)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" fill="url(#roblox-gradient)" opacity="0.1"/>
+</svg>
