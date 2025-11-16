@@ -1,0 +1,14 @@
+<svg viewBox="0 0 24 24" width="24" height="24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bitcoin-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f7971e;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ffd200;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <circle cx="12" cy="12" r="10" stroke="url(#bitcoin-gradient)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" fill="url(#bitcoin-gradient)" opacity="0.1"/>
+  <path d="M9.5 8.5h3a2 2 0 1 1 0 4h-3m0-4v4m0 0h3.5a2 2 0 1 1 0 4H9.5m0-4v4" stroke="url(#bitcoin-gradient)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="11" y1="6" x2="11" y2="8.5" stroke="url(#bitcoin-gradient)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="13" y1="6" x2="13" y2="8.5" stroke="url(#bitcoin-gradient)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="11" y1="16.5" x2="11" y2="18" stroke="url(#bitcoin-gradient)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="13" y1="16.5" x2="13" y2="18" stroke="url(#bitcoin-gradient)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

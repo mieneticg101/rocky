@@ -1,0 +1,9 @@
+<svg viewBox="0 0 24 24" width="24" height="24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="wind-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#cfd9df;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e2ebf0;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <path d="M9.59 4.59A2 2 0 1 1 11 8H2m10.59 11.41A2 2 0 1 0 14 16H2m15.73-8.27A2.5 2.5 0 1 1 19.5 12H2" stroke="url(#wind-gradient)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

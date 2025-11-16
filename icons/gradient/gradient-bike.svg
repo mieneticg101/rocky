@@ -1,0 +1,12 @@
+<svg viewBox="0 0 24 24" width="24" height="24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bike-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#00b09b;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#96c93d;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <circle cx="5.5" cy="17.5" r="3.5" stroke="url(#bike-gradient)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" fill="url(#bike-gradient)" opacity="0.1"/>
+  <circle cx="18.5" cy="17.5" r="3.5" stroke="url(#bike-gradient)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" fill="url(#bike-gradient)" opacity="0.1"/>
+  <path d="M15 6a1 1 0 1 0 0-2 1 1 0 0 0 0 2z" stroke="url(#bike-gradient)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M9 17.5l-3.5-7 6.5-2 3.5 5h4" stroke="url(#bike-gradient)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
