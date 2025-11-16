@@ -1,22 +1,22 @@
 {
-  "generated": "2025-11-16T20:47:56.246Z",
+  "generated": "2025-11-16T20:54:36.792Z",
   "stats": {
-    "total": 792,
+    "total": 802,
     "gradient": 786,
     "animated": 131,
     "animated-gradient": 269,
     "categories": {
       "thai": 40,
-      "business": 108,
-      "app": 9,
+      "business": 107,
+      "app": 11,
       "brand": 58,
-      "technology": 173,
+      "technology": 178,
       "essential": 134,
-      "entertainment": 57,
+      "entertainment": 60,
       "dev": 66,
       "home": 28,
       "healthcare": 27,
-      "social": 50,
+      "social": 51,
       "nature": 42
     }
   },
@@ -1288,6 +1288,24 @@
         "off",
         "media",
         "network"
+      ]
+    },
+    {
+      "name": "berachain",
+      "category": "technology",
+      "path": "icons/technology/blockchain/berachain.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <circle cx=\"12\" cy=\"8\" r=\"4\"/>\n  <path d=\"M8 14c-2 0-4 1-4 3v2h16v-2c0-2-2-3-4-3\"/>\n  <circle cx=\"9\" cy=\"7\" r=\"1\"/>\n  <circle cx=\"15\" cy=\"7\" r=\"1\"/>\n  <path d=\"M12 10v2\"/>\n</svg>\n",
+      "variants": {
+        "normal": true,
+        "gradient": false,
+        "animated": false,
+        "animated-gradient": false
+      },
+      "tags": [
+        "technology",
+        "berachain",
+        "tech",
+        "software"
       ]
     },
     {
@@ -4997,6 +5015,24 @@
       ]
     },
     {
+      "name": "foundation",
+      "category": "entertainment",
+      "path": "icons/entertainment/nft/foundation.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M3 21V9l9-6 9 6v12\"/>\n  <path d=\"M9 21V12h6v9\"/>\n</svg>\n",
+      "variants": {
+        "normal": true,
+        "gradient": false,
+        "animated": false,
+        "animated-gradient": false
+      },
+      "tags": [
+        "entertainment",
+        "foundation",
+        "media",
+        "fun"
+      ]
+    },
+    {
       "name": "framer",
       "category": "brand",
       "path": "icons/brand/framer.svg",
@@ -6223,6 +6259,22 @@
         "joystick",
         "media",
         "fun"
+      ]
+    },
+    {
+      "name": "kagi",
+      "category": "app",
+      "path": "icons/app/kagi.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <circle cx=\"11\" cy=\"11\" r=\"8\"/>\n  <path d=\"m21 21-4.35-4.35\"/>\n  <path d=\"M11 8v6\"/>\n  <path d=\"M8 11h6\"/>\n</svg>\n",
+      "variants": {
+        "normal": true,
+        "gradient": false,
+        "animated": false,
+        "animated-gradient": false
+      },
+      "tags": [
+        "app",
+        "kagi"
       ]
     },
     {
@@ -7518,6 +7570,24 @@
       "tags": [
         "home",
         "mirror"
+      ]
+    },
+    {
+      "name": "mistral",
+      "category": "technology",
+      "path": "icons/technology/ai/mistral.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M3 12l9-9 9 9\"/>\n  <path d=\"M12 3v18\"/>\n  <path d=\"M6 15l6-6 6 6\"/>\n</svg>\n",
+      "variants": {
+        "normal": true,
+        "gradient": false,
+        "animated": false,
+        "animated-gradient": false
+      },
+      "tags": [
+        "technology",
+        "mistral",
+        "tech",
+        "software"
       ]
     },
     {
@@ -9093,9 +9163,9 @@
     },
     {
       "name": "polymarket",
-      "category": "business",
-      "path": "icons/business/finance/polymarket.svg",
-      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M3 3v18h18\"/>\n  <path d=\"M7 16l4-8 4 4 4-8\"/>\n  <circle cx=\"7\" cy=\"16\" r=\"1.5\"/>\n  <circle cx=\"11\" cy=\"8\" r=\"1.5\"/>\n  <circle cx=\"15\" cy=\"12\" r=\"1.5\"/>\n  <circle cx=\"19\" cy=\"4\" r=\"1.5\"/>\n</svg>\n",
+      "category": "technology",
+      "path": "icons/technology/blockchain/polymarket.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M3 3v18h18\"/>\n  <path d=\"M7 16l4-8 4 4 4-6\"/>\n  <circle cx=\"7\" cy=\"16\" r=\"1\"/>\n  <circle cx=\"11\" cy=\"8\" r=\"1\"/>\n  <circle cx=\"15\" cy=\"12\" r=\"1\"/>\n  <circle cx=\"19\" cy=\"6\" r=\"1\"/>\n</svg>\n",
       "variants": {
         "normal": true,
         "gradient": true,
@@ -9103,10 +9173,10 @@
         "animated-gradient": false
       },
       "tags": [
-        "business",
+        "technology",
         "polymarket",
-        "work",
-        "office"
+        "tech",
+        "software"
       ]
     },
     {
@@ -10411,6 +10481,24 @@
       ]
     },
     {
+      "name": "sei",
+      "category": "technology",
+      "path": "icons/technology/blockchain/sei.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M4 12h16\"/>\n  <path d=\"M4 6l8 6 8-6\"/>\n  <path d=\"M4 18l8-6 8 6\"/>\n</svg>\n",
+      "variants": {
+        "normal": true,
+        "gradient": false,
+        "animated": false,
+        "animated-gradient": false
+      },
+      "tags": [
+        "technology",
+        "sei",
+        "tech",
+        "software"
+      ]
+    },
+    {
       "name": "send",
       "category": "essential",
       "path": "icons/essential/actions/send.svg",
@@ -11705,6 +11793,24 @@
       ]
     },
     {
+      "name": "suno",
+      "category": "technology",
+      "path": "icons/technology/ai/suno.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <circle cx=\"12\" cy=\"12\" r=\"10\"/>\n  <path d=\"M8 15c1.5 1 3.5 1 5 0\"/>\n  <path d=\"M9 9h.01\"/>\n  <path d=\"M15 9h.01\"/>\n</svg>\n",
+      "variants": {
+        "normal": true,
+        "gradient": false,
+        "animated": false,
+        "animated-gradient": false
+      },
+      "tags": [
+        "technology",
+        "suno",
+        "tech",
+        "software"
+      ]
+    },
+    {
       "name": "sunrise",
       "category": "nature",
       "path": "icons/nature/weather/sunrise.svg",
@@ -11770,6 +11876,24 @@
         "superhuman",
         "work",
         "office"
+      ]
+    },
+    {
+      "name": "superrare",
+      "category": "entertainment",
+      "path": "icons/entertainment/nft/superrare.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\"/>\n  <polygon points=\"12,7 9,12 12,12 12,17 15,12 12,12\"/>\n</svg>\n",
+      "variants": {
+        "normal": true,
+        "gradient": false,
+        "animated": false,
+        "animated-gradient": false
+      },
+      "tags": [
+        "entertainment",
+        "superrare",
+        "media",
+        "fun"
       ]
     },
     {
@@ -13553,6 +13677,24 @@
       ]
     },
     {
+      "name": "warpcast",
+      "category": "social",
+      "path": "icons/social/warpcast.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M21 11.5a8.38 8.38 0 0 1-.9 3.8 8.5 8.5 0 0 1-7.6 4.7 8.38 8.38 0 0 1-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 0 1-.9-3.8 8.5 8.5 0 0 1 4.7-7.6 8.38 8.38 0 0 1 3.8-.9h.5a8.48 8.48 0 0 1 8 8z\"/>\n  <path d=\"M12 7v5l3 3\"/>\n</svg>\n",
+      "variants": {
+        "normal": true,
+        "gradient": false,
+        "animated": false,
+        "animated-gradient": false
+      },
+      "tags": [
+        "social",
+        "warpcast",
+        "media",
+        "network"
+      ]
+    },
+    {
       "name": "wasm",
       "category": "dev",
       "path": "icons/dev/wasm.svg",
@@ -14072,6 +14214,23 @@
       ]
     },
     {
+      "name": "zen-browser",
+      "category": "app",
+      "path": "icons/app/zen-browser.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <circle cx=\"12\" cy=\"12\" r=\"10\"/>\n  <path d=\"M12 2v20\"/>\n  <path d=\"M2 12h20\"/>\n  <circle cx=\"12\" cy=\"12\" r=\"4\"/>\n</svg>\n",
+      "variants": {
+        "normal": true,
+        "gradient": false,
+        "animated": false,
+        "animated-gradient": false
+      },
+      "tags": [
+        "app",
+        "zen",
+        "browser"
+      ]
+    },
+    {
       "name": "zksync",
       "category": "technology",
       "path": "icons/technology/blockchain/zksync.svg",
@@ -14158,6 +14317,24 @@
         "essential",
         "zoom",
         "out"
+      ]
+    },
+    {
+      "name": "zora",
+      "category": "entertainment",
+      "path": "icons/entertainment/nft/zora.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <circle cx=\"12\" cy=\"12\" r=\"10\"/>\n  <path d=\"M8 8l8 8\"/>\n  <path d=\"M16 8H8v8\"/>\n</svg>\n",
+      "variants": {
+        "normal": true,
+        "gradient": false,
+        "animated": false,
+        "animated-gradient": false
+      },
+      "tags": [
+        "entertainment",
+        "zora",
+        "media",
+        "fun"
       ]
     }
   ]
