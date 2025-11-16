@@ -1,0 +1,11 @@
+<svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg">
+  <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/>
+  <polyline points="9 12 11 14 15 10" opacity="0">
+    <animate attributeName="opacity" values="0;1;1" dur="2s" fill="freeze"/>
+    <animate attributeName="stroke-dasharray" values="0,20;20,0" dur="0.5s" fill="freeze" begin="1s"/>
+  </polyline>
+  <circle cx="12" cy="12" r="0" opacity="0.5" stroke="none" fill="currentColor">
+    <animate attributeName="r" values="0;8;10" dur="1s" fill="freeze" begin="1s"/>
+    <animate attributeName="opacity" values="0.5;0.2;0" dur="1s" fill="freeze" begin="1s"/>
+  </circle>
+</svg>
