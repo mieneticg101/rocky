@@ -1,0 +1,18 @@
+<svg viewBox="0 0 24 24" width="24" height="24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="telegram-anim-gradient" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0088cc;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#29b6f6;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <circle cx="12" cy="12" r="9" stroke="url(#telegram-anim-gradient)" stroke-width="1.5" fill="url(#telegram-anim-gradient)" opacity="0.2">
+    <animate attributeName="opacity" values="0.2;0.3;0.2" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <path d="M7 11l10-4-4 10-1-5-5-1z" fill="url(#telegram-anim-gradient)">
+    <animateTransform attributeName="transform" type="translate" values="0 0;1 -1;0 0" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.8;1;0.8" dur="2s" repeatCount="indefinite"/>
+  </path>
+  <path d="M12 11l5-4" stroke="url(#telegram-anim-gradient)" stroke-width="1.5" stroke-linecap="round">
+    <animate attributeName="stroke-dasharray" values="0 7;7 0" dur="1.5s" repeatCount="indefinite"/>
+  </path>
+</svg>
