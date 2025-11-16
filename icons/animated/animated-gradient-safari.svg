@@ -1,0 +1,20 @@
+<svg viewBox="0 0 24 24" width="24" height="24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="safari-anim-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#006cff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#00a8ff;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <circle cx="12" cy="12" r="9" stroke="url(#safari-anim-gradient)" stroke-width="1.5" fill="url(#safari-anim-gradient)" opacity="0.2">
+    <animate attributeName="opacity" values="0.2;0.3;0.2" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <path d="M12 3v2M12 19v2M3 12h2M19 12h2" stroke="url(#safari-anim-gradient)" stroke-width="1.5" stroke-linecap="round">
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="2s" repeatCount="indefinite"/>
+  </path>
+  <path d="M8 8l8 8M16 8l-2 2" stroke="url(#safari-anim-gradient)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+    <animateTransform attributeName="transform" type="rotate" values="0 12 12;360 12 12" dur="12s" repeatCount="indefinite"/>
+  </path>
+  <circle cx="12" cy="12" r="1" fill="url(#safari-anim-gradient)">
+    <animate attributeName="r" values="1;1.5;1" dur="2s" repeatCount="indefinite"/>
+  </circle>
+</svg>
