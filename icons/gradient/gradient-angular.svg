@@ -1,0 +1,11 @@
+<svg viewBox="0 0 24 24" width="24" height="24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="angular-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#dd0031;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#c3002f;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <path d="M12 3l9 16H3l9-16z" stroke="url(#angular-gradient)" stroke-width="1.5" stroke-linejoin="round" fill="url(#angular-gradient)" opacity="0.15"/>
+  <path d="M12 7l-3 7h2l1-2h2l1 2h2l-3-7z" stroke="url(#angular-gradient)" stroke-width="1.5" stroke-linejoin="round"/>
+  <path d="M11 12h2" stroke="url(#angular-gradient)" stroke-width="1.5"/>
+</svg>

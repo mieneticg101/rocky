@@ -1,0 +1,10 @@
+<svg viewBox="0 0 24 24" width="24" height="24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="wasm-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#654ff0;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#4c9aff;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <path d="M4 8h16l-2 8H6l-2-8z" stroke="url(#wasm-gradient)" stroke-width="1.5" stroke-linejoin="round" fill="url(#wasm-gradient)" opacity="0.2"/>
+  <path d="M8 8l1 8M12 8v8M16 8l-1 8" stroke="url(#wasm-gradient)" stroke-width="1.5" stroke-linecap="round"/>
+</svg>

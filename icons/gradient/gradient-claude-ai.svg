@@ -1,0 +1,11 @@
+<svg viewBox="0 0 24 24" width="24" height="24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="claude-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#e67e50;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#cc5803;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect x="3" y="3" width="18" height="18" rx="4" stroke="url(#claude-gradient)" stroke-width="1.5" fill="url(#claude-gradient)" opacity="0.1"/>
+  <path d="M8 9c.5-.5 1-.5 1.5-.5S11 8.5 11.5 9L14 11.5c.5.5.5 1 .5 1.5s0 1-.5 1.5L12.5 16c-.5.5-1 .5-1.5.5s-1 0-1.5-.5L8 14.5C7.5 14 7.5 13.5 7.5 13s0-1 .5-1.5L9.5 10" stroke="url(#claude-gradient)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="15.5" cy="8.5" r="1" fill="url(#claude-gradient)"/>
+</svg>

@@ -1,0 +1,10 @@
+<svg viewBox="0 0 24 24" width="24" height="24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="kotlin-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#7f52ff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#f88909;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <path d="M3 3h18L12 12 3 21V3z" stroke="url(#kotlin-gradient)" stroke-width="1.5" stroke-linejoin="round" fill="url(#kotlin-gradient)" opacity="0.2"/>
+  <path d="M3 3l9 9M12 12l9 9" stroke="url(#kotlin-gradient)" stroke-width="1.5" stroke-linecap="round"/>
+</svg>

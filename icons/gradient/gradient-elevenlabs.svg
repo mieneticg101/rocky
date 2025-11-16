@@ -1,0 +1,11 @@
+<svg viewBox="0 0 24 24" width="24" height="24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="elevenlabs-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ff6b35;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#f7931e;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect x="3" y="3" width="18" height="18" rx="4" stroke="url(#elevenlabs-gradient)" stroke-width="1.5" fill="url(#elevenlabs-gradient)" opacity="0.1"/>
+  <path d="M8 15V9l3 3 3-3v6" stroke="url(#elevenlabs-gradient)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M15 12h2" stroke="url(#elevenlabs-gradient)" stroke-width="1.5" stroke-linecap="round"/>
+</svg>
