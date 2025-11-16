@@ -1,0 +1,20 @@
+<svg viewBox="0 0 24 24" width="24" height="24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="ev-anim-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#11998e;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#38ef7d;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect x="7" y="4" width="10" height="16" rx="2" stroke="url(#ev-anim-gradient)" stroke-width="1.5" fill="url(#ev-anim-gradient)" opacity="0.1">
+    <animate attributeName="opacity" values="0.1;0.2;0.1" dur="3s" repeatCount="indefinite"/>
+  </rect>
+  <path d="M17 8h2a2 2 0 0 1 2 2v2a2 2 0 0 1-2 2h-2" stroke="url(#ev-anim-gradient)" stroke-width="1.5">
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="2s" repeatCount="indefinite"/>
+  </path>
+  <polygon points="12 7 10 12 12 12 10 17 14 12 12 12 14 7" stroke="url(#ev-anim-gradient)" stroke-width="1.5" fill="url(#ev-anim-gradient)" opacity="0.3">
+    <animate attributeName="opacity" values="0.3;0.6;0.3" dur="2s" repeatCount="indefinite"/>
+  </polygon>
+  <line x1="7" y1="20" x2="17" y2="20" stroke="url(#ev-anim-gradient)" stroke-width="1.5">
+    <animate attributeName="stroke-dasharray" values="0 20;20 0" dur="2s" repeatCount="indefinite"/>
+  </line>
+</svg>

@@ -1,0 +1,23 @@
+<svg viewBox="0 0 24 24" width="24" height="24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gift-anim-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#fa71cd;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#c471f5;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <polyline points="20 12 20 22 4 22 4 12" stroke="url(#gift-anim-gradient)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="3s" repeatCount="indefinite"/>
+  </polyline>
+  <rect x="2" y="7" width="20" height="5" stroke="url(#gift-anim-gradient)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" fill="url(#gift-anim-gradient)" opacity="0.2">
+    <animate attributeName="opacity" values="0.2;0.4;0.2" dur="2s" repeatCount="indefinite"/>
+  </rect>
+  <line x1="12" y1="22" x2="12" y2="7" stroke="url(#gift-anim-gradient)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+    <animate attributeName="stroke-dasharray" values="0 30;30 0" dur="3s" repeatCount="indefinite"/>
+  </line>
+  <path d="M12 7H7.5a2.5 2.5 0 0 1 0-5C11 2 12 7 12 7z" stroke="url(#gift-anim-gradient)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="2s" repeatCount="indefinite"/>
+  </path>
+  <path d="M12 7h4.5a2.5 2.5 0 0 0 0-5C13 2 12 7 12 7z" stroke="url(#gift-anim-gradient)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="2s" repeatCount="indefinite"/>
+  </path>
+</svg>

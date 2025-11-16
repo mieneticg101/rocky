@@ -1,0 +1,18 @@
+<svg viewBox="0 0 24 24" width="24" height="24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="layers-anim-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#667db6;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#0082c8;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#667db6;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <polygon points="12 2 2 7 12 12 22 7 12 2" stroke="url(#layers-anim-gradient)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" fill="url(#layers-anim-gradient)" opacity="0.2">
+    <animate attributeName="opacity" values="0.2;0.4;0.2" dur="3s" repeatCount="indefinite" begin="0s"/>
+  </polygon>
+  <polyline points="2 17 12 22 22 17" stroke="url(#layers-anim-gradient)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+    <animate attributeName="stroke-dasharray" values="0 50;50 0" dur="3s" repeatCount="indefinite" begin="1s"/>
+  </polyline>
+  <polyline points="2 12 12 17 22 12" stroke="url(#layers-anim-gradient)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+    <animate attributeName="stroke-dasharray" values="0 50;50 0" dur="3s" repeatCount="indefinite" begin="0.5s"/>
+  </polyline>
+</svg>
