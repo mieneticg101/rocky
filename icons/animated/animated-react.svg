@@ -1,0 +1,17 @@
+<svg viewBox="0 0 24 24" width="24" height="24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="12" cy="12" r="2" fill="currentColor">
+    <animate attributeName="r" values="2;2.5;2" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <g>
+    <animateTransform attributeName="transform" type="rotate" from="0 12 12" to="360 12 12" dur="4s" repeatCount="indefinite"/>
+    <ellipse cx="12" cy="12" rx="9" ry="4" stroke="currentColor" stroke-width="1.5"/>
+  </g>
+  <g>
+    <animateTransform attributeName="transform" type="rotate" from="60 12 12" to="420 12 12" dur="4s" repeatCount="indefinite"/>
+    <ellipse cx="12" cy="12" rx="9" ry="4" stroke="currentColor" stroke-width="1.5"/>
+  </g>
+  <g>
+    <animateTransform attributeName="transform" type="rotate" from="-60 12 12" to="300 12 12" dur="4s" repeatCount="indefinite"/>
+    <ellipse cx="12" cy="12" rx="9" ry="4" stroke="currentColor" stroke-width="1.5"/>
+  </g>
+</svg>
