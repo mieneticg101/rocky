@@ -1,0 +1,87 @@
+{
+  "name": "@rocky-icons/library",
+  "version": "1.0.0",
+  "description": "Modern icon library with 5000+ icons - Static & Animated | ไลบรารีไอคอนทันสมัย 5,000+ ไอคอน ทั้งแบบปกติและเคลื่อนไหว",
+  "keywords": [
+    "icons",
+    "svg",
+    "animated-icons",
+    "react-icons",
+    "vue-icons",
+    "design-system",
+    "ui-icons",
+    "modern-icons",
+    "2025-design-trends"
+  ],
+  "type": "module",
+  "main": "./dist/index.js",
+  "module": "./dist/index.esm.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "import": "./dist/index.esm.js",
+      "require": "./dist/index.js",
+      "types": "./dist/index.d.ts"
+    },
+    "./react": {
+      "import": "./dist/react/index.esm.js",
+      "require": "./dist/react/index.js",
+      "types": "./dist/react/index.d.ts"
+    },
+    "./vue": {
+      "import": "./dist/vue/index.esm.js",
+      "require": "./dist/vue/index.js",
+      "types": "./dist/vue/index.d.ts"
+    },
+    "./animated": {
+      "import": "./dist/animated/index.esm.js",
+      "require": "./dist/animated/index.js",
+      "types": "./dist/animated/index.d.ts"
+    }
+  },
+  "files": [
+    "dist",
+    "icons",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "dev": "vite",
+    "build": "npm run build:icons && npm run build:lib && npm run build:site",
+    "build:icons": "node scripts/build-icons.js",
+    "build:lib": "rollup -c",
+    "build:site": "vite build",
+    "preview": "vite preview",
+    "generate": "node scripts/generate-icons.js",
+    "optimize": "node scripts/optimize-svg.js",
+    "test": "vitest",
+    "lint": "eslint . --ext .js,.jsx,.ts,.tsx",
+    "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,css,md}\""
+  },
+  "devDependencies": {
+    "@rollup/plugin-node-resolve": "^15.2.3",
+    "@rollup/plugin-typescript": "^11.1.5",
+    "@types/node": "^20.10.0",
+    "@types/react": "^18.2.43",
+    "@types/react-dom": "^18.2.17",
+    "@vitejs/plugin-react": "^4.2.1",
+    "eslint": "^8.55.0",
+    "prettier": "^3.1.0",
+    "rollup": "^4.9.0",
+    "svgo": "^3.1.0",
+    "typescript": "^5.3.3",
+    "vite": "^5.0.8",
+    "vitest": "^1.0.4"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "vue": "^3.3.11"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mieneticg101/Rocky.git"
+  },
+  "author": "Rocky Icons Team",
+  "license": "MIT"
+}

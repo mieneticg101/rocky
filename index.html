@@ -1,0 +1,599 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Rocky Icons - Modern icon library with 5000+ icons. Static & Animated icons for web, apps, and platforms.">
+  <meta name="keywords" content="icons, svg icons, animated icons, react icons, vue icons, modern icons, 2025 design">
+  <title>Rocky Icons - 5000+ Modern Icons | Static & Animated</title>
+  <link rel="stylesheet" href="/src/styles/animations.css">
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    :root {
+      --primary: #6366F1;
+      --secondary: #8B5CF6;
+      --success: #10B981;
+      --warning: #F59E0B;
+      --error: #EF4444;
+      --info: #3B82F6;
+      --neutral: #64748B;
+      --bg-primary: #FFFFFF;
+      --bg-secondary: #F8FAFC;
+      --text-primary: #1E293B;
+      --text-secondary: #64748B;
+      --border: #E2E8F0;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg-primary: #0F172A;
+        --bg-secondary: #1E293B;
+        --text-primary: #F1F5F9;
+        --text-secondary: #94A3B8;
+        --border: #334155;
+      }
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+      background: var(--bg-primary);
+      color: var(--text-primary);
+      line-height: 1.6;
+    }
+
+    /* Header */
+    header {
+      background: var(--bg-secondary);
+      border-bottom: 1px solid var(--border);
+      padding: 2rem 1rem;
+      text-align: center;
+    }
+
+    .header-content {
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    h1 {
+      font-size: 3rem;
+      font-weight: 800;
+      background: linear-gradient(135deg, var(--primary), var(--secondary));
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      margin-bottom: 0.5rem;
+    }
+
+    .subtitle {
+      font-size: 1.25rem;
+      color: var(--text-secondary);
+      margin-bottom: 2rem;
+    }
+
+    .stats {
+      display: flex;
+      justify-content: center;
+      gap: 2rem;
+      flex-wrap: wrap;
+      margin-top: 1.5rem;
+    }
+
+    .stat-item {
+      text-align: center;
+    }
+
+    .stat-value {
+      font-size: 2rem;
+      font-weight: 700;
+      color: var(--primary);
+    }
+
+    .stat-label {
+      font-size: 0.875rem;
+      color: var(--text-secondary);
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+
+    /* Search */
+    .search-container {
+      max-width: 600px;
+      margin: 2rem auto;
+      padding: 0 1rem;
+    }
+
+    .search-box {
+      position: relative;
+    }
+
+    .search-input {
+      width: 100%;
+      padding: 1rem 1rem 1rem 3rem;
+      font-size: 1rem;
+      border: 2px solid var(--border);
+      border-radius: 12px;
+      background: var(--bg-secondary);
+      color: var(--text-primary);
+      transition: all 0.3s ease;
+    }
+
+    .search-input:focus {
+      outline: none;
+      border-color: var(--primary);
+      box-shadow: 0 0 0 4px rgba(99, 102, 241, 0.1);
+    }
+
+    .search-icon {
+      position: absolute;
+      left: 1rem;
+      top: 50%;
+      transform: translateY(-50%);
+      color: var(--text-secondary);
+      pointer-events: none;
+    }
+
+    /* Filters */
+    .filters {
+      max-width: 1200px;
+      margin: 2rem auto;
+      padding: 0 1rem;
+      display: flex;
+      gap: 1rem;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+
+    .filter-btn {
+      padding: 0.5rem 1rem;
+      border: 2px solid var(--border);
+      border-radius: 8px;
+      background: var(--bg-secondary);
+      color: var(--text-primary);
+      font-size: 0.875rem;
+      font-weight: 500;
+      cursor: pointer;
+      transition: all 0.2s ease;
+    }
+
+    .filter-btn:hover {
+      border-color: var(--primary);
+      color: var(--primary);
+    }
+
+    .filter-btn.active {
+      background: var(--primary);
+      border-color: var(--primary);
+      color: white;
+    }
+
+    /* Icon Grid */
+    .container {
+      max-width: 1400px;
+      margin: 0 auto;
+      padding: 2rem 1rem;
+    }
+
+    .section-title {
+      font-size: 1.5rem;
+      font-weight: 700;
+      margin-bottom: 1rem;
+      color: var(--text-primary);
+    }
+
+    .icon-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+      gap: 1rem;
+      margin-bottom: 3rem;
+    }
+
+    .icon-card {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 1.5rem;
+      border: 2px solid var(--border);
+      border-radius: 12px;
+      background: var(--bg-secondary);
+      cursor: pointer;
+      transition: all 0.3s ease;
+    }
+
+    .icon-card:hover {
+      border-color: var(--primary);
+      transform: translateY(-4px);
+      box-shadow: 0 8px 24px rgba(99, 102, 241, 0.2);
+    }
+
+    .icon-wrapper {
+      font-size: 32px;
+      margin-bottom: 0.75rem;
+      color: var(--text-primary);
+    }
+
+    .icon-name {
+      font-size: 0.75rem;
+      color: var(--text-secondary);
+      text-align: center;
+      word-break: break-word;
+    }
+
+    /* Features Section */
+    .features {
+      background: var(--bg-secondary);
+      padding: 4rem 1rem;
+      margin-top: 4rem;
+    }
+
+    .features-grid {
+      max-width: 1200px;
+      margin: 0 auto;
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 2rem;
+    }
+
+    .feature-card {
+      text-align: center;
+      padding: 2rem;
+    }
+
+    .feature-icon {
+      font-size: 48px;
+      margin-bottom: 1rem;
+    }
+
+    .feature-title {
+      font-size: 1.25rem;
+      font-weight: 600;
+      margin-bottom: 0.5rem;
+    }
+
+    .feature-desc {
+      color: var(--text-secondary);
+      font-size: 0.875rem;
+    }
+
+    /* Footer */
+    footer {
+      background: var(--bg-secondary);
+      border-top: 1px solid var(--border);
+      padding: 3rem 1rem;
+      text-align: center;
+      margin-top: 4rem;
+    }
+
+    .footer-content {
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    .footer-links {
+      display: flex;
+      justify-content: center;
+      gap: 2rem;
+      margin-bottom: 1.5rem;
+      flex-wrap: wrap;
+    }
+
+    .footer-link {
+      color: var(--text-secondary);
+      text-decoration: none;
+      transition: color 0.2s;
+    }
+
+    .footer-link:hover {
+      color: var(--primary);
+    }
+
+    .copyright {
+      color: var(--text-secondary);
+      font-size: 0.875rem;
+    }
+
+    /* Code Example */
+    .code-example {
+      background: #1E293B;
+      color: #F1F5F9;
+      padding: 1.5rem;
+      border-radius: 12px;
+      margin: 2rem 0;
+      overflow-x: auto;
+    }
+
+    .code-example code {
+      font-family: 'Courier New', monospace;
+      font-size: 0.875rem;
+      line-height: 1.6;
+    }
+
+    /* Badges */
+    .badges {
+      display: flex;
+      justify-content: center;
+      gap: 0.5rem;
+      flex-wrap: wrap;
+      margin: 1rem 0;
+    }
+
+    .badge {
+      display: inline-block;
+      padding: 0.25rem 0.75rem;
+      border-radius: 9999px;
+      font-size: 0.75rem;
+      font-weight: 600;
+      background: var(--bg-secondary);
+      color: var(--text-primary);
+      border: 1px solid var(--border);
+    }
+
+    @media (max-width: 768px) {
+      h1 {
+        font-size: 2rem;
+      }
+
+      .icon-grid {
+        grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+      }
+    }
+  </style>
+</head>
+<body>
+  <!-- Header -->
+  <header>
+    <div class="header-content">
+      <h1>🎨 Rocky Icons</h1>
+      <p class="subtitle">Modern Icon Library with 5,000+ Premium Icons</p>
+      <div class="badges">
+        <span class="badge">✨ 2025 Design Trends</span>
+        <span class="badge">⚡ Animated Icons</span>
+        <span class="badge">🎨 Gradient Styles</span>
+        <span class="badge">📦 Multiple Formats</span>
+      </div>
+      <div class="stats">
+        <div class="stat-item">
+          <div class="stat-value">5,000+</div>
+          <div class="stat-label">Total Icons</div>
+        </div>
+        <div class="stat-item">
+          <div class="stat-value">2,000+</div>
+          <div class="stat-label">Animated</div>
+        </div>
+        <div class="stat-item">
+          <div class="stat-value">20+</div>
+          <div class="stat-label">Categories</div>
+        </div>
+        <div class="stat-item">
+          <div class="stat-value">MIT</div>
+          <div class="stat-label">License</div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Search -->
+  <div class="search-container">
+    <div class="search-box">
+      <svg class="search-icon rocky-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+        <circle cx="11" cy="11" r="8"/>
+        <path d="m21 21-4.35-4.35"/>
+      </svg>
+      <input type="text" class="search-input" placeholder="Search icons... (e.g., home, user, heart)" id="searchInput">
+    </div>
+  </div>
+
+  <!-- Filters -->
+  <div class="filters">
+    <button class="filter-btn active" data-filter="all">All Icons</button>
+    <button class="filter-btn" data-filter="essential">Essential</button>
+    <button class="filter-btn" data-filter="business">Business</button>
+    <button class="filter-btn" data-filter="technology">Technology</button>
+    <button class="filter-btn" data-filter="social">Social</button>
+    <button class="filter-btn" data-filter="animated">Animated</button>
+    <button class="filter-btn" data-filter="gradient">Gradient</button>
+  </div>
+
+  <!-- Icon Showcase -->
+  <div class="container">
+    <!-- Essential Icons -->
+    <section id="essential">
+      <h2 class="section-title">Essential Icons</h2>
+      <div class="icon-grid">
+        <div class="icon-card" data-icon="home">
+          <div class="icon-wrapper rocky-icon-hover-lift">
+            <svg class="rocky-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+              <path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/>
+              <polyline points="9 22 9 12 15 12 15 22"/>
+            </svg>
+          </div>
+          <div class="icon-name">home</div>
+        </div>
+        <div class="icon-card" data-icon="search">
+          <div class="icon-wrapper rocky-icon-hover-scale">
+            <svg class="rocky-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+              <circle cx="11" cy="11" r="8"/>
+              <path d="m21 21-4.35-4.35"/>
+            </svg>
+          </div>
+          <div class="icon-name">search</div>
+        </div>
+        <div class="icon-card" data-icon="menu">
+          <div class="icon-wrapper rocky-icon-hover-rotate">
+            <svg class="rocky-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+              <line x1="4" y1="6" x2="20" y2="6"/>
+              <line x1="4" y1="12" x2="20" y2="12"/>
+              <line x1="4" y1="18" x2="20" y2="18"/>
+            </svg>
+          </div>
+          <div class="icon-name">menu</div>
+        </div>
+        <div class="icon-card" data-icon="user">
+          <div class="icon-wrapper rocky-icon-hover-bounce">
+            <svg class="rocky-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+              <path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/>
+              <circle cx="12" cy="7" r="4"/>
+            </svg>
+          </div>
+          <div class="icon-name">user</div>
+        </div>
+        <div class="icon-card" data-icon="settings">
+          <div class="icon-wrapper rocky-icon-hover-rotate-full">
+            <svg class="rocky-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+              <circle cx="12" cy="12" r="3"/>
+              <path d="M12 1v6m0 6v10M1 12h6m6 0h10"/>
+            </svg>
+          </div>
+          <div class="icon-name">settings</div>
+        </div>
+        <div class="icon-card" data-icon="bell">
+          <div class="icon-wrapper rocky-icon-hover-shake">
+            <svg class="rocky-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+              <path d="M18 8A6 6 0 0 0 6 8c0 7-3 9-3 9h18s-3-2-3-9"/>
+              <path d="M13.73 21a2 2 0 0 1-3.46 0"/>
+            </svg>
+          </div>
+          <div class="icon-name">bell</div>
+        </div>
+        <div class="icon-card" data-icon="heart">
+          <div class="icon-wrapper rocky-icon-hover-scale">
+            <svg class="rocky-icon rocky-icon-primary" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+              <path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/>
+            </svg>
+          </div>
+          <div class="icon-name">heart</div>
+        </div>
+        <div class="icon-card" data-icon="star">
+          <div class="icon-wrapper rocky-icon-hover-rotate">
+            <svg class="rocky-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+              <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/>
+            </svg>
+          </div>
+          <div class="icon-name">star</div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Animated Icons -->
+    <section id="animated">
+      <h2 class="section-title">⚡ Animated Icons</h2>
+      <div class="icon-grid">
+        <div class="icon-card" data-icon="loading">
+          <div class="icon-wrapper">
+            <svg class="rocky-icon rocky-icon-spin" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <circle cx="12" cy="12" r="10" opacity="0.25"/>
+              <path d="M12 2a10 10 0 0 1 10 10" opacity="1"/>
+            </svg>
+          </div>
+          <div class="icon-name">loading</div>
+        </div>
+        <div class="icon-card" data-icon="pulse-heart">
+          <div class="icon-wrapper">
+            <svg class="rocky-icon rocky-icon-pulse-infinite rocky-icon-error" viewBox="0 0 24 24" fill="currentColor">
+              <path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/>
+            </svg>
+          </div>
+          <div class="icon-name">pulse-heart</div>
+        </div>
+        <div class="icon-card" data-icon="sparkle-star">
+          <div class="icon-wrapper">
+            <svg class="rocky-icon rocky-icon-spin-slow" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+              <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/>
+            </svg>
+          </div>
+          <div class="icon-name">sparkle-star</div>
+        </div>
+        <div class="icon-card" data-icon="glow-bell">
+          <div class="icon-wrapper">
+            <svg class="rocky-icon rocky-icon-glow rocky-icon-warning" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+              <path d="M18 8A6 6 0 0 0 6 8c0 7-3 9-3 9h18s-3-2-3-9"/>
+              <path d="M13.73 21a2 2 0 0 1-3.46 0"/>
+            </svg>
+          </div>
+          <div class="icon-name">glow-bell</div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Usage Example -->
+    <section>
+      <h2 class="section-title">Quick Start</h2>
+      <div class="code-example">
+        <code>
+# Install<br>
+npm install @rocky-icons/library<br>
+<br>
+# React Usage<br>
+import { IconHome, IconSearch } from '@rocky-icons/library/react';<br>
+<br>
+function App() {<br>
+&nbsp;&nbsp;return (<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&lt;IconHome size={24} color="#6366F1" hover="lift" /&gt;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&lt;IconSearch size={24} loading="spin" /&gt;<br>
+&nbsp;&nbsp;);<br>
+}
+        </code>
+      </div>
+    </section>
+  </div>
+
+  <!-- Features -->
+  <section class="features">
+    <div class="features-grid">
+      <div class="feature-card">
+        <div class="feature-icon">✨</div>
+        <h3 class="feature-title">2025 Design Trends</h3>
+        <p class="feature-desc">Gradient, Glassmorphism, 3D effects, and modern design patterns</p>
+      </div>
+      <div class="feature-card">
+        <div class="feature-icon">⚡</div>
+        <h3 class="feature-title">Smooth Animations</h3>
+        <p class="feature-desc">2000+ animated icons with customizable animations</p>
+      </div>
+      <div class="feature-card">
+        <div class="feature-icon">🎨</div>
+        <h3 class="feature-title">Fully Customizable</h3>
+        <p class="feature-desc">Adjust size, color, stroke, and animations easily</p>
+      </div>
+      <div class="feature-card">
+        <div class="feature-icon">📦</div>
+        <h3 class="feature-title">Multiple Formats</h3>
+        <p class="feature-desc">SVG, PNG, React, Vue, Web Components</p>
+      </div>
+      <div class="feature-card">
+        <div class="feature-icon">🚀</div>
+        <h3 class="feature-title">Optimized</h3>
+        <p class="feature-desc">Lightweight and performance-focused</p>
+      </div>
+      <div class="feature-card">
+        <div class="feature-icon">♿</div>
+        <h3 class="feature-title">Accessible</h3>
+        <p class="feature-desc">WCAG 2.1 AA compliant and screen reader friendly</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <div class="footer-content">
+      <div class="footer-links">
+        <a href="#" class="footer-link">Documentation</a>
+        <a href="#" class="footer-link">GitHub</a>
+        <a href="#" class="footer-link">NPM</a>
+        <a href="#" class="footer-link">License</a>
+        <a href="#" class="footer-link">Support</a>
+      </div>
+      <p class="copyright">
+        © 2025 Rocky Icons. Made with ❤️ by Rocky Icons Team. Licensed under MIT.
+      </p>
+    </div>
+  </footer>
+
+  <script type="module" src="/src/main.js"></script>
+</body>
+</html>

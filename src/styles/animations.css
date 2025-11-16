@@ -1,0 +1,351 @@
+/* Rocky Icons - Animation System 2025 */
+
+:root {
+  /* Durations */
+  --ri-duration-instant: 100ms;
+  --ri-duration-fast: 200ms;
+  --ri-duration-normal: 300ms;
+  --ri-duration-slow: 500ms;
+  --ri-duration-slower: 800ms;
+
+  /* Easing Functions */
+  --ri-ease-linear: cubic-bezier(0, 0, 1, 1);
+  --ri-ease-in: cubic-bezier(0.4, 0, 1, 1);
+  --ri-ease-out: cubic-bezier(0, 0, 0.2, 1);
+  --ri-ease-in-out: cubic-bezier(0.4, 0, 0.2, 1);
+
+  /* 2025 Custom Easings */
+  --ri-ease-bounce: cubic-bezier(0.68, -0.55, 0.265, 1.55);
+  --ri-ease-elastic: cubic-bezier(0.68, -0.6, 0.32, 1.6);
+  --ri-ease-smooth: cubic-bezier(0.25, 0.46, 0.45, 0.94);
+}
+
+/* Respect user preferences */
+@media (prefers-reduced-motion: reduce) {
+  .rocky-icon,
+  .rocky-icon * {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* Base Icon Styles */
+.rocky-icon {
+  display: inline-block;
+  vertical-align: middle;
+  width: 1em;
+  height: 1em;
+  font-size: 24px;
+  line-height: 1;
+  color: currentColor;
+  flex-shrink: 0;
+}
+
+/* Hover Animations */
+.rocky-icon-hover-lift {
+  transition: transform var(--ri-duration-fast) var(--ri-ease-out);
+}
+.rocky-icon-hover-lift:hover {
+  transform: translateY(-2px);
+}
+
+.rocky-icon-hover-scale {
+  transition: transform var(--ri-duration-fast) var(--ri-ease-bounce);
+}
+.rocky-icon-hover-scale:hover {
+  transform: scale(1.15);
+}
+
+.rocky-icon-hover-rotate {
+  transition: transform var(--ri-duration-normal) var(--ri-ease-smooth);
+}
+.rocky-icon-hover-rotate:hover {
+  transform: rotate(15deg);
+}
+
+.rocky-icon-hover-rotate-full {
+  transition: transform var(--ri-duration-slow) var(--ri-ease-smooth);
+}
+.rocky-icon-hover-rotate-full:hover {
+  transform: rotate(360deg);
+}
+
+.rocky-icon-hover-bounce {
+  transition: transform var(--ri-duration-normal) var(--ri-ease-bounce);
+}
+.rocky-icon-hover-bounce:hover {
+  transform: scale(1.2);
+}
+
+.rocky-icon-hover-shake {
+  transition: transform var(--ri-duration-fast) var(--ri-ease-out);
+}
+.rocky-icon-hover-shake:hover {
+  animation: rocky-shake 0.5s ease-in-out;
+}
+
+/* Click Animations */
+.rocky-icon-click-pulse {
+  cursor: pointer;
+}
+.rocky-icon-click-pulse:active {
+  animation: rocky-pulse 0.6s ease-out;
+}
+
+.rocky-icon-click-bounce {
+  cursor: pointer;
+}
+.rocky-icon-click-bounce:active {
+  animation: rocky-bounce 0.8s var(--ri-ease-bounce);
+}
+
+.rocky-icon-click-rotate {
+  cursor: pointer;
+}
+.rocky-icon-click-rotate:active {
+  animation: rocky-rotate-once 0.5s var(--ri-ease-smooth);
+}
+
+/* Loading Animations */
+.rocky-icon-spin {
+  animation: rocky-spin 1s linear infinite;
+}
+
+.rocky-icon-spin-slow {
+  animation: rocky-spin 2s linear infinite;
+}
+
+.rocky-icon-spin-fast {
+  animation: rocky-spin 0.6s linear infinite;
+}
+
+.rocky-icon-pulse-infinite {
+  animation: rocky-pulse-infinite 2s ease-in-out infinite;
+}
+
+.rocky-icon-bounce-infinite {
+  animation: rocky-bounce-infinite 1s ease-in-out infinite;
+}
+
+.rocky-icon-fade-pulse {
+  animation: rocky-fade-pulse 2s ease-in-out infinite;
+}
+
+/* 2025 Advanced Animations */
+.rocky-icon-morph {
+  animation: rocky-morph 3s ease-in-out infinite;
+}
+
+.rocky-icon-glow {
+  filter: drop-shadow(0 0 8px currentColor);
+  animation: rocky-glow 2s ease-in-out infinite;
+}
+
+.rocky-icon-float {
+  animation: rocky-float 3s ease-in-out infinite;
+}
+
+.rocky-icon-swing {
+  transform-origin: center top;
+  animation: rocky-swing 1.5s ease-in-out infinite;
+}
+
+.rocky-icon-wiggle {
+  animation: rocky-wiggle 0.8s ease-in-out infinite;
+}
+
+.rocky-icon-flip {
+  animation: rocky-flip 2s ease-in-out infinite;
+}
+
+/* Keyframes */
+@keyframes rocky-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+@keyframes rocky-pulse {
+  0%, 100% { transform: scale(1); }
+  50% { transform: scale(1.2); }
+}
+
+@keyframes rocky-pulse-infinite {
+  0%, 100% {
+    opacity: 1;
+    transform: scale(1);
+  }
+  50% {
+    opacity: 0.7;
+    transform: scale(0.95);
+  }
+}
+
+@keyframes rocky-bounce {
+  0%, 100% { transform: translateY(0); }
+  25% { transform: translateY(-12px); }
+  50% { transform: translateY(-6px); }
+  75% { transform: translateY(-3px); }
+}
+
+@keyframes rocky-bounce-infinite {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-10px); }
+}
+
+@keyframes rocky-shake {
+  0%, 100% { transform: translateX(0); }
+  10%, 30%, 50%, 70%, 90% { transform: translateX(-4px); }
+  20%, 40%, 60%, 80% { transform: translateX(4px); }
+}
+
+@keyframes rocky-rotate-once {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+@keyframes rocky-fade-pulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.5; }
+}
+
+@keyframes rocky-float {
+  0%, 100% { transform: translateY(0px); }
+  50% { transform: translateY(-15px); }
+}
+
+@keyframes rocky-swing {
+  0%, 100% { transform: rotate(0deg); }
+  20% { transform: rotate(15deg); }
+  40% { transform: rotate(-10deg); }
+  60% { transform: rotate(5deg); }
+  80% { transform: rotate(-5deg); }
+}
+
+@keyframes rocky-wiggle {
+  0%, 100% { transform: rotate(0deg); }
+  25% { transform: rotate(5deg); }
+  75% { transform: rotate(-5deg); }
+}
+
+@keyframes rocky-flip {
+  0% { transform: perspective(400px) rotateY(0); }
+  100% { transform: perspective(400px) rotateY(360deg); }
+}
+
+@keyframes rocky-glow {
+  0%, 100% {
+    filter: drop-shadow(0 0 4px currentColor);
+  }
+  50% {
+    filter: drop-shadow(0 0 12px currentColor);
+  }
+}
+
+@keyframes rocky-morph {
+  0%, 100% { border-radius: 60% 40% 30% 70% / 60% 30% 70% 40%; }
+  50% { border-radius: 30% 60% 70% 40% / 50% 60% 30% 60%; }
+}
+
+/* Gradient Effects (2025 Trend) */
+.rocky-icon-gradient {
+  background: linear-gradient(135deg, #6366F1 0%, #8B5CF6 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.rocky-icon-gradient-animated {
+  background: linear-gradient(
+    270deg,
+    #6366F1,
+    #8B5CF6,
+    #EC4899,
+    #6366F1
+  );
+  background-size: 400% 400%;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  animation: rocky-gradient-shift 3s ease infinite;
+}
+
+@keyframes rocky-gradient-shift {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+/* Glassmorphism (2025 Trend) */
+.rocky-icon-glass {
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 12px;
+  padding: 8px;
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.15);
+}
+
+/* 3D Effect (2025 Trend) */
+.rocky-icon-3d {
+  filter: drop-shadow(2px 2px 0px rgba(0, 0, 0, 0.1))
+          drop-shadow(4px 4px 0px rgba(0, 0, 0, 0.08))
+          drop-shadow(8px 8px 0px rgba(0, 0, 0, 0.05));
+  transition: filter var(--ri-duration-normal) var(--ri-ease-out);
+}
+
+.rocky-icon-3d:hover {
+  filter: drop-shadow(1px 1px 0px rgba(0, 0, 0, 0.15))
+          drop-shadow(2px 2px 0px rgba(0, 0, 0, 0.12))
+          drop-shadow(4px 4px 0px rgba(0, 0, 0, 0.08));
+}
+
+/* Size Variants */
+.rocky-icon-xs { font-size: 12px; }
+.rocky-icon-sm { font-size: 16px; }
+.rocky-icon-md { font-size: 24px; }
+.rocky-icon-lg { font-size: 32px; }
+.rocky-icon-xl { font-size: 48px; }
+.rocky-icon-2xl { font-size: 64px; }
+.rocky-icon-3xl { font-size: 96px; }
+
+/* Color Variants */
+.rocky-icon-primary { color: #6366F1; }
+.rocky-icon-secondary { color: #8B5CF6; }
+.rocky-icon-success { color: #10B981; }
+.rocky-icon-warning { color: #F59E0B; }
+.rocky-icon-error { color: #EF4444; }
+.rocky-icon-info { color: #3B82F6; }
+.rocky-icon-neutral { color: #64748B; }
+
+/* Interactive States */
+.rocky-icon-interactive {
+  cursor: pointer;
+  transition: all var(--ri-duration-fast) var(--ri-ease-out);
+}
+
+.rocky-icon-interactive:hover {
+  opacity: 0.8;
+  transform: scale(1.05);
+}
+
+.rocky-icon-interactive:active {
+  transform: scale(0.95);
+}
+
+/* Accessibility */
+.rocky-icon[aria-hidden="true"] {
+  pointer-events: none;
+}
+
+.rocky-icon-sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border-width: 0;
+}
