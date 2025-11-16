@@ -4,13 +4,15 @@ import './IconCard.css'
 function IconCard({ icon, variant }) {
   const [copied, setCopied] = useState(false)
 
-  const handleCopy = async () => {
-    try {
-      // In production, load actual SVG content
-      const svgContent = `<svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor">
+  const getSvgContent = () => {
+    return icon.svg || `<svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor">
   <!-- ${icon.name} icon -->
 </svg>`
+  }
 
+  const handleCopy = async () => {
+    try {
+      const svgContent = getSvgContent()
       await navigator.clipboard.writeText(svgContent)
       setCopied(true)
       setTimeout(() => setCopied(false), 2000)
@@ -20,29 +22,20 @@ function IconCard({ icon, variant }) {
   }
 
   const handleDownload = () => {
-    // Create download link
-    const svgContent = `<svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor">
-  <!-- ${icon.name} icon -->
-</svg>`
-
+    const svgContent = getSvgContent()
     const blob = new Blob([svgContent], { type: 'image/svg+xml' })
     const url = URL.createObjectURL(blob)
     const a = document.createElement('a')
     a.href = url
-    a.download = `${icon.name}.svg`
+    a.download = `${variant === 'normal' ? '' : variant + '-'}${icon.name}.svg`
     a.click()
     URL.revokeObjectURL(url)
   }
 
   return (
     <div className="icon-card">
-      <div className="icon-preview">
-        {/* Preview placeholder - will be replaced with actual SVG */}
-        <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5">
-          <circle cx="12" cy="12" r="10"/>
-          <path d="M12 6v6l4 2"/>
-        </svg>
-      </div>
+      <div className="icon-preview" dangerouslySetInnerHTML={{ __html: getSvgContent() }} />
+
 
       <div className="icon-name">{icon.name}</div>
 

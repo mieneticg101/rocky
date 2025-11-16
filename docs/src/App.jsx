@@ -25,46 +25,15 @@ function App() {
 
   const loadIcons = async () => {
     try {
-      // In production, we'll load from a generated icons.json
-      // For now, create a sample dataset
-      const iconData = await generateIconData()
-      setIcons(iconData)
+      // Load from generated icons.json
+      const response = await fetch('/Rocky/icons.json')
+      const data = await response.json()
+      setIcons(data.icons || [])
     } catch (error) {
       console.error('Error loading icons:', error)
+      // Fallback to empty array
+      setIcons([])
     }
-  }
-
-  const generateIconData = async () => {
-    // This will be replaced with actual icon loading from the icons folder
-    const categories = [
-      'essential', 'arrow', 'business', 'technology', 'social',
-      'entertainment', 'dev', 'brand', 'thai'
-    ]
-
-    const sampleIcons = []
-    const iconNames = [
-      'github', 'twitter', 'facebook', 'instagram', 'linkedin',
-      'youtube', 'tiktok', 'discord', 'spotify', 'netflix',
-      'amazon', 'apple', 'google', 'microsoft', 'slack',
-      'figma', 'notion', 'zoom', 'teams', 'trello',
-      // ... more icons will be loaded from actual files
-    ]
-
-    iconNames.forEach((name, idx) => {
-      sampleIcons.push({
-        name,
-        category: categories[idx % categories.length],
-        path: `icons/${categories[idx % categories.length]}/${name}.svg`,
-        variants: {
-          normal: true,
-          gradient: true,
-          animated: idx % 3 === 0,
-          'animated-gradient': idx % 3 === 0
-        }
-      })
-    })
-
-    return sampleIcons
   }
 
   const filteredIcons = useMemo(() => {
