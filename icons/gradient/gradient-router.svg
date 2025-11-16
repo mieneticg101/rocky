@@ -1,0 +1,13 @@
+<svg viewBox="0 0 24 24" width="24" height="24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="router-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#06beb6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#48b1bf;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect x="2" y="13" width="20" height="9" rx="2"/>
+  <circle cx="7" cy="17" r="1"/>
+  <circle cx="11" cy="17" r="1"/>
+  <path d="M12 7V3"/>
+  <path d="M8 7a4 4 0 0 1 8 0"/>
+</svg>

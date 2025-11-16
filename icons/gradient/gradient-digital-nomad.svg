@@ -1,0 +1,14 @@
+<svg viewBox="0 0 24 24" width="24" height="24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="digital-nomad-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f46b45;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#eea849;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect x="2" y="4" width="20" height="12" rx="2" stroke="url(#digital-nomad-gradient)" stroke-width="1.5"/>
+  <line x1="2" y1="13" x2="22" y2="13" stroke="url(#digital-nomad-gradient)" stroke-width="1.5"/>
+  <circle cx="12" cy="9" r="2" stroke="url(#digital-nomad-gradient)" stroke-width="1.5"/>
+  <path d="M8 20h8" stroke="url(#digital-nomad-gradient)" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M12 16v4" stroke="url(#digital-nomad-gradient)" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M15 7l3-3m-3 0l3 3" stroke="url(#digital-nomad-gradient)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

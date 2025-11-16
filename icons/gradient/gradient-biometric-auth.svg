@@ -1,0 +1,13 @@
+<svg viewBox="0 0 24 24" width="24" height="24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="biometric-auth-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#06beb6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#48b1bf;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <circle cx="12" cy="12" r="9" stroke="url(#biometric-auth-gradient)" stroke-width="1.5"/>
+  <path d="M12 3v1m0 16v1M3 12h1m16 0h1" stroke="url(#biometric-auth-gradient)" stroke-width="1.5" stroke-linecap="round"/>
+  <circle cx="12" cy="12" r="4" stroke="url(#biometric-auth-gradient)" stroke-width="1.5"/>
+  <circle cx="12" cy="12" r="1.5" fill="currentColor"/>
+  <path d="M16.5 7.5l.7.7m-10.4 0l-.7.7m10.4 8.1l.7-.7m-10.4 0l-.7-.7" stroke="url(#biometric-auth-gradient)" stroke-width="1.5" stroke-linecap="round"/>
+</svg>

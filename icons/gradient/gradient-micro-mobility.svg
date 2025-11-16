@@ -1,0 +1,13 @@
+<svg viewBox="0 0 24 24" width="24" height="24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="micro-mobility-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f46b45;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#eea849;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <circle cx="6" cy="18" r="3" stroke="url(#micro-mobility-gradient)" stroke-width="1.5"/>
+  <circle cx="18" cy="18" r="3" stroke="url(#micro-mobility-gradient)" stroke-width="1.5"/>
+  <path d="M6 18h12M8 18l3-12h2l3 12" stroke="url(#micro-mobility-gradient)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M12 6h2a1 1 0 0 1 1 1v3" stroke="url(#micro-mobility-gradient)" stroke-width="1.5" stroke-linecap="round"/>
+  <circle cx="12" cy="5" r="2" stroke="url(#micro-mobility-gradient)" stroke-width="1.5"/>
+</svg>
