@@ -1,0 +1,15 @@
+<svg viewBox="0 0 24 24" width="24" height="24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="database-anim-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#10b981;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#059669;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <ellipse cx="12" cy="6" rx="8" ry="3" stroke="url(#database-anim-gradient)" stroke-width="1.5" fill="url(#database-anim-gradient)" opacity="0.2">
+    <animate attributeName="opacity" values="0.2;0.3;0.2" dur="3s" repeatCount="indefinite"/>
+  </ellipse>
+  <path d="M4 6v12c0 1.7 3.6 3 8 3s8-1.3 8-3V6" stroke="url(#database-anim-gradient)" stroke-width="1.5"/>
+  <path d="M4 12c0 1.7 3.6 3 8 3s8-1.3 8-3" stroke="url(#database-anim-gradient)" stroke-width="1.5">
+    <animate attributeName="stroke-dasharray" values="0 30;30 0" dur="3s" repeatCount="indefinite"/>
+  </path>
+</svg>

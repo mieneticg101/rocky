@@ -1,0 +1,18 @@
+<svg viewBox="0 0 24 24" width="24" height="24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bts-anim-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#00a651;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#00d35c;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect x="4" y="7" width="16" height="10" rx="2" stroke="url(#bts-anim-gradient)" stroke-width="1.5" fill="url(#bts-anim-gradient)" opacity="0.15">
+    <animateTransform attributeName="transform" type="translate" values="0 0;2 0;0 0" dur="3s" repeatCount="indefinite"/>
+  </rect>
+  <circle cx="8" cy="17" r="1.5" stroke="url(#bts-anim-gradient)" stroke-width="1.5">
+    <animateTransform attributeName="transform" type="rotate" values="0 8 17;360 8 17" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="16" cy="17" r="1.5" stroke="url(#bts-anim-gradient)" stroke-width="1.5">
+    <animateTransform attributeName="transform" type="rotate" values="0 16 17;360 16 17" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <path d="M7 12h10" stroke="url(#bts-anim-gradient)" stroke-width="1.5" stroke-linecap="round"/>
+</svg>
