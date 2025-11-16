@@ -1,0 +1,22 @@
+<svg viewBox="0 0 24 24" width="24" height="24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="voice-assistant-anim-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4facfe;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#00f2fe;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <path d="M12 1a3 3 0 0 0-3 3v8a3 3 0 0 0 6 0V4a3 3 0 0 0-3-3z" stroke="url(#voice-assistant-anim-gradient)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" fill="url(#voice-assistant-anim-gradient)" opacity="0.2">
+    <animate attributeName="opacity" values="0.2;0.3;0.2" dur="2s" repeatCount="indefinite"/>
+  </path>
+  <path d="M19 10v2a7 7 0 0 1-14 0v-2" stroke="url(#voice-assistant-anim-gradient)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+    <animate attributeName="stroke-dasharray" values="0 30;30 0" dur="2.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="2.5s" repeatCount="indefinite"/>
+  </path>
+  <line x1="12" y1="19" x2="12" y2="23" stroke="url(#voice-assistant-anim-gradient)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+    <animate attributeName="opacity" values="0.7;1;0.7" dur="1.5s" repeatCount="indefinite"/>
+  </line>
+  <path d="M8 4h8m-8 4h8m-8 4h8" stroke="url(#voice-assistant-anim-gradient)" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="1 2">
+    <animate attributeName="opacity" values="0.3;0.8;0.3" dur="1.5s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="scale" values="1 1;1.1 1.1;1 1" additive="sum" dur="1.5s" repeatCount="indefinite"/>
+  </path>
+</svg>

@@ -1,0 +1,16 @@
+<svg viewBox="0 0 24 24" width="24" height="24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="user-anim-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#667eea;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#764ba2;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2" stroke="url(#user-anim-gradient)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+    <animate attributeName="stroke-dasharray" values="0 30;30 0" dur="2.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="2.5s" repeatCount="indefinite"/>
+  </path>
+  <circle cx="12" cy="7" r="4" stroke="url(#user-anim-gradient)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" fill="url(#user-anim-gradient)" opacity="0.2">
+    <animate attributeName="opacity" values="0.2;0.3;0.2" dur="3s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="scale" values="1 1;1.05 1.05;1 1" additive="sum" dur="3s" repeatCount="indefinite"/>
+  </circle>
+</svg>
