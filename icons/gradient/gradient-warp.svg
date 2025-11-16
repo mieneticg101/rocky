@@ -1,0 +1,12 @@
+<svg viewBox="0 0 24 24" width="24" height="24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="warp-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#fc466b;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#3f5efb;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect x="3" y="4" width="18" height="16" rx="2" stroke="url(#warp-gradient)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" fill="url(#warp-gradient)" opacity="0.1"/>
+  <path d="M7 8h10" stroke="url(#warp-gradient)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" fill="url(#warp-gradient)" opacity="0.1"/>
+  <path d="M7 12h6" stroke="url(#warp-gradient)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" fill="url(#warp-gradient)" opacity="0.1"/>
+  <path d="M7 16h8" stroke="url(#warp-gradient)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" fill="url(#warp-gradient)" opacity="0.1"/>
+</svg>

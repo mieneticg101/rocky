@@ -1,0 +1,105 @@
+.icon-card {
+  background: var(--bg-secondary);
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 12px;
+  transition: all 0.3s ease;
+  cursor: pointer;
+  position: relative;
+  overflow: hidden;
+}
+
+.icon-card:hover {
+  transform: translateY(-4px);
+  box-shadow: var(--card-shadow-hover);
+  border-color: var(--accent);
+}
+
+.icon-card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 3px;
+  background: var(--gradient-1);
+  transform: scaleX(0);
+  transition: transform 0.3s ease;
+}
+
+.icon-card:hover::before {
+  transform: scaleX(1);
+}
+
+.icon-preview {
+  width: 64px;
+  height: 64px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--text-primary);
+  transition: transform 0.3s ease;
+}
+
+.icon-card:hover .icon-preview {
+  transform: scale(1.1);
+}
+
+.icon-name {
+  font-size: 13px;
+  font-weight: 500;
+  color: var(--text-secondary);
+  text-align: center;
+  word-break: break-word;
+}
+
+.icon-actions {
+  display: flex;
+  gap: 8px;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.icon-card:hover .icon-actions {
+  opacity: 1;
+}
+
+.action-btn {
+  background: var(--bg-primary);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 6px 10px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.action-btn:hover {
+  background: var(--accent);
+  border-color: var(--accent);
+  transform: scale(1.1);
+}
+
+@media (max-width: 768px) {
+  .icon-card {
+    padding: 16px;
+  }
+
+  .icon-preview {
+    width: 56px;
+    height: 56px;
+  }
+
+  .icon-actions {
+    opacity: 1;
+  }
+
+  .action-btn {
+    padding: 4px 8px;
+    font-size: 14px;
+  }
+}
