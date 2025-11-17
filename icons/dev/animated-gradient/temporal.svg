@@ -1,0 +1,23 @@
+<svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="url(#grad-temporal-anim)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad-temporal-anim" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#10b981;stop-opacity:1">
+        <animate attributeName="stop-color" values="#10b981;#06b6d4;#10b981" dur="3s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" style="stop-color:#06b6d4;stop-opacity:1">
+        <animate attributeName="stop-color" values="#06b6d4;#10b981;#06b6d4" dur="3s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+  <circle cx="12" cy="12" r="10">
+    <animate attributeName="stroke-dasharray" values="0 63;63 0" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <path d="M12 6v6l4 2">
+    <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite"/>
+  </path>
+  <g>
+    <path d="M16.5 3.5L19 2"/>
+    <path d="M19 6l1.5-2.5"/>
+    <animate attributeName="opacity" values="1;0.5;1" dur="1.5s" repeatCount="indefinite"/>
+  </g>
+</svg>
