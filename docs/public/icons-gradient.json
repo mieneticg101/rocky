@@ -1,16 +1,16 @@
 {
-  "generated": "2025-11-17T07:25:17.746Z",
+  "generated": "2025-11-17T07:29:47.188Z",
   "stats": {
-    "total": 1201,
+    "total": 1214,
     "variant": "gradient",
     "categories": {
       "thai": 40,
-      "technology": 283,
-      "business": 134,
-      "dev": 327,
+      "technology": 285,
+      "dev": 338,
+      "business": 135,
       "app": 11,
       "brand": 58,
-      "essential": 134,
+      "essential": 133,
       "entertainment": 59,
       "home": 28,
       "healthcare": 27,
@@ -45,6 +45,21 @@
         "abstract",
         "tech",
         "software"
+      ]
+    },
+    {
+      "name": "aceternity-ui",
+      "category": "dev",
+      "path": "icons/dev/gradient/aceternity-ui.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-aceternity-ui)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-aceternity-ui\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#10b981;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#06b6d4;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <path d=\"M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z\"/>\n</svg>",
+      "variant": "gradient",
+      "tags": [
+        "dev",
+        "aceternity",
+        "ui",
+        "development",
+        "code",
+        "tools"
       ]
     },
     {
@@ -763,15 +778,16 @@
     },
     {
       "name": "arctic",
-      "category": "technology",
-      "path": "icons/technology/ai/gradient/arctic.svg",
-      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-arctic)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-arctic\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#3b82f6;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#8b5cf6;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <path d=\"M12 2l2 4 4 2-4 2-2 4-2-4-4-2 4-2 2-4z\"/>\n  <path d=\"M6 14l1 2 2 1-2 1-1 2-1-2-2-1 2-1 1-2z\"/>\n  <path d=\"M18 14l1 2 2 1-2 1-1 2-1-2-2-1 2-1 1-2z\"/>\n  <circle cx=\"12\" cy=\"12\" r=\"1.5\"/>\n</svg>\n",
+      "category": "dev",
+      "path": "icons/dev/gradient/arctic.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-arctic)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-arctic\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#10b981;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#06b6d4;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <path d=\"M21 16V8a2 2 0 00-1-1.73l-7-4a2 2 0 00-2 0l-7 4A2 2 0 003 8v8a2 2 0 001 1.73l7 4a2 2 0 002 0l7-4A2 2 0 0021 16z\"/><circle cx=\"12\" cy=\"12\" r=\"4\"/>\n</svg>",
       "variant": "gradient",
       "tags": [
-        "technology",
+        "dev",
         "arctic",
-        "tech",
-        "software"
+        "development",
+        "code",
+        "tools"
       ]
     },
     {
@@ -945,7 +961,7 @@
       "name": "astro-db",
       "category": "technology",
       "path": "icons/technology/database/gradient/astro-db.svg",
-      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-astro-db)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-astro-db\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#3b82f6;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#06b6d4;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <path d=\"M12 2l-2 5-5 2 5 2 2 5 2-5 5-2-5-2-2-5z\"/><circle cx=\"12\" cy=\"12\" r=\"8\"/><path d=\"M12 4v16M4 12h16\"/>\n</svg>\n",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-astro-db)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-astro-db\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#3b82f6;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#06b6d4;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <path d=\"M12 2L2 7l10 5 10-5-10-5z\"/><path d=\"M2 17l10 5 10-5M2 12l10 5 10-5\"/><circle cx=\"12\" cy=\"12\" r=\"2\"/>\n</svg>",
       "variant": "gradient",
       "tags": [
         "technology",
@@ -1007,6 +1023,20 @@
         "atlassian",
         "logo",
         "company"
+      ]
+    },
+    {
+      "name": "authjs",
+      "category": "dev",
+      "path": "icons/dev/gradient/authjs.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-authjs)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-authjs\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#10b981;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#06b6d4;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <rect x=\"3\" y=\"11\" width=\"7\" height=\"12\" rx=\"1\"/><rect x=\"14\" y=\"3\" width=\"7\" height=\"12\" rx=\"1\"/><circle cx=\"6.5\" cy=\"17\" r=\"1\"/><circle cx=\"17.5\" cy=\"9\" r=\"1\"/>\n</svg>",
+      "variant": "gradient",
+      "tags": [
+        "dev",
+        "authjs",
+        "development",
+        "code",
+        "tools"
       ]
     },
     {
@@ -1439,7 +1469,7 @@
       "name": "better-auth",
       "category": "dev",
       "path": "icons/dev/gradient/better-auth.svg",
-      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-better-auth)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-better-auth\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#10b981;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#06b6d4;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <rect x=\"5\" y=\"11\" width=\"14\" height=\"10\" rx=\"2\"/><path d=\"M12 11V7a4 4 0 0 1 8 0v4\"/><circle cx=\"12\" cy=\"16\" r=\"1\"/><path d=\"M12 17v2\"/>\n</svg>\n",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-better-auth)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-better-auth\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#10b981;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#06b6d4;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <path d=\"M12 2L2 7v10c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V7l-10-5z\"/><path d=\"M12 8v8M8 12h8\"/>\n</svg>",
       "variant": "gradient",
       "tags": [
         "dev",
@@ -1674,7 +1704,7 @@
       "name": "bolt-new",
       "category": "dev",
       "path": "icons/dev/gradient/bolt-new.svg",
-      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-bolt-new)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-bolt-new\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#10b981;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#06b6d4;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <path d=\"M13 2L3 14h8l-1 8 10-12h-8l1-8z\"/>\n</svg>\n",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-bolt-new)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-bolt-new\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#10b981;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#06b6d4;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <path d=\"M13 2L3 14h9l-1 8 10-12h-9l1-8z\"/><path d=\"M12 14v4\"/>\n</svg>",
       "variant": "gradient",
       "tags": [
         "dev",
@@ -1973,6 +2003,21 @@
       "tags": [
         "dev",
         "bun",
+        "development",
+        "code",
+        "tools"
+      ]
+    },
+    {
+      "name": "bun-test",
+      "category": "dev",
+      "path": "icons/dev/gradient/bun-test.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-bun-test)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-bun-test\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#10b981;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#06b6d4;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <circle cx=\"12\" cy=\"12\" r=\"10\"/><path d=\"M9 12l2 2 4-4\"/><path d=\"M12 2v4M12 18v4\"/>\n</svg>",
+      "variant": "gradient",
+      "tags": [
+        "dev",
+        "bun",
+        "test",
         "development",
         "code",
         "tools"
@@ -2676,10 +2721,25 @@
       ]
     },
     {
+      "name": "claude-sonnet-4",
+      "category": "technology",
+      "path": "icons/technology/ai/gradient/claude-sonnet-4.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-claude-sonnet-4)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-claude-sonnet-4\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#3b82f6;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#8b5cf6;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\"/><path d=\"M9 9h6v6H9z\"/><path d=\"M12 3v6M12 15v6M3 12h6M15 12h6\"/>\n</svg>",
+      "variant": "gradient",
+      "tags": [
+        "technology",
+        "claude",
+        "sonnet",
+        "4",
+        "tech",
+        "software"
+      ]
+    },
+    {
       "name": "clerk",
       "category": "dev",
       "path": "icons/dev/gradient/clerk.svg",
-      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-clerk)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-clerk\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#f97316;stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:#eab308;stop-opacity:1\" />\n    </linearGradient>\n  </defs>\n  <rect x=\"3\" y=\"11\" width=\"18\" height=\"11\" rx=\"2\"/>\n  <path d=\"M7 11V7a5 5 0 0 1 10 0v4\"/>\n  <circle cx=\"12\" cy=\"16\" r=\"1\"/>\n</svg>\n",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-clerk)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-clerk\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#10b981;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#06b6d4;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <path d=\"M12 2L2 7v10c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V7l-10-5z\"/><path d=\"M9 12l2 2 4-4\"/>\n</svg>",
       "variant": "gradient",
       "tags": [
         "dev",
@@ -2874,7 +2934,7 @@
       "name": "cloudflare-d1",
       "category": "technology",
       "path": "icons/technology/database/gradient/cloudflare-d1.svg",
-      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-cloudflare-d1)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-cloudflare-d1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#3b82f6;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#06b6d4;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <ellipse cx=\"12\" cy=\"8\" rx=\"8\" ry=\"3\"/><path d=\"M4 8v8c0 1.66 3.6 3 8 3s8-1.34 8-3V8\"/><path d=\"M20 12c0 1.66-3.6 3-8 3s-8-1.34-8-3\"/><path d=\"M16 6l2 2-2 2\"/>\n</svg>\n",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-cloudflare-d1)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-cloudflare-d1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#3b82f6;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#06b6d4;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <path d=\"M12 2L2 7l10 5 10-5-10-5z\"/><path d=\"M2 17l10 5 10-5M2 12l10 5 10-5\"/><path d=\"M12 12v10\"/>\n</svg>",
       "variant": "gradient",
       "tags": [
         "technology",
@@ -3466,13 +3526,16 @@
     },
     {
       "name": "cursor",
-      "category": "essential",
-      "path": "icons/essential/ui-ux/gradient/cursor.svg",
-      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-cursor)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-cursor\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#3b82f6;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#8b5cf6;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <path d=\"m3 3 7.07 16.97 2.51-7.39 7.39-2.51L3 3z\"/>\n  <path d=\"m13 13 6 6\"/>\n</svg>\n",
+      "category": "dev",
+      "path": "icons/dev/gradient/cursor.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-cursor)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-cursor\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#10b981;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#06b6d4;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <path d=\"M3 3l7.07 16.97 2.51-7.39 7.39-2.51L3 3z\"/><path d=\"M13 13l8 8\"/>\n</svg>",
       "variant": "gradient",
       "tags": [
-        "essential",
-        "cursor"
+        "dev",
+        "cursor",
+        "development",
+        "code",
+        "tools"
       ]
     },
     {
@@ -3910,7 +3973,7 @@
       "name": "directus",
       "category": "dev",
       "path": "icons/dev/gradient/directus.svg",
-      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-directus)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-directus\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#10b981;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#06b6d4;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <circle cx=\"12\" cy=\"12\" r=\"10\"/><path d=\"M12 2v20\"/><path d=\"M2 12h20\"/><circle cx=\"12\" cy=\"8\" r=\"2\"/><circle cx=\"8\" cy=\"16\" r=\"1.5\"/><circle cx=\"16\" cy=\"16\" r=\"1.5\"/>\n</svg>\n",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-directus)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-directus\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#10b981;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#06b6d4;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <path d=\"M22 12l-9.5-9.5L3 12l9.5 9.5L22 12z\"/><circle cx=\"12\" cy=\"12\" r=\"4\"/>\n</svg>",
       "variant": "gradient",
       "tags": [
         "dev",
@@ -4095,6 +4158,21 @@
       "tags": [
         "dev",
         "drizzle",
+        "development",
+        "code",
+        "tools"
+      ]
+    },
+    {
+      "name": "drizzle-orm",
+      "category": "dev",
+      "path": "icons/dev/gradient/drizzle-orm.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-drizzle-orm)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-drizzle-orm\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#10b981;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#06b6d4;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <path d=\"M12 2v4M12 18v4M4.93 4.93l2.83 2.83M16.24 16.24l2.83 2.83M2 12h4M18 12h4M4.93 19.07l2.83-2.83M16.24 7.76l2.83-2.83\"/><circle cx=\"12\" cy=\"12\" r=\"3\"/>\n</svg>",
+      "variant": "gradient",
+      "tags": [
+        "dev",
+        "drizzle",
+        "orm",
         "development",
         "code",
         "tools"
@@ -4805,6 +4883,21 @@
       ]
     },
     {
+      "name": "figma-dev-mode",
+      "category": "business",
+      "path": "icons/business/gradient/figma-dev-mode.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-figma-dev-mode)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-figma-dev-mode\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#f59e0b;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#ef4444;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <rect x=\"3\" y=\"3\" width=\"7\" height=\"7\" rx=\"2\"/><rect x=\"14\" y=\"3\" width=\"7\" height=\"7\" rx=\"2\"/><rect x=\"14\" y=\"14\" width=\"7\" height=\"7\" rx=\"2\"/><rect x=\"3\" y=\"14\" width=\"7\" height=\"7\" rx=\"2\"/><path d=\"M10 6.5h4M10 17.5h4\"/>\n</svg>",
+      "variant": "gradient",
+      "tags": [
+        "business",
+        "figma",
+        "dev",
+        "mode",
+        "work",
+        "office"
+      ]
+    },
+    {
       "name": "file",
       "category": "business",
       "path": "icons/business/office/gradient/file.svg",
@@ -5047,7 +5140,7 @@
       "name": "fly-io",
       "category": "technology",
       "path": "icons/technology/cloud/gradient/fly-io.svg",
-      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-fly-io)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-fly-io\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#3b82f6;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#06b6d4;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <path d=\"M12 2l-8 6v8l8 6 8-6V8l-8-6z\"/>\n  <path d=\"M12 8v8\"/>\n  <path d=\"M8 10l4-2 4 2\"/>\n  <path d=\"M8 14l4 2 4-2\"/>\n  <circle cx=\"12\" cy=\"12\" r=\"2\"/>\n</svg>\n",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-fly-io)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-fly-io\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#3b82f6;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#06b6d4;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <path d=\"M22 12l-9.5-9.5L3 12l9.5 9.5L22 12z\"/><path d=\"M12 3v18M3 12h18\"/>\n</svg>",
       "variant": "gradient",
       "tags": [
         "technology",
@@ -5208,7 +5301,7 @@
       "name": "framer-motion",
       "category": "dev",
       "path": "icons/dev/gradient/framer-motion.svg",
-      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-framer-motion)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-framer-motion\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#10b981;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#06b6d4;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <path d=\"M12 2L2 8v6l10 6 10-6V8L12 2z\"/><path d=\"M12 8v14M2 8l10 6 10-6\"/><circle cx=\"12\" cy=\"8\" r=\"1.5\"/>\n</svg>\n",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-framer-motion)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-framer-motion\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#10b981;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#06b6d4;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\"/><path d=\"M3 3l18 18M3 21l9-9M21 3l-9 9\"/>\n</svg>",
       "variant": "gradient",
       "tags": [
         "dev",
@@ -5687,7 +5780,7 @@
       "name": "gpt-5",
       "category": "technology",
       "path": "icons/technology/ai/gradient/gpt-5.svg",
-      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-gpt-5)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-gpt-5\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#3b82f6;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#8b5cf6;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <circle cx=\"12\" cy=\"12\" r=\"10\"/>\n  <path d=\"M8 10h3a2 2 0 0 1 2 2v0a2 2 0 0 1-2 2H9v2\"/>\n  <path d=\"M14 10h3v2h-2v4\"/>\n  <circle cx=\"12\" cy=\"5\" r=\"1\"/>\n</svg>\n",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-gpt-5)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-gpt-5\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#3b82f6;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#8b5cf6;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <path d=\"M12 2l2.5 7.5h8l-6.5 5 2.5 7.5-6.5-5-6.5 5 2.5-7.5-6.5-5h8L12 2z\"/><circle cx=\"12\" cy=\"12\" r=\"3\"/>\n</svg>",
       "variant": "gradient",
       "tags": [
         "technology",
@@ -5820,7 +5913,7 @@
       "name": "grok",
       "category": "technology",
       "path": "icons/technology/ai/gradient/grok.svg",
-      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-grok)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-grok\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#3b82f6;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#8b5cf6;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <circle cx=\"12\" cy=\"12\" r=\"10\"/>\n  <path d=\"M8 12c0-2 1-4 4-4s4 2 4 4-1 4-4 4\"/>\n  <path d=\"M8 8l8 8\"/>\n</svg>\n",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-grok)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-grok\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#3b82f6;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#8b5cf6;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <circle cx=\"12\" cy=\"12\" r=\"10\"/><path d=\"M12 2v20M2 12h20\"/><path d=\"M9 9l6 6M15 9l-6 6\"/>\n</svg>",
       "variant": "gradient",
       "tags": [
         "technology",
@@ -5874,7 +5967,7 @@
       "name": "gsap",
       "category": "dev",
       "path": "icons/dev/gradient/gsap.svg",
-      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-gsap)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-gsap\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#10b981;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#06b6d4;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <path d=\"M2 12h20M12 2v20\"/><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M12 6l3 6-3 6-3-6 3-6z\"/>\n</svg>\n",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-gsap)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-gsap\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#10b981;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#06b6d4;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <path d=\"M3 12h4l3-9 4 18 3-9h4\"/><circle cx=\"12\" cy=\"12\" r=\"1\"/>\n</svg>",
       "variant": "gradient",
       "tags": [
         "dev",
@@ -6588,7 +6681,7 @@
       "name": "inngest",
       "category": "dev",
       "path": "icons/dev/gradient/inngest.svg",
-      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-inngest)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-inngest\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#10b981;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#06b6d4;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <rect x=\"3\" y=\"3\" width=\"7\" height=\"7\" rx=\"1\"/>\n  <rect x=\"14\" y=\"3\" width=\"7\" height=\"7\" rx=\"1\"/>\n  <rect x=\"14\" y=\"14\" width=\"7\" height=\"7\" rx=\"1\"/>\n  <path d=\"M10 6.5h4\"/>\n  <path d=\"M17.5 10v4\"/>\n</svg>\n",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-inngest)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-inngest\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#10b981;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#06b6d4;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <path d=\"M12 2v20M17 7l-5-5-5 5M7 17l5 5 5-5\"/><circle cx=\"12\" cy=\"12\" r=\"3\"/>\n</svg>",
       "variant": "gradient",
       "tags": [
         "dev",
@@ -6895,7 +6988,7 @@
       "name": "kinde",
       "category": "dev",
       "path": "icons/dev/gradient/kinde.svg",
-      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-kinde)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-kinde\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#10b981;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#06b6d4;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <circle cx=\"12\" cy=\"12\" r=\"10\"/><path d=\"M12 6v6l4 2\"/><circle cx=\"12\" cy=\"12\" r=\"2\"/><path d=\"M6 6l3 3M18 6l-3 3M6 18l3-3M18 18l-3-3\"/>\n</svg>\n",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-kinde)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-kinde\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#10b981;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#06b6d4;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <circle cx=\"12\" cy=\"12\" r=\"10\"/><path d=\"M12 2v20M2 12h20\"/><path d=\"M8 8l8 8M16 8l-8 8\"/>\n</svg>",
       "variant": "gradient",
       "tags": [
         "dev",
@@ -7715,7 +7808,7 @@
       "name": "lovable",
       "category": "dev",
       "path": "icons/dev/gradient/lovable.svg",
-      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-lovable)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-lovable\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#10b981;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#06b6d4;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <path d=\"M12 21c-4-4-8-7-8-11a6 6 0 0 1 12 0c0 4-4 7-8 11\"/>\n  <path d=\"M12 21c4-4 8-7 8-11a6 6 0 0 0-12 0c0 4 4 7 8 11\"/>\n  <circle cx=\"12\" cy=\"10\" r=\"3\"/>\n</svg>\n",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-lovable)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-lovable\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#10b981;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#06b6d4;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <path d=\"M20.84 4.61a5.5 5.5 0 00-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 00-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 000-7.78z\"/><path d=\"M12 8v8\"/><path d=\"M8 12h8\"/>\n</svg>",
       "variant": "gradient",
       "tags": [
         "dev",
@@ -7734,6 +7827,21 @@
       "tags": [
         "dev",
         "lucia",
+        "development",
+        "code",
+        "tools"
+      ]
+    },
+    {
+      "name": "lucia-auth",
+      "category": "dev",
+      "path": "icons/dev/gradient/lucia-auth.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-lucia-auth)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-lucia-auth\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#10b981;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#06b6d4;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <path d=\"M12 2L2 7v10c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V7l-10-5z\"/><circle cx=\"12\" cy=\"12\" r=\"3\"/>\n</svg>",
+      "variant": "gradient",
+      "tags": [
+        "dev",
+        "lucia",
+        "auth",
         "development",
         "code",
         "tools"
@@ -7788,6 +7896,21 @@
       "tags": [
         "dev",
         "luxon",
+        "development",
+        "code",
+        "tools"
+      ]
+    },
+    {
+      "name": "magic-ui",
+      "category": "dev",
+      "path": "icons/dev/gradient/magic-ui.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-magic-ui)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-magic-ui\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#10b981;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#06b6d4;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <path d=\"M12 2l2.5 7.5h8l-6.5 5 2.5 7.5-6.5-5-6.5 5 2.5-7.5-6.5-5h8L12 2z\"/><path d=\"M12 2v20\"/>\n</svg>",
+      "variant": "gradient",
+      "tags": [
+        "dev",
+        "magic",
+        "ui",
         "development",
         "code",
         "tools"
@@ -8634,6 +8757,20 @@
       ]
     },
     {
+      "name": "motion",
+      "category": "dev",
+      "path": "icons/dev/gradient/motion.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-motion)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-motion\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#10b981;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#06b6d4;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <path d=\"M12 2v20M2 12h20\"/><circle cx=\"12\" cy=\"12\" r=\"4\"/><path d=\"M12 8l4 4-4 4-4-4 4-4z\"/>\n</svg>",
+      "variant": "gradient",
+      "tags": [
+        "dev",
+        "motion",
+        "development",
+        "code",
+        "tools"
+      ]
+    },
+    {
       "name": "motion-one",
       "category": "dev",
       "path": "icons/dev/gradient/motion-one.svg",
@@ -8994,7 +9131,7 @@
       "name": "nextui",
       "category": "dev",
       "path": "icons/dev/gradient/nextui.svg",
-      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-nextui)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-nextui\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#10b981;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#06b6d4;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\"/><circle cx=\"12\" cy=\"12\" r=\"4\"/><path d=\"M12 2v4M12 18v4M2 12h4M18 12h4\"/>\n</svg>\n",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-nextui)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-nextui\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#10b981;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#06b6d4;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <path d=\"M12 2L2 22h20L12 2z\"/><path d=\"M12 8v8M8 12h8\"/>\n</svg>",
       "variant": "gradient",
       "tags": [
         "dev",
@@ -9068,6 +9205,19 @@
       "tags": [
         "technology",
         "nomic",
+        "tech",
+        "software"
+      ]
+    },
+    {
+      "name": "northflank",
+      "category": "technology",
+      "path": "icons/technology/cloud/gradient/northflank.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-northflank)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-northflank\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#3b82f6;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#06b6d4;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <path d=\"M12 2l10 6v8l-10 6-10-6V8l10-6z\"/><path d=\"M12 8v14M2 8l10 6 10-6\"/>\n</svg>",
+      "variant": "gradient",
+      "tags": [
+        "technology",
+        "northflank",
         "tech",
         "software"
       ]
@@ -9687,6 +9837,21 @@
       ]
     },
     {
+      "name": "payload-cms",
+      "category": "dev",
+      "path": "icons/dev/gradient/payload-cms.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-payload-cms)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-payload-cms\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#10b981;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#06b6d4;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\"/><path d=\"M8 8h8v8H8z\"/><path d=\"M12 8v8\"/>\n</svg>",
+      "variant": "gradient",
+      "tags": [
+        "dev",
+        "payload",
+        "cms",
+        "development",
+        "code",
+        "tools"
+      ]
+    },
+    {
       "name": "paypal",
       "category": "brand",
       "path": "icons/brand/gradient/paypal.svg",
@@ -10274,7 +10439,7 @@
       "name": "playwright",
       "category": "dev",
       "path": "icons/dev/gradient/playwright.svg",
-      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-playwright)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-playwright\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#10b981;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#06b6d4;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\"/><path d=\"M9 9l6 6\"/><path d=\"M15 9l-6 6\"/><circle cx=\"12\" cy=\"12\" r=\"2\"/><path d=\"M12 2v4\"/><path d=\"M12 18v4\"/><path d=\"M2 12h4\"/><path d=\"M18 12h4\"/>\n</svg>\n",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-playwright)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-playwright\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#10b981;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#06b6d4;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <path d=\"M2 16.1A5 5 0 015.9 20M2 12.05A9 9 0 019.95 20M2 8V6a2 2 0 012-2h16a2 2 0 012 2v12a2 2 0 01-2 2h-6\"/><line x1=\"2\" y1=\"20\" x2=\"2.01\" y2=\"20\"/>\n</svg>",
       "variant": "gradient",
       "tags": [
         "dev",
@@ -11349,7 +11514,7 @@
       "name": "replit-ai",
       "category": "dev",
       "path": "icons/dev/gradient/replit-ai.svg",
-      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-replit-ai)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-replit-ai\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#10b981;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#06b6d4;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\"/>\n  <path d=\"M3 12h18\"/>\n  <path d=\"M12 3v18\"/>\n  <circle cx=\"8\" cy=\"8\" r=\"2\"/>\n  <circle cx=\"16\" cy=\"16\" r=\"2\"/>\n</svg>\n",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-replit-ai)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-replit-ai\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#10b981;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#06b6d4;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\"/><path d=\"M8 8h8v8H8V8z\"/><path d=\"M12 8v8M8 12h8\"/>\n</svg>",
       "variant": "gradient",
       "tags": [
         "dev",
@@ -12025,6 +12190,21 @@
       "tags": [
         "essential",
         "settings"
+      ]
+    },
+    {
+      "name": "shad-cn",
+      "category": "dev",
+      "path": "icons/dev/gradient/shad-cn.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-shad-cn)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-shad-cn\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#10b981;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#06b6d4;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\"/><path d=\"M3 9h18M9 3v18\"/>\n</svg>",
+      "variant": "gradient",
+      "tags": [
+        "dev",
+        "shad",
+        "cn",
+        "development",
+        "code",
+        "tools"
       ]
     },
     {
@@ -12865,7 +13045,7 @@
       "name": "stackblitz",
       "category": "dev",
       "path": "icons/dev/gradient/stackblitz.svg",
-      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-stackblitz)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-stackblitz\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#10b981;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#06b6d4;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <path d=\"M12 2L2 7v10l10 5 10-5V7L12 2z\"/>\n  <path d=\"M2 7l10 5\"/>\n  <path d=\"M12 12v10\"/>\n  <path d=\"M22 7l-10 5\"/>\n  <circle cx=\"12\" cy=\"7\" r=\"2\"/>\n</svg>\n",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-stackblitz)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-stackblitz\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#10b981;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#06b6d4;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <path d=\"M13 2L3 14h9l-1 8 10-12h-9l1-8z\"/>\n</svg>",
       "variant": "gradient",
       "tags": [
         "dev",
@@ -13061,7 +13241,7 @@
       "name": "strapi",
       "category": "dev",
       "path": "icons/dev/gradient/strapi.svg",
-      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-strapi)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-strapi\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#10b981;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#06b6d4;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <rect x=\"3\" y=\"3\" width=\"8\" height=\"8\" rx=\"1\"/><rect x=\"13\" y=\"3\" width=\"8\" height=\"8\" rx=\"1\"/><rect x=\"3\" y=\"13\" width=\"8\" height=\"8\" rx=\"1\"/><rect x=\"13\" y=\"13\" width=\"8\" height=\"8\" rx=\"1\"/><path d=\"M7 11v2h10v-2\"/>\n</svg>\n",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-strapi)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-strapi\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#10b981;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#06b6d4;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <rect x=\"3\" y=\"3\" width=\"7\" height=\"7\"/><rect x=\"14\" y=\"3\" width=\"7\" height=\"7\"/><rect x=\"14\" y=\"14\" width=\"7\" height=\"7\"/>\n</svg>",
       "variant": "gradient",
       "tags": [
         "dev",
@@ -14225,7 +14405,7 @@
       "name": "trigger-dev",
       "category": "dev",
       "path": "icons/dev/gradient/trigger-dev.svg",
-      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-trigger-dev)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-trigger-dev\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#10b981;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#06b6d4;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <circle cx=\"12\" cy=\"12\" r=\"10\"/><path d=\"M9 9l6 3-6 3V9z\"/><circle cx=\"12\" cy=\"6\" r=\"1.5\"/><circle cx=\"12\" cy=\"18\" r=\"1.5\"/>\n</svg>\n",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-trigger-dev)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-trigger-dev\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#10b981;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#06b6d4;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <circle cx=\"12\" cy=\"12\" r=\"10\"/><path d=\"M12 8l4 4-4 4\"/><circle cx=\"8\" cy=\"12\" r=\"1\"/>\n</svg>",
       "variant": "gradient",
       "tags": [
         "dev",
@@ -14777,7 +14957,7 @@
       "name": "v0-vercel",
       "category": "dev",
       "path": "icons/dev/gradient/v0-vercel.svg",
-      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-v0-vercel)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-v0-vercel\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#10b981;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#06b6d4;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <path d=\"M12 2L2 22h20L12 2z\"/>\n  <circle cx=\"12\" cy=\"12\" r=\"3\"/>\n</svg>\n",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-v0-vercel)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-v0-vercel\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#10b981;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#06b6d4;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <path d=\"M12 2L2 22h20L12 2z\"/><circle cx=\"12\" cy=\"16\" r=\"2\"/>\n</svg>",
       "variant": "gradient",
       "tags": [
         "dev",
@@ -15063,7 +15243,7 @@
       "name": "vitest",
       "category": "dev",
       "path": "icons/dev/gradient/vitest.svg",
-      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-vitest)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-vitest\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#10b981;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#06b6d4;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <path d=\"M12 2l-2 5-5 2 5 2 2 5 2-5 5-2-5-2-2-5z\"/><path d=\"M8 16l2 2 4-4\"/><path d=\"M6 12l6 6\"/>\n</svg>\n",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-vitest)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-vitest\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#10b981;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#06b6d4;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <path d=\"M12 2L2 7v10c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V7l-10-5z\"/><path d=\"M9 12l2 2 4-4\"/>\n</svg>",
       "variant": "gradient",
       "tags": [
         "dev",
@@ -15449,7 +15629,7 @@
       "name": "windsurf",
       "category": "dev",
       "path": "icons/dev/gradient/windsurf.svg",
-      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-windsurf)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-windsurf\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#10b981;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#06b6d4;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <path d=\"M3 18l6-12 6 12-6-3-6 3z\"/>\n  <path d=\"M15 6l6 12\"/>\n  <path d=\"M12 2v4\"/>\n  <circle cx=\"12\" cy=\"6\" r=\"1\"/>\n</svg>\n",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-windsurf)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-windsurf\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#10b981;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#06b6d4;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <path d=\"M3 18l9-15 9 15H3z\"/><path d=\"M12 3v15\"/><path d=\"M6 12h12\"/>\n</svg>",
       "variant": "gradient",
       "tags": [
         "dev",
@@ -15722,6 +15902,19 @@
       ]
     },
     {
+      "name": "zeabur",
+      "category": "technology",
+      "path": "icons/technology/cloud/gradient/zeabur.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-zeabur)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-zeabur\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#3b82f6;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#06b6d4;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <path d=\"M3 3l18 18M3 21V3h18\"/><path d=\"M7 3l14 14\"/>\n</svg>",
+      "variant": "gradient",
+      "tags": [
+        "technology",
+        "zeabur",
+        "tech",
+        "software"
+      ]
+    },
+    {
       "name": "zed-editor",
       "category": "dev",
       "path": "icons/dev/gradient/zed-editor.svg",
@@ -15806,7 +15999,7 @@
       "name": "zod",
       "category": "dev",
       "path": "icons/dev/gradient/zod.svg",
-      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-zod\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#10b981;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#06b6d4;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"4\" stroke=\"url(#grad-zod)\" stroke-width=\"1.5\"/>\n  <path d=\"M8 9h6l-6 6h6\" stroke=\"url(#grad-zod)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n  <circle cx=\"16\" cy=\"12\" r=\"2\" stroke=\"url(#grad-zod)\" stroke-width=\"1.5\"/>\n</svg>\n",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-zod)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-zod\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#10b981;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#06b6d4;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <path d=\"M3 3l18 18M3 21V3h18\"/><path d=\"M21 3v18\"/>\n</svg>",
       "variant": "gradient",
       "tags": [
         "dev",

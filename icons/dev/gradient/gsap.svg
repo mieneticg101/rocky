@@ -5,5 +5,5 @@
       <stop offset="100%" style="stop-color:#06b6d4;stop-opacity:1"/>
     </linearGradient>
   </defs>
-  <path d="M2 12h20M12 2v20"/><circle cx="12" cy="12" r="9"/><path d="M12 6l3 6-3 6-3-6 3-6z"/>
+  <path d="M3 12h4l3-9 4 18 3-9h4"/><circle cx="12" cy="12" r="1"/>
 </svg>

@@ -5,8 +5,5 @@
       <stop offset="100%" style="stop-color:#06b6d4;stop-opacity:1"/>
     </linearGradient>
   </defs>
-  <path d="M3 18l6-12 6 12-6-3-6 3z"/>
-  <path d="M15 6l6 12"/>
-  <path d="M12 2v4"/>
-  <circle cx="12" cy="6" r="1"/>
+  <path d="M3 18l9-15 9 15H3z"/><path d="M12 3v15"/><path d="M6 12h12"/>
 </svg>
