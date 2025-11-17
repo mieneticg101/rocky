@@ -5,8 +5,5 @@
       <stop offset="100%" style="stop-color:#06b6d4;stop-opacity:1"/>
     </linearGradient>
   </defs>
-  <rect x="4" y="4" width="16" height="16" rx="2"/>
-  <path d="M4 10h16"/>
-  <path d="M10 4v16"/>
-  <path d="M14 10v10"/>
+  <rect x="3" y="3" width="7" height="7" rx="1"/><rect x="14" y="3" width="7" height="7" rx="1"/><rect x="3" y="14" width="7" height="7" rx="1"/><rect x="14" y="14" width="7" height="7" rx="1"/>
 </svg>
