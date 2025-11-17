@@ -1,0 +1,11 @@
+<svg viewBox="0 0 24 24" width="24" height="24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad-binoculars-view" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#000000;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#3f3f46;stop-opacity:1"/>
+    </linearGradient>
+  </defs>
+  <g stroke="url(#grad-binoculars-view)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <circle cx="7" cy="14" r="4"/><circle cx="17" cy="14" r="4"/><path d="M7 10h10M11 14h2"/><path d="M7 10l-2-6M17 10l2-6"/>
+  </g>
+</svg>

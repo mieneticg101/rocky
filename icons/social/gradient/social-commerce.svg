@@ -2,7 +2,7 @@
   <defs>
     <linearGradient id="grad-social-commerce" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" style="stop-color:#ec4899;stop-opacity:1"/>
-      <stop offset="100%" style="stop-color:#f59e0b;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#a855f7;stop-opacity:1"/>
     </linearGradient>
   </defs>
   <path d="M9 2L6 6v14a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2V6l-3-4H9z" stroke="url(#grad-social-commerce)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>

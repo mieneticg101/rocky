@@ -1,9 +1,0 @@
-<svg viewBox="0 0 24 24" width="24" height="24" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <path d="M7 20l5-15 3 5-3 10-5-5z" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round" fill="currentColor" opacity="0.1">
-    <animate attributeName="opacity" values="0.1;0.3;0.1" dur="3s" repeatCount="indefinite"/>
-  </path>
-  <path d="M12 5l5 10-5 5" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round"/>
-  <circle cx="12" cy="12" r="1.5" fill="currentColor">
-    <animate attributeName="r" values="1.5;2;1.5" dur="2s" repeatCount="indefinite"/>
-  </circle>
-</svg>

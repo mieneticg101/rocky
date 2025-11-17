@@ -1,8 +1,8 @@
 <svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="url(#grad-thumbs-down)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="grad-thumbs-down" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#ec4899;stop-opacity:1"/>
-      <stop offset="100%" style="stop-color:#f59e0b;stop-opacity:1"/>
+      <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#8b5cf6;stop-opacity:1"/>
     </linearGradient>
   </defs>
   <path d="M10 15v4a3 3 0 0 0 3 3l4-9V2H5.72a2 2 0 0 0-2 1.7l-1.38 9a2 2 0 0 0 2 2.3zm7-13h2.67A2.31 2.31 0 0 1 22 4v7a2.31 2.31 0 0 1-2.33 2H17"/>

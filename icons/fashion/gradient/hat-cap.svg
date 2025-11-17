@@ -1,0 +1,11 @@
+<svg viewBox="0 0 24 24" width="24" height="24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad-hat-cap" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1f2937;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#111827;stop-opacity:1"/>
+    </linearGradient>
+  </defs>
+  <g stroke="url(#grad-hat-cap)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <path d="M4 15s1-1 4-1 5 2 8 2 4-1 4-1"/><path d="M3 12l9-8 9 8"/><path d="M4 15c0 3 2 6 8 6s8-3 8-6"/>
+  </g>
+</svg>

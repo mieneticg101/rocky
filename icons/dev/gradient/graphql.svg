@@ -1,16 +1,11 @@
 <svg viewBox="0 0 24 24" width="24" height="24" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="grad-graphql" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#10b981;stop-opacity:1"/>
-      <stop offset="100%" style="stop-color:#06b6d4;stop-opacity:1"/>
+      <stop offset="0%" style="stop-color:#ec4899;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#f97316;stop-opacity:1"/>
     </linearGradient>
   </defs>
-  <path d="M5 8l7-4 7 4v8l-7 4-7-4V8z" stroke="url(#grad-graphql)" stroke-width="1.5" stroke-linejoin="round"/>
-  <circle cx="12" cy="12" r="2" fill="url(#grad-graphql)"/>
-  <circle cx="5" cy="8" r="1.5" fill="url(#grad-graphql)"/>
-  <circle cx="19" cy="8" r="1.5" fill="url(#grad-graphql)"/>
-  <circle cx="5" cy="16" r="1.5" fill="url(#grad-graphql)"/>
-  <circle cx="19" cy="16" r="1.5" fill="url(#grad-graphql)"/>
-  <circle cx="12" cy="4" r="1.5" fill="url(#grad-graphql)"/>
-  <circle cx="12" cy="20" r="1.5" fill="url(#grad-graphql)"/>
+  <g stroke="url(#grad-graphql)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <path d="M12 2l10 6v8l-10 6-10-6V8l10-6z"/><circle cx="12" cy="2" r="1.5" fill="currentColor"/><circle cx="22" cy="8" r="1.5" fill="currentColor"/><circle cx="22" cy="16" r="1.5" fill="currentColor"/><circle cx="12" cy="22" r="1.5" fill="currentColor"/><circle cx="2" cy="16" r="1.5" fill="currentColor"/><circle cx="2" cy="8" r="1.5" fill="currentColor"/>
+  </g>
 </svg>

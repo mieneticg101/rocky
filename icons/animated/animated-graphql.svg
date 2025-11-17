@@ -1,8 +1,0 @@
-<svg viewBox="0 0 24 24" width="24" height="24" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <path d="M12 3l9 6v6l-9 6-9-6V9l9-6z" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round">
-    <animateTransform attributeName="transform" type="rotate" values="0 12 12;360 12 12" dur="8s" repeatCount="indefinite"/>
-  </path>
-  <path d="M12 3v18M3 9h18M3 15h18" stroke="currentColor" stroke-width="1.5" stroke-linecap="round">
-    <animate attributeName="opacity" values="0.3;1;0.3" dur="2s" repeatCount="indefinite"/>
-  </path>
-</svg>
