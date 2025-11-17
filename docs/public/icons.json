@@ -1,5 +1,5 @@
 {
-  "generated": "2025-11-17T07:38:26.516Z",
+  "generated": "2025-11-17T07:43:16.621Z",
   "stats": {
     "total": 1214,
     "variant": "normal",
@@ -961,7 +961,7 @@
       "name": "astro-db",
       "category": "technology",
       "path": "icons/technology/database/astro-db.svg",
-      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M12 2L2 7l10 5 10-5-10-5z\"/><path d=\"M2 17l10 5 10-5M2 12l10 5 10-5\"/><circle cx=\"12\" cy=\"12\" r=\"2\"/>\n</svg>",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M12 2L2 7l10 5 10-5-10-5z\"/><path d=\"M2 17l10 5 10-5M2 12l10 5 10-5\"/><path d=\"M12 2l3 7h7l-5.5 4 2 6-6.5-5-6.5 5 2-6L3 9h7l2-7z\" stroke-width=\"1\"/>\n</svg>",
       "variant": "normal",
       "tags": [
         "technology",
@@ -1469,7 +1469,7 @@
       "name": "better-auth",
       "category": "dev",
       "path": "icons/dev/better-auth.svg",
-      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M12 2L2 7v10c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V7l-10-5z\"/><path d=\"M12 8v8M8 12h8\"/>\n</svg>",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M12 2L2 7v10c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V7l-10-5z\"/><path d=\"M9 12l2 2 4-4\"/><circle cx=\"12\" cy=\"12\" r=\"1\"/>\n</svg>",
       "variant": "normal",
       "tags": [
         "dev",
@@ -1704,7 +1704,7 @@
       "name": "bolt-new",
       "category": "dev",
       "path": "icons/dev/bolt-new.svg",
-      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M13 2L3 14h9l-1 8 10-12h-9l1-8z\"/><path d=\"M12 14v4\"/>\n</svg>",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M13 2L3 14h9l-1 8 10-12h-9l1-8z\"/><circle cx=\"12\" cy=\"14\" r=\"1.5\"/>\n</svg>",
       "variant": "normal",
       "tags": [
         "dev",
@@ -2739,7 +2739,7 @@
       "name": "clerk",
       "category": "dev",
       "path": "icons/dev/clerk.svg",
-      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M12 2L2 7v10c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V7l-10-5z\"/><path d=\"M9 12l2 2 4-4\"/>\n</svg>",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M12 2L2 7v10c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V7l-10-5z\"/><circle cx=\"9\" cy=\"11\" r=\"1\"/><circle cx=\"15\" cy=\"11\" r=\"1\"/><path d=\"M9 15c0 .5.5 1 1 1h4c.5 0 1-.5 1-1\"/>\n</svg>",
       "variant": "normal",
       "tags": [
         "dev",
@@ -2934,7 +2934,7 @@
       "name": "cloudflare-d1",
       "category": "technology",
       "path": "icons/technology/database/cloudflare-d1.svg",
-      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M12 2L2 7l10 5 10-5-10-5z\"/><path d=\"M2 17l10 5 10-5M2 12l10 5 10-5\"/><path d=\"M12 12v10\"/>\n</svg>",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M12 2L2 7l10 5 10-5-10-5z\"/><path d=\"M2 17l10 5 10-5M2 12l10 5 10-5\"/><path d=\"M8 12l4-2 4 2\"/>\n</svg>",
       "variant": "normal",
       "tags": [
         "technology",
@@ -3973,7 +3973,7 @@
       "name": "directus",
       "category": "dev",
       "path": "icons/dev/directus.svg",
-      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M22 12l-9.5-9.5L3 12l9.5 9.5L22 12z\"/><circle cx=\"12\" cy=\"12\" r=\"4\"/>\n</svg>",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M22 12l-9.5-9.5L3 12l9.5 9.5L22 12z\"/><path d=\"M12 6v12M6 12h12\"/>\n</svg>",
       "variant": "normal",
       "tags": [
         "dev",
@@ -5140,7 +5140,7 @@
       "name": "fly-io",
       "category": "technology",
       "path": "icons/technology/cloud/fly-io.svg",
-      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M22 12l-9.5-9.5L3 12l9.5 9.5L22 12z\"/><path d=\"M12 3v18M3 12h18\"/>\n</svg>",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M12 2l10 10-10 10L2 12 12 2z\"/><path d=\"M8 12l4-4 4 4-4 4-4-4z\"/><path d=\"M12 2v4M12 18v4M2 12h4M18 12h4\"/>\n</svg>",
       "variant": "normal",
       "tags": [
         "technology",
@@ -5301,7 +5301,7 @@
       "name": "framer-motion",
       "category": "dev",
       "path": "icons/dev/framer-motion.svg",
-      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\"/><path d=\"M3 3l18 18M3 21l9-9M21 3l-9 9\"/>\n</svg>",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\"/><path d=\"M3 9h18M12 3v18\"/><path d=\"M7 14l5 5 5-5\"/>\n</svg>",
       "variant": "normal",
       "tags": [
         "dev",
@@ -5780,7 +5780,7 @@
       "name": "gpt-5",
       "category": "technology",
       "path": "icons/technology/ai/gpt-5.svg",
-      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M12 2l2.5 7.5h8l-6.5 5 2.5 7.5-6.5-5-6.5 5 2.5-7.5-6.5-5h8L12 2z\"/><circle cx=\"12\" cy=\"12\" r=\"3\"/>\n</svg>",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <circle cx=\"12\" cy=\"12\" r=\"10\"/><path d=\"M12 2l2.5 7h7l-5.5 4.5 2 7-6-4.5-6 4.5 2-7L3 9h7l2.5-7z\"/>\n</svg>",
       "variant": "normal",
       "tags": [
         "technology",
@@ -5913,7 +5913,7 @@
       "name": "grok",
       "category": "technology",
       "path": "icons/technology/ai/grok.svg",
-      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <circle cx=\"12\" cy=\"12\" r=\"10\"/><path d=\"M12 2v20M2 12h20\"/><path d=\"M9 9l6 6M15 9l-6 6\"/>\n</svg>",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <circle cx=\"12\" cy=\"12\" r=\"10\"/><path d=\"M8 10h2M14 10h2\"/><path d=\"M8 14c0 .5.5 1 1 1h6c.5 0 1-.5 1-1\"/><path d=\"M12 2v4M4 12h4M16 12h4M12 18v4\"/>\n</svg>",
       "variant": "normal",
       "tags": [
         "technology",
@@ -5967,7 +5967,7 @@
       "name": "gsap",
       "category": "dev",
       "path": "icons/dev/gsap.svg",
-      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M3 12h4l3-9 4 18 3-9h4\"/><circle cx=\"12\" cy=\"12\" r=\"1\"/>\n</svg>",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M3 12h4l3-9 4 18 3-9h4\"/><path d=\"M12 2v20\"/><circle cx=\"12\" cy=\"12\" r=\"2\"/>\n</svg>",
       "variant": "normal",
       "tags": [
         "dev",
@@ -6681,7 +6681,7 @@
       "name": "inngest",
       "category": "dev",
       "path": "icons/dev/inngest.svg",
-      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M12 2v20M17 7l-5-5-5 5M7 17l5 5 5-5\"/><circle cx=\"12\" cy=\"12\" r=\"3\"/>\n</svg>",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <circle cx=\"12\" cy=\"12\" r=\"10\"/><path d=\"M12 2v20\"/><path d=\"M17 7l-5-5-5 5M7 17l5 5 5-5\"/>\n</svg>",
       "variant": "normal",
       "tags": [
         "dev",
@@ -6988,7 +6988,7 @@
       "name": "kinde",
       "category": "dev",
       "path": "icons/dev/kinde.svg",
-      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <circle cx=\"12\" cy=\"12\" r=\"10\"/><path d=\"M12 2v20M2 12h20\"/><path d=\"M8 8l8 8M16 8l-8 8\"/>\n</svg>",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <circle cx=\"12\" cy=\"12\" r=\"10\"/><path d=\"M8 8l8 8M16 8l-8 8M12 6v12M6 12h12\"/>\n</svg>",
       "variant": "normal",
       "tags": [
         "dev",
@@ -7808,7 +7808,7 @@
       "name": "lovable",
       "category": "dev",
       "path": "icons/dev/lovable.svg",
-      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M20.84 4.61a5.5 5.5 0 00-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 00-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 000-7.78z\"/><path d=\"M12 8v8\"/><path d=\"M8 12h8\"/>\n</svg>",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M20.84 4.61a5.5 5.5 0 00-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 00-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 000-7.78z\"/><circle cx=\"12\" cy=\"12\" r=\"2\"/>\n</svg>",
       "variant": "normal",
       "tags": [
         "dev",
@@ -9131,7 +9131,7 @@
       "name": "nextui",
       "category": "dev",
       "path": "icons/dev/nextui.svg",
-      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M12 2L2 22h20L12 2z\"/><path d=\"M12 8v8M8 12h8\"/>\n</svg>",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M12 2L2 22h20L12 2z\"/><circle cx=\"12\" cy=\"16\" r=\"3\"/><path d=\"M12 8v5\"/>\n</svg>",
       "variant": "normal",
       "tags": [
         "dev",
@@ -10439,7 +10439,7 @@
       "name": "playwright",
       "category": "dev",
       "path": "icons/dev/playwright.svg",
-      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M2 16.1A5 5 0 015.9 20M2 12.05A9 9 0 019.95 20M2 8V6a2 2 0 012-2h16a2 2 0 012 2v12a2 2 0 01-2 2h-6\"/><line x1=\"2\" y1=\"20\" x2=\"2.01\" y2=\"20\"/>\n</svg>",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\"/><path d=\"M8 8l8 8M16 8l-8 8\"/><path d=\"M12 8v8M8 12h8\"/>\n</svg>",
       "variant": "normal",
       "tags": [
         "dev",
@@ -11514,7 +11514,7 @@
       "name": "replit-ai",
       "category": "dev",
       "path": "icons/dev/replit-ai.svg",
-      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\"/><path d=\"M8 8h8v8H8V8z\"/><path d=\"M12 8v8M8 12h8\"/>\n</svg>",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\"/><path d=\"M9 9l6 3-6 3V9z\"/><circle cx=\"15\" cy=\"9\" r=\"1\"/>\n</svg>",
       "variant": "normal",
       "tags": [
         "dev",
@@ -13045,7 +13045,7 @@
       "name": "stackblitz",
       "category": "dev",
       "path": "icons/dev/stackblitz.svg",
-      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M13 2L3 14h9l-1 8 10-12h-9l1-8z\"/>\n</svg>",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M13 2L3 14h9l-1 8 10-12h-9l1-8z\"/><path d=\"M12 14l3-3M9 11l3-3\"/>\n</svg>",
       "variant": "normal",
       "tags": [
         "dev",
@@ -13241,7 +13241,7 @@
       "name": "strapi",
       "category": "dev",
       "path": "icons/dev/strapi.svg",
-      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <rect x=\"3\" y=\"3\" width=\"7\" height=\"7\"/><rect x=\"14\" y=\"3\" width=\"7\" height=\"7\"/><rect x=\"14\" y=\"14\" width=\"7\" height=\"7\"/>\n</svg>",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <rect x=\"3\" y=\"3\" width=\"7\" height=\"7\" rx=\"1\"/><rect x=\"14\" y=\"3\" width=\"7\" height=\"7\" rx=\"1\"/><rect x=\"14\" y=\"14\" width=\"7\" height=\"7\" rx=\"1\"/><rect x=\"3\" y=\"14\" width=\"7\" height=\"7\" rx=\"1\"/>\n</svg>",
       "variant": "normal",
       "tags": [
         "dev",
@@ -14405,7 +14405,7 @@
       "name": "trigger-dev",
       "category": "dev",
       "path": "icons/dev/trigger-dev.svg",
-      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <circle cx=\"12\" cy=\"12\" r=\"10\"/><path d=\"M12 8l4 4-4 4\"/><circle cx=\"8\" cy=\"12\" r=\"1\"/>\n</svg>",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <circle cx=\"12\" cy=\"12\" r=\"10\"/><path d=\"M12 8l4 4-4 4\"/><path d=\"M8 12h8\"/>\n</svg>",
       "variant": "normal",
       "tags": [
         "dev",
@@ -14957,7 +14957,7 @@
       "name": "v0-vercel",
       "category": "dev",
       "path": "icons/dev/v0-vercel.svg",
-      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M12 2L2 22h20L12 2z\"/><circle cx=\"12\" cy=\"16\" r=\"2\"/>\n</svg>",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M12 2L2 22h20L12 2z\"/><path d=\"M12 8v8M8 14h8\"/>\n</svg>",
       "variant": "normal",
       "tags": [
         "dev",
@@ -15243,7 +15243,7 @@
       "name": "vitest",
       "category": "dev",
       "path": "icons/dev/vitest.svg",
-      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M12 2L2 7v10c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V7l-10-5z\"/><path d=\"M9 12l2 2 4-4\"/>\n</svg>",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M12 2L2 7v10c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V7l-10-5z\"/><path d=\"M9 12l2 2 4-4\"/><path d=\"M12 2v10\"/>\n</svg>",
       "variant": "normal",
       "tags": [
         "dev",
@@ -15629,7 +15629,7 @@
       "name": "windsurf",
       "category": "dev",
       "path": "icons/dev/windsurf.svg",
-      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M3 18l9-15 9 15H3z\"/><path d=\"M12 3v15\"/><path d=\"M6 12h12\"/>\n</svg>",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M3 20l6-16 2 6 6 2-14 8z\"/><path d=\"M9 10l8 8\"/><path d=\"M12 3v6M20 12h-6\"/>\n</svg>",
       "variant": "normal",
       "tags": [
         "dev",
@@ -15999,7 +15999,7 @@
       "name": "zod",
       "category": "dev",
       "path": "icons/dev/zod.svg",
-      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M3 3l18 18M3 21V3h18\"/><path d=\"M21 3v18\"/>\n</svg>",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M3 3l18 18M3 21V3h18\"/><circle cx=\"12\" cy=\"12\" r=\"3\"/>\n</svg>",
       "variant": "normal",
       "tags": [
         "dev",
