@@ -1,13 +1,11 @@
-<svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="url(#grad-postman)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 24 24" width="24" height="24" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="grad-postman" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#10b981;stop-opacity:1"/>
-      <stop offset="100%" style="stop-color:#06b6d4;stop-opacity:1"/>
+      <stop offset="0%" style="stop-color:#f97316;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#ef4444;stop-opacity:1"/>
     </linearGradient>
   </defs>
-  <circle cx="12" cy="12" r="10"/>
-  <path d="M12 2v10"/>
-  <path d="M12 12l7-4"/>
-  <path d="M12 12l-7-4"/>
-  <path d="M12 12v8"/>
+  <g stroke="url(#grad-postman)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <circle cx="12" cy="12" r="10"/><path d="M12 6v12M6 12h12"/><path d="M9 9l6 6M15 9l-6 6"/>
+  </g>
 </svg>

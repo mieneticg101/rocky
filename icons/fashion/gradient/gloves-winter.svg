@@ -1,0 +1,11 @@
+<svg viewBox="0 0 24 24" width="24" height="24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad-gloves-winter" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#000000;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#3f3f46;stop-opacity:1"/>
+    </linearGradient>
+  </defs>
+  <g stroke="url(#grad-gloves-winter)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <rect x="3" y="10" width="8" height="12" rx="2"/><rect x="13" y="10" width="8" height="12" rx="2"/><path d="M5 10V6M7 10V4M9 10V6M15 10V6M17 10V4M19 10V6"/>
+  </g>
+</svg>

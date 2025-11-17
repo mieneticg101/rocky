@@ -6,6 +6,6 @@
     </linearGradient>
   </defs>
   <g stroke="url(#grad-hoppscotch)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" fill="none">
-    <path d="M3 3l18 9-18 9V3z"/><path d="M9 12h12"/><circle cx="18" cy="12" r="2"/>
+    <path d="M12 2c-2 4-4 6-4 8a4 4 0 008 0c0-2-2-4-4-8z"/><path d="M12 10v12"/><circle cx="12" cy="20" r="2"/>
   </g>
 </svg>

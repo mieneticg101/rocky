@@ -1,0 +1,11 @@
+<svg viewBox="0 0 24 24" width="24" height="24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad-sunglasses-aviator" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#000000;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#18181b;stop-opacity:1"/>
+    </linearGradient>
+  </defs>
+  <g stroke="url(#grad-sunglasses-aviator)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <path d="M2 10h7a3 3 0 010 6H6a4 4 0 01-4-4v-2zM22 10h-7a3 3 0 000 6h3a4 4 0 004-4v-2z"/><path d="M9 13h6M2 10l2-4M22 10l-2-4"/>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg viewBox="0 0 24 24" width="24" height="24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad-handshake-deal" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f59e0b;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#d97706;stop-opacity:1"/>
+    </linearGradient>
+  </defs>
+  <g stroke="url(#grad-handshake-deal)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <path d="M9 11l-6 6v4h4l6-6M15 11l6 6v4h-4l-6-6"/><path d="M9 11l6-6 2 2-6 6M15 11l-6-6-2 2 6 6"/>
+  </g>
+</svg>

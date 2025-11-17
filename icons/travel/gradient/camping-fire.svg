@@ -1,0 +1,11 @@
+<svg viewBox="0 0 24 24" width="24" height="24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad-camping-fire" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f97316;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#ef4444;stop-opacity:1"/>
+    </linearGradient>
+  </defs>
+  <g stroke="url(#grad-camping-fire)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <path d="M12 2c-1 3-2 5 0 8 2-3 1-5 0-8z"/><path d="M9 10c-1 2-1 4 1 6 2-2 2-4 1-6"/><path d="M6 18l2-2M18 18l-2-2M8 20l1-1M16 20l-1-1"/>
+  </g>
+</svg>

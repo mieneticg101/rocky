@@ -1,0 +1,11 @@
+<svg viewBox="0 0 24 24" width="24" height="24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad-thermometer-temp" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#94a3b8;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#64748b;stop-opacity:1"/>
+    </linearGradient>
+  </defs>
+  <g stroke="url(#grad-thermometer-temp)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <path d="M12 2v12"/><circle cx="12" cy="18" r="4"/><circle cx="12" cy="18" r="2"/><path d="M10 8h4M10 11h4"/>
+  </g>
+</svg>
