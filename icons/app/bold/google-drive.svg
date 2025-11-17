@@ -1,4 +1,8 @@
 <svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg">
-  <path <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite"/> d="M12 2L2 18h7l3 4 3-4h7L12 2z" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round"/>
-  <path <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite"/> d="M7 18l5-8 5 8" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round"/>
+  <style>
+    @keyframes iconPulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.6; } }
+    path, circle, rect, ellipse, polygon { animation: iconPulse 2s ease-in-out infinite; }
+  </style>
+  <path d="M12 2L2 18h7l3 4 3-4h7L12 2z" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round"/>
+  <path d="M7 18l5-8 5 8" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round"/>
 </svg>

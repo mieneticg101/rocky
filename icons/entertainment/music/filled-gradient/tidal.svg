@@ -5,7 +5,11 @@
       <stop offset="100%" style="stop-color:#06b6d4;stop-opacity:1"/>
     </linearGradient>
   </defs>
-  <path <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite"/> d="M12 2l-4 4 4 4 4-4-4-4z"/>
-  <path <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite"/> d="M8 10l-4 4 4 4 4-4-4-4z"/>
-  <path <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite"/> d="M16 10l-4 4 4 4 4-4-4-4z"/>
+  <style>
+    @keyframes iconPulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.6; } }
+    path, circle, rect, ellipse, polygon { animation: iconPulse 2s ease-in-out infinite; }
+  </style>
+  <path d="M12 2l-4 4 4 4 4-4-4-4z"/>
+  <path d="M8 10l-4 4 4 4 4-4-4-4z"/>
+  <path d="M16 10l-4 4 4 4 4-4-4-4z"/>
 </svg>

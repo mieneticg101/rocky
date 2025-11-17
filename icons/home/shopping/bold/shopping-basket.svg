@@ -1,8 +1,12 @@
 <svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg">
-  <path <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite"/> d="M5.42 9.42 8 12"/>
-  <circle <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite"/> cx="4" cy="8" r="2"/>
-  <path <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite"/> d="m14 6 7-3-2 8"/>
-  <path <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite"/> d="M18.42 9.42 16 12"/>
-  <circle <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite"/> cx="20" cy="8" r="2"/>
-  <path <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite"/> d="M7.8 11.8 4 20h16l-3.8-8.2"/>
+  <style>
+    @keyframes iconPulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.6; } }
+    path, circle, rect, ellipse, polygon { animation: iconPulse 2s ease-in-out infinite; }
+  </style>
+  <path d="M5.42 9.42 8 12"/>
+  <circle cx="4" cy="8" r="2"/>
+  <path d="m14 6 7-3-2 8"/>
+  <path d="M18.42 9.42 16 12"/>
+  <circle cx="20" cy="8" r="2"/>
+  <path d="M7.8 11.8 4 20h16l-3.8-8.2"/>
 </svg>

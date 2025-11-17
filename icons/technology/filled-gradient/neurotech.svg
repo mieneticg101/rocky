@@ -5,8 +5,12 @@
       <stop offset="100%" style="stop-color:#06b6d4;stop-opacity:1"/>
     </linearGradient>
   </defs>
-  <path <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite"/> d="M9.5 2C8 3.5 7 5.5 7 8s1 4.5 2.5 6c1.5 1.5 3.5 2.5 6 2.5s4.5-1 6-2.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
-  <path <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite"/> d="M14.5 22C16 20.5 17 18.5 17 16s-1-4.5-2.5-6c-1.5-1.5-3.5-2.5-6-2.5s-4.5 1-6 2.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
-  <circle <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite"/> cx="12" cy="12" r="2" stroke="currentColor" stroke-width="1.5"/>
-  <path <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite"/> d="M12 10v4m-2-2h4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+  <style>
+    @keyframes iconPulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.6; } }
+    path, circle, rect, ellipse, polygon { animation: iconPulse 2s ease-in-out infinite; }
+  </style>
+  <path d="M9.5 2C8 3.5 7 5.5 7 8s1 4.5 2.5 6c1.5 1.5 3.5 2.5 6 2.5s4.5-1 6-2.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M14.5 22C16 20.5 17 18.5 17 16s-1-4.5-2.5-6c-1.5-1.5-3.5-2.5-6-2.5s-4.5 1-6 2.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+  <circle cx="12" cy="12" r="2" stroke="currentColor" stroke-width="1.5"/>
+  <path d="M12 10v4m-2-2h4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
 </svg>

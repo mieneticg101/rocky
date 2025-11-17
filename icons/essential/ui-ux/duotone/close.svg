@@ -4,6 +4,10 @@
     rect:nth-child(odd) { opacity: 0.3; }
     circle:nth-child(odd) { opacity: 0.3; }
   </style>
+  <style>
+    @keyframes iconPulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.6; } }
+    path, circle, rect, ellipse, polygon { animation: iconPulse 2s ease-in-out infinite; }
+  </style>
   <line x1="18" y1="6" x2="6" y2="18"/>
   <line x1="6" y1="6" x2="18" y2="18"/>
 </svg>

@@ -4,11 +4,15 @@
     rect:nth-child(odd) { opacity: 0.3; }
     circle:nth-child(odd) { opacity: 0.3; }
   </style>
-  <path <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite"/> d="m2 2 8 8"/>
-  <path <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite"/> d="m22 2-8 8"/>
-  <ellipse <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite"/> cx="12" cy="9" rx="10" ry="5"/>
-  <path <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite"/> d="M7 13.4v7.9"/>
-  <path <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite"/> d="M12 14v8"/>
-  <path <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite"/> d="M17 13.4v7.9"/>
-  <path <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite"/> d="M2 9v8a10 5 0 0 0 20 0V9"/>
+  <style>
+    @keyframes iconPulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.6; } }
+    path, circle, rect, ellipse, polygon { animation: iconPulse 2s ease-in-out infinite; }
+  </style>
+  <path d="m2 2 8 8"/>
+  <path d="m22 2-8 8"/>
+  <ellipse cx="12" cy="9" rx="10" ry="5"/>
+  <path d="M7 13.4v7.9"/>
+  <path d="M12 14v8"/>
+  <path d="M17 13.4v7.9"/>
+  <path d="M2 9v8a10 5 0 0 0 20 0V9"/>
 </svg>

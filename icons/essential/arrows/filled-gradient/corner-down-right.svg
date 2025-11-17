@@ -5,6 +5,10 @@
       <stop offset="100%" style="stop-color:#06b6d4;stop-opacity:1"/>
     </linearGradient>
   </defs>
+  <style>
+    @keyframes iconPulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.6; } }
+    path, circle, rect, ellipse, polygon { animation: iconPulse 2s ease-in-out infinite; }
+  </style>
   <polyline points="15 10 20 15 15 20"/>
-  <path <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite"/> d="M4 4v7a4 4 0 0 0 4 4h12"/>
+  <path d="M4 4v7a4 4 0 0 0 4 4h12"/>
 </svg>

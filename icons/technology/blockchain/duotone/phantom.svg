@@ -4,8 +4,12 @@
     rect:nth-child(odd) { opacity: 0.3; }
     circle:nth-child(odd) { opacity: 0.3; }
   </style>
-  <path <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite"/> d="M12 2c-5 0-9 4-9 9v6c0 1.5 1 2.5 2.5 2.5S8 18.5 8 17v-6"/>
-  <path <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite"/> d="M12 2c5 0 9 4 9 9v6c0 1.5-1 2.5-2.5 2.5S16 18.5 16 17v-6"/>
-  <circle <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite"/> cx="9" cy="10" r="1"/>
-  <circle <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite"/> cx="15" cy="10" r="1"/>
+  <style>
+    @keyframes iconPulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.6; } }
+    path, circle, rect, ellipse, polygon { animation: iconPulse 2s ease-in-out infinite; }
+  </style>
+  <path d="M12 2c-5 0-9 4-9 9v6c0 1.5 1 2.5 2.5 2.5S8 18.5 8 17v-6"/>
+  <path d="M12 2c5 0 9 4 9 9v6c0 1.5-1 2.5-2.5 2.5S16 18.5 16 17v-6"/>
+  <circle cx="9" cy="10" r="1"/>
+  <circle cx="15" cy="10" r="1"/>
 </svg>

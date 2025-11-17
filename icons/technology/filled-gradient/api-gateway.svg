@@ -5,12 +5,16 @@
       <stop offset="100%" style="stop-color:#06b6d4;stop-opacity:1"/>
     </linearGradient>
   </defs>
-  <rect <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite"/> x="10" y="3" width="4" height="18" rx="1" stroke="currentColor" stroke-width="1.5"/>
-  <path <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite"/> d="M3 8h7M3 12h7M3 16h7M14 8h7M14 12h7M14 16h7" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
-  <circle <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite"/> cx="3" cy="8" r="1" fill="currentColor"/>
-  <circle <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite"/> cx="3" cy="12" r="1" fill="currentColor"/>
-  <circle <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite"/> cx="3" cy="16" r="1" fill="currentColor"/>
-  <circle <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite"/> cx="21" cy="8" r="1" fill="currentColor"/>
-  <circle <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite"/> cx="21" cy="12" r="1" fill="currentColor"/>
-  <circle <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite"/> cx="21" cy="16" r="1" fill="currentColor"/>
+  <style>
+    @keyframes iconPulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.6; } }
+    path, circle, rect, ellipse, polygon { animation: iconPulse 2s ease-in-out infinite; }
+  </style>
+  <rect x="10" y="3" width="4" height="18" rx="1" stroke="currentColor" stroke-width="1.5"/>
+  <path d="M3 8h7M3 12h7M3 16h7M14 8h7M14 12h7M14 16h7" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+  <circle cx="3" cy="8" r="1" fill="currentColor"/>
+  <circle cx="3" cy="12" r="1" fill="currentColor"/>
+  <circle cx="3" cy="16" r="1" fill="currentColor"/>
+  <circle cx="21" cy="8" r="1" fill="currentColor"/>
+  <circle cx="21" cy="12" r="1" fill="currentColor"/>
+  <circle cx="21" cy="16" r="1" fill="currentColor"/>
 </svg>

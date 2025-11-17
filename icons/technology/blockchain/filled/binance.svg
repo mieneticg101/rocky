@@ -1,7 +1,11 @@
 <svg viewBox="0 0 24 24" width="24" height="24" fill="currentColor" stroke="none" xmlns="http://www.w3.org/2000/svg">
-  <path <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite"/> d="M12 2l-3 3 3 3 3-3-3-3z"/>
-  <path <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite"/> d="M5 9l-3 3 3 3 3-3-3-3z"/>
-  <path <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite"/> d="M19 9l-3 3 3 3 3-3-3-3z"/>
-  <path <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite"/> d="M12 16l-3 3 3 3 3-3-3-3z"/>
-  <circle <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite"/> cx="12" cy="12" r="2"/>
+  <style>
+    @keyframes iconPulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.6; } }
+    path, circle, rect, ellipse, polygon { animation: iconPulse 2s ease-in-out infinite; }
+  </style>
+  <path d="M12 2l-3 3 3 3 3-3-3-3z"/>
+  <path d="M5 9l-3 3 3 3 3-3-3-3z"/>
+  <path d="M19 9l-3 3 3 3 3-3-3-3z"/>
+  <path d="M12 16l-3 3 3 3 3-3-3-3z"/>
+  <circle cx="12" cy="12" r="2"/>
 </svg>

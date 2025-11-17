@@ -1,8 +1,12 @@
 <svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg">
-  <path <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite"/> d="M4 16c4 2 8 3 12 3s8-1 12-3"/>
-  <path <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite"/> d="M20 16c1 0 1.5 0.5 2 1"/>
-  <path <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite"/> d="M6 6c2-2 4-3 6-3s4 1 6 3"/>
-  <path <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite"/> d="M8 10v4"/>
-  <path <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite"/> d="M12 8v6"/>
-  <path <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite"/> d="M16 10v4"/>
+  <style>
+    @keyframes iconPulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.6; } }
+    path, circle, rect, ellipse, polygon { animation: iconPulse 2s ease-in-out infinite; }
+  </style>
+  <path d="M4 16c4 2 8 3 12 3s8-1 12-3"/>
+  <path d="M20 16c1 0 1.5 0.5 2 1"/>
+  <path d="M6 6c2-2 4-3 6-3s4 1 6 3"/>
+  <path d="M8 10v4"/>
+  <path d="M12 8v6"/>
+  <path d="M16 10v4"/>
 </svg>

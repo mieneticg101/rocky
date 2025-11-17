@@ -5,11 +5,15 @@
       <stop offset="100%" style="stop-color:#06b6d4;stop-opacity:1"/>
     </linearGradient>
   </defs>
-  <path <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite"/> d="M12 2c-3 0-5 2-5 4v3h10V6c0-2-2-4-5-4z"/>
-  <rect <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite"/> x="8" y="9" width="8" height="6" rx="1"/>
-  <path <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite"/> d="M8 15l-2 5"/>
-  <path <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite"/> d="M16 15l2 5"/>
-  <path <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite"/> d="M10 20h4"/>
-  <circle <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite"/> cx="10" cy="7" r="1"/>
-  <circle <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite"/> cx="14" cy="7" r="1"/>
+  <style>
+    @keyframes iconPulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.6; } }
+    path, circle, rect, ellipse, polygon { animation: iconPulse 2s ease-in-out infinite; }
+  </style>
+  <path d="M12 2c-3 0-5 2-5 4v3h10V6c0-2-2-4-5-4z"/>
+  <rect x="8" y="9" width="8" height="6" rx="1"/>
+  <path d="M8 15l-2 5"/>
+  <path d="M16 15l2 5"/>
+  <path d="M10 20h4"/>
+  <circle cx="10" cy="7" r="1"/>
+  <circle cx="14" cy="7" r="1"/>
 </svg>

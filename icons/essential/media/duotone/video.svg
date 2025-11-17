@@ -4,6 +4,10 @@
     rect:nth-child(odd) { opacity: 0.3; }
     circle:nth-child(odd) { opacity: 0.3; }
   </style>
-  <polygon <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite"/> points="23 7 16 12 23 17 23 7"/>
-  <rect <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite"/> x="1" y="5" width="15" height="14" rx="2" ry="2"/>
+  <style>
+    @keyframes iconPulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.6; } }
+    path, circle, rect, ellipse, polygon { animation: iconPulse 2s ease-in-out infinite; }
+  </style>
+  <polygon points="23 7 16 12 23 17 23 7"/>
+  <rect x="1" y="5" width="15" height="14" rx="2" ry="2"/>
 </svg>

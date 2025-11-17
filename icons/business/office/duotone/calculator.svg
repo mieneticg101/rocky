@@ -4,7 +4,11 @@
     rect:nth-child(odd) { opacity: 0.3; }
     circle:nth-child(odd) { opacity: 0.3; }
   </style>
-  <rect <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite"/> x="4" y="2" width="16" height="20" rx="2"/>
+  <style>
+    @keyframes iconPulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.6; } }
+    path, circle, rect, ellipse, polygon { animation: iconPulse 2s ease-in-out infinite; }
+  </style>
+  <rect x="4" y="2" width="16" height="20" rx="2"/>
   <line x1="8" y1="6" x2="16" y2="6"/>
   <line x1="16" y1="14" x2="16" y2="18"/>
   <line x1="8" y1="14" x2="8" y2="14.01"/>

@@ -5,9 +5,13 @@
       <stop offset="100%" style="stop-color:#8b5cf6;stop-opacity:1"/>
     </linearGradient>
   </defs>
-  <path <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite"/> d="M12 2L2 7v10l10 5 10-5V7L12 2z"/>
-  <circle <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite"/> cx="12" cy="12" r="4"/>
-  <path <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite"/> d="M12 8V2"/>
-  <path <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite"/> d="M8.5 9.5L4 6"/>
-  <path <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite"/> d="M15.5 9.5L20 6"/>
+  <style>
+    @keyframes iconPulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.6; } }
+    path, circle, rect, ellipse, polygon { animation: iconPulse 2s ease-in-out infinite; }
+  </style>
+  <path d="M12 2L2 7v10l10 5 10-5V7L12 2z"/>
+  <circle cx="12" cy="12" r="4"/>
+  <path d="M12 8V2"/>
+  <path d="M8.5 9.5L4 6"/>
+  <path d="M15.5 9.5L20 6"/>
 </svg>

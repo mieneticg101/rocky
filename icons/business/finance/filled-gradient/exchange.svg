@@ -5,8 +5,12 @@
       <stop offset="100%" style="stop-color:#06b6d4;stop-opacity:1"/>
     </linearGradient>
   </defs>
+  <style>
+    @keyframes iconPulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.6; } }
+    path, circle, rect, ellipse, polygon { animation: iconPulse 2s ease-in-out infinite; }
+  </style>
   <polyline points="17 1 21 5 17 9"/>
-  <path <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite"/> d="M3 11V9a4 4 0 0 1 4-4h14"/>
+  <path d="M3 11V9a4 4 0 0 1 4-4h14"/>
   <polyline points="7 23 3 19 7 15"/>
-  <path <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite"/> d="M21 13v2a4 4 0 0 1-4 4H3"/>
+  <path d="M21 13v2a4 4 0 0 1-4 4H3"/>
 </svg>

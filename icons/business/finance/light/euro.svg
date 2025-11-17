@@ -1,5 +1,9 @@
 <svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg">
-  <path <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite"/> d="M19 5.5a7 7 0 1 0 0 13"/>
+  <style>
+    @keyframes iconPulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.6; } }
+    path, circle, rect, ellipse, polygon { animation: iconPulse 2s ease-in-out infinite; }
+  </style>
+  <path d="M19 5.5a7 7 0 1 0 0 13"/>
   <line x1="8" y1="10" x2="3" y2="10"/>
   <line x1="8" y1="14" x2="3" y2="14"/>
 </svg>

@@ -1,7 +1,11 @@
 <svg viewBox="0 0 24 24" width="24" height="24" fill="currentColor" stroke="none" xmlns="http://www.w3.org/2000/svg">
-  <circle <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite"/> cx="12" cy="12" r="3"/>
-  <rect <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite"/> x="6" y="2" width="6" height="6" rx="3"/>
-  <rect <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite"/> x="12" y="2" width="6" height="6" rx="3"/>
-  <rect <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite"/> x="6" y="9" width="6" height="6" rx="3"/>
-  <rect <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite"/> x="6" y="16" width="6" height="6" rx="3"/>
+  <style>
+    @keyframes iconPulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.6; } }
+    path, circle, rect, ellipse, polygon { animation: iconPulse 2s ease-in-out infinite; }
+  </style>
+  <circle cx="12" cy="12" r="3"/>
+  <rect x="6" y="2" width="6" height="6" rx="3"/>
+  <rect x="12" y="2" width="6" height="6" rx="3"/>
+  <rect x="6" y="9" width="6" height="6" rx="3"/>
+  <rect x="6" y="16" width="6" height="6" rx="3"/>
 </svg>

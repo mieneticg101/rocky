@@ -1,10 +1,14 @@
 <svg viewBox="0 0 24 24" width="24" height="24" fill="currentColor" stroke="none" xmlns="http://www.w3.org/2000/svg">
-  <rect <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite"/> x="3" y="3" width="7" height="7" rx="1" stroke="currentColor" stroke-width="1.5"/>
-  <rect <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite"/> x="14" y="3" width="7" height="7" rx="1" stroke="currentColor" stroke-width="1.5"/>
-  <rect <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite"/> x="3" y="14" width="7" height="7" rx="1" stroke="currentColor" stroke-width="1.5"/>
-  <rect <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite"/> x="5" y="5" width="3" height="3" fill="currentColor"/>
-  <rect <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite"/> x="16" y="5" width="3" height="3" fill="currentColor"/>
-  <rect <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite"/> x="5" y="16" width="3" height="3" fill="currentColor"/>
-  <path <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite"/> d="M14 14h7v7h-7v-7z" stroke="currentColor" stroke-width="1.5"/>
-  <rect <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite"/> x="16" y="16" width="3" height="3" fill="currentColor"/>
+  <style>
+    @keyframes iconPulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.6; } }
+    path, circle, rect, ellipse, polygon { animation: iconPulse 2s ease-in-out infinite; }
+  </style>
+  <rect x="3" y="3" width="7" height="7" rx="1" stroke="currentColor" stroke-width="1.5"/>
+  <rect x="14" y="3" width="7" height="7" rx="1" stroke="currentColor" stroke-width="1.5"/>
+  <rect x="3" y="14" width="7" height="7" rx="1" stroke="currentColor" stroke-width="1.5"/>
+  <rect x="5" y="5" width="3" height="3" fill="currentColor"/>
+  <rect x="16" y="5" width="3" height="3" fill="currentColor"/>
+  <rect x="5" y="16" width="3" height="3" fill="currentColor"/>
+  <path d="M14 14h7v7h-7v-7z" stroke="currentColor" stroke-width="1.5"/>
+  <rect x="16" y="16" width="3" height="3" fill="currentColor"/>
 </svg>

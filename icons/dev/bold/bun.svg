@@ -1,7 +1,11 @@
 <svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg">
-  <path <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite"/> d="M12 3c-5 0-9 4-9 9s4 9 9 9 9-4 9-9-4-9-9-9z" stroke="currentColor" stroke-width="1.5"/>
-  <circle <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite"/> cx="9" cy="10" r="1.5" fill="currentColor"/>
-  <circle <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite"/> cx="15" cy="10" r="1.5" fill="currentColor"/>
-  <path <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite"/> d="M8 14c1 2 3 3 4 3s3-1 4-3" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
-  <path <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite"/> d="M10 6c.5-1 1-2 2-2s1.5 1 2 2" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+  <style>
+    @keyframes iconPulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.6; } }
+    path, circle, rect, ellipse, polygon { animation: iconPulse 2s ease-in-out infinite; }
+  </style>
+  <path d="M12 3c-5 0-9 4-9 9s4 9 9 9 9-4 9-9-4-9-9-9z" stroke="currentColor" stroke-width="1.5"/>
+  <circle cx="9" cy="10" r="1.5" fill="currentColor"/>
+  <circle cx="15" cy="10" r="1.5" fill="currentColor"/>
+  <path d="M8 14c1 2 3 3 4 3s3-1 4-3" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M10 6c.5-1 1-2 2-2s1.5 1 2 2" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
 </svg>

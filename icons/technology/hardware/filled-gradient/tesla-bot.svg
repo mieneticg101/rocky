@@ -5,13 +5,17 @@
       <stop offset="100%" style="stop-color:#06b6d4;stop-opacity:1"/>
     </linearGradient>
   </defs>
-  <circle <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite"/> cx="12" cy="6" r="2"/>
-  <rect <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite"/> x="9" y="8" width="6" height="8" rx="1"/>
-  <path <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite"/> d="M9 12h6"/>
-  <path <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite"/> d="M9 16l-2 6"/>
-  <path <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite"/> d="M15 16l2 6"/>
-  <path <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite"/> d="M9 8l-3 2"/>
-  <path <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite"/> d="M15 8l3 2"/>
-  <circle <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite"/> cx="10.5" cy="10" r="0.5" fill="currentColor"/>
-  <circle <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite"/> cx="13.5" cy="10" r="0.5" fill="currentColor"/>
+  <style>
+    @keyframes iconPulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.6; } }
+    path, circle, rect, ellipse, polygon { animation: iconPulse 2s ease-in-out infinite; }
+  </style>
+  <circle cx="12" cy="6" r="2"/>
+  <rect x="9" y="8" width="6" height="8" rx="1"/>
+  <path d="M9 12h6"/>
+  <path d="M9 16l-2 6"/>
+  <path d="M15 16l2 6"/>
+  <path d="M9 8l-3 2"/>
+  <path d="M15 8l3 2"/>
+  <circle cx="10.5" cy="10" r="0.5" fill="currentColor"/>
+  <circle cx="13.5" cy="10" r="0.5" fill="currentColor"/>
 </svg>

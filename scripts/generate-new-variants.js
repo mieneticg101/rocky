@@ -11,14 +11,16 @@ const gradientColors = {
   'dev': { start: '#10b981', end: '#06b6d4' }
 };
 
-// Helper to add animations
+// Helper to add CSS-based animations via style tag
 function addAnimations(svg) {
-  svg = svg.replace(/<path /g, '<path <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite"/> ');
-  svg = svg.replace(/<circle /g, '<circle <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite"/> ');
-  svg = svg.replace(/<rect /g, '<rect <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite"/> ');
-  svg = svg.replace(/<ellipse /g, '<ellipse <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite"/> ');
-  svg = svg.replace(/<polygon /g, '<polygon <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite"/> ');
-  return svg;
+  // Use CSS animation instead of SVG SMIL for better compatibility
+  const styleTag = `<style>
+    @keyframes iconPulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.6; } }
+    path, circle, rect, ellipse, polygon { animation: iconPulse 2s ease-in-out infinite; }
+  </style>`;
+
+  // Insert style tag at the beginning of SVG content
+  return styleTag + '\n  ' + svg;
 }
 
 // 1. Filled (Solid) variant with animation

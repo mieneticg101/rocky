@@ -1,3 +1,7 @@
 <svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg">
-  <path <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite"/> d="M12 8L8 12l4 4 4-4-4-4z"/><path <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite"/> d="M4 12h4M16 12h4"/><path <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite"/> d="M8 8l-2-2M16 8l2-2M8 16l-2 2M16 16l2 2"/>
+  <style>
+    @keyframes iconPulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.6; } }
+    path, circle, rect, ellipse, polygon { animation: iconPulse 2s ease-in-out infinite; }
+  </style>
+  <path d="M12 8L8 12l4 4 4-4-4-4z"/><path d="M4 12h4M16 12h4"/><path d="M8 8l-2-2M16 8l2-2M8 16l-2 2M16 16l2 2"/>
 </svg>

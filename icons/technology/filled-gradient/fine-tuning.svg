@@ -5,7 +5,11 @@
       <stop offset="100%" style="stop-color:#06b6d4;stop-opacity:1"/>
     </linearGradient>
   </defs>
-  <path <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite"/> d="M3 8h4m0 0a2 2 0 1 0 4 0m-4 0a2 2 0 1 1 4 0m4 0h6" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
-  <path <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite"/> d="M3 16h10m0 0a2 2 0 1 0 4 0m-4 0a2 2 0 1 1 4 0m2 0h2" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
-  <path <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite"/> d="M9 12a2 2 0 1 0 4 0m-4 0a2 2 0 1 1 4 0m-10 0h7m6 0h6" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+  <style>
+    @keyframes iconPulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.6; } }
+    path, circle, rect, ellipse, polygon { animation: iconPulse 2s ease-in-out infinite; }
+  </style>
+  <path d="M3 8h4m0 0a2 2 0 1 0 4 0m-4 0a2 2 0 1 1 4 0m4 0h6" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M3 16h10m0 0a2 2 0 1 0 4 0m-4 0a2 2 0 1 1 4 0m2 0h2" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M9 12a2 2 0 1 0 4 0m-4 0a2 2 0 1 1 4 0m-10 0h7m6 0h6" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
 </svg>
