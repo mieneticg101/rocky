@@ -1,12 +1,12 @@
 {
-  "generated": "2025-11-17T08:10:44.486Z",
+  "generated": "2025-11-17T08:21:47.468Z",
   "stats": {
-    "total": 1214,
+    "total": 1250,
     "variant": "gradient",
     "categories": {
       "thai": 40,
-      "technology": 285,
-      "dev": 338,
+      "technology": 311,
+      "dev": 348,
       "business": 135,
       "app": 11,
       "brand": 58,
@@ -312,6 +312,21 @@
       ]
     },
     {
+      "name": "aider-chat",
+      "category": "dev",
+      "path": "icons/dev/gradient/aider-chat.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-aider-chat\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#f97316;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#ef4444;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <g stroke=\"url(#grad-aider-chat)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\">\n    <path d=\"M21 15a2 2 0 01-2 2H7l-4 4V5a2 2 0 012-2h14a2 2 0 012 2v10z\"/><path d=\"M9 10h6M9 14h4\"/>\n  </g>\n</svg>\n",
+      "variant": "gradient",
+      "tags": [
+        "dev",
+        "aider",
+        "chat",
+        "development",
+        "code",
+        "tools"
+      ]
+    },
+    {
       "name": "airbyte",
       "category": "dev",
       "path": "icons/dev/gradient/airbyte.svg",
@@ -451,6 +466,20 @@
       ]
     },
     {
+      "name": "amazon-bedrock",
+      "category": "technology",
+      "path": "icons/technology/ai/gradient/amazon-bedrock.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-amazon-bedrock\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#f59e0b;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#f97316;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <g stroke=\"url(#grad-amazon-bedrock)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\">\n    <rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\"/><path d=\"M3 12h18M12 3v18\"/><circle cx=\"12\" cy=\"12\" r=\"3\"/>\n  </g>\n</svg>\n",
+      "variant": "gradient",
+      "tags": [
+        "technology",
+        "amazon",
+        "bedrock",
+        "tech",
+        "software"
+      ]
+    },
+    {
       "name": "amazon-nova",
       "category": "technology",
       "path": "icons/technology/ai/gradient/amazon-nova.svg",
@@ -573,6 +602,34 @@
         "anthropic",
         "logo",
         "company"
+      ]
+    },
+    {
+      "name": "anthropic-haiku",
+      "category": "technology",
+      "path": "icons/technology/ai/gradient/anthropic-haiku.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-anthropic-haiku\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#3b82f6;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#8b5cf6;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <g stroke=\"url(#grad-anthropic-haiku)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\">\n    <rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\"/><path d=\"M8 8h8M8 12h8M8 16h4\"/>\n  </g>\n</svg>\n",
+      "variant": "gradient",
+      "tags": [
+        "technology",
+        "anthropic",
+        "haiku",
+        "tech",
+        "software"
+      ]
+    },
+    {
+      "name": "anthropic-sonnet",
+      "category": "technology",
+      "path": "icons/technology/ai/gradient/anthropic-sonnet.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-anthropic-sonnet\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#3b82f6;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#8b5cf6;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <g stroke=\"url(#grad-anthropic-sonnet)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\">\n    <path d=\"M21 16V8a2 2 0 00-1-1.73l-7-4a2 2 0 00-2 0l-7 4A2 2 0 003 8v8a2 2 0 001 1.73l7 4a2 2 0 002 0l7-4A2 2 0 0021 16z\"/><path d=\"M12 8v8M8 12h8\"/>\n  </g>\n</svg>\n",
+      "variant": "gradient",
+      "tags": [
+        "technology",
+        "anthropic",
+        "sonnet",
+        "tech",
+        "software"
       ]
     },
     {
@@ -2763,6 +2820,20 @@
       ]
     },
     {
+      "name": "clickhouse-cloud",
+      "category": "technology",
+      "path": "icons/technology/database/gradient/clickhouse-cloud.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-clickhouse-cloud\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#f59e0b;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#f97316;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <g stroke=\"url(#grad-clickhouse-cloud)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\">\n    <rect x=\"3\" y=\"3\" width=\"7\" height=\"7\" rx=\"1\"/><rect x=\"14\" y=\"3\" width=\"7\" height=\"7\" rx=\"1\"/><rect x=\"3\" y=\"14\" width=\"7\" height=\"7\" rx=\"1\"/><rect x=\"14\" y=\"14\" width=\"7\" height=\"7\" rx=\"1\"/><circle cx=\"12\" cy=\"12\" r=\"1\"/>\n  </g>\n</svg>\n",
+      "variant": "gradient",
+      "tags": [
+        "technology",
+        "clickhouse",
+        "cloud",
+        "tech",
+        "software"
+      ]
+    },
+    {
       "name": "clickup",
       "category": "business",
       "path": "icons/business/productivity/gradient/clickup.svg",
@@ -2973,6 +3044,35 @@
       ]
     },
     {
+      "name": "cloudflare-workers-ai",
+      "category": "technology",
+      "path": "icons/technology/cloud/gradient/cloudflare-workers-ai.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-cloudflare-workers-ai\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#f97316;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#f59e0b;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <g stroke=\"url(#grad-cloudflare-workers-ai)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\">\n    <path d=\"M21 16V8a2 2 0 00-1-1.73l-7-4a2 2 0 00-2 0l-7 4A2 2 0 003 8v8a2 2 0 001 1.73l7 4a2 2 0 002 0l7-4A2 2 0 0021 16z\"/><path d=\"M12 12l7-4M12 12v8\"/>\n  </g>\n</svg>\n",
+      "variant": "gradient",
+      "tags": [
+        "technology",
+        "cloudflare",
+        "workers",
+        "ai",
+        "tech",
+        "software"
+      ]
+    },
+    {
+      "name": "cockroachdb-serverless",
+      "category": "technology",
+      "path": "icons/technology/database/gradient/cockroachdb-serverless.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-cockroachdb-serverless\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#3b82f6;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#10b981;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <g stroke=\"url(#grad-cockroachdb-serverless)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\">\n    <path d=\"M12 2L2 7v10l10 5 10-5V7L12 2z\"/><path d=\"M2 7l10 5 10-5M12 12v10\"/><circle cx=\"12\" cy=\"7\" r=\"2\"/>\n  </g>\n</svg>\n",
+      "variant": "gradient",
+      "tags": [
+        "technology",
+        "cockroachdb",
+        "serverless",
+        "tech",
+        "software"
+      ]
+    },
+    {
       "name": "code",
       "category": "technology",
       "path": "icons/technology/code/gradient/code.svg",
@@ -3028,6 +3128,20 @@
       ]
     },
     {
+      "name": "codeium",
+      "category": "dev",
+      "path": "icons/dev/gradient/codeium.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-codeium\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#3b82f6;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#06b6d4;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <g stroke=\"url(#grad-codeium)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\">\n    <circle cx=\"12\" cy=\"12\" r=\"10\"/><path d=\"M8 10l4 4 4-4M8 14l4-4 4 4\"/>\n  </g>\n</svg>\n",
+      "variant": "gradient",
+      "tags": [
+        "dev",
+        "codeium",
+        "development",
+        "code",
+        "tools"
+      ]
+    },
+    {
       "name": "codesandbox",
       "category": "dev",
       "path": "icons/dev/gradient/codesandbox.svg",
@@ -3036,6 +3150,21 @@
       "tags": [
         "dev",
         "codesandbox",
+        "development",
+        "code",
+        "tools"
+      ]
+    },
+    {
+      "name": "cody-sourcegraph",
+      "category": "dev",
+      "path": "icons/dev/gradient/cody-sourcegraph.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-cody-sourcegraph\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#f97316;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#ef4444;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <g stroke=\"url(#grad-cody-sourcegraph)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\">\n    <circle cx=\"8\" cy=\"12\" r=\"3\"/><circle cx=\"16\" cy=\"12\" r=\"3\"/><path d=\"M11 12h2\"/><circle cx=\"12\" cy=\"12\" r=\"1\"/>\n  </g>\n</svg>\n",
+      "variant": "gradient",
+      "tags": [
+        "dev",
+        "cody",
+        "sourcegraph",
         "development",
         "code",
         "tools"
@@ -3063,6 +3192,22 @@
         "cohere",
         "logo",
         "company"
+      ]
+    },
+    {
+      "name": "cohere-command-r-plus",
+      "category": "technology",
+      "path": "icons/technology/ai/gradient/cohere-command-r-plus.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-cohere-command-r-plus\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#a855f7;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#ec4899;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <g stroke=\"url(#grad-cohere-command-r-plus)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\">\n    <circle cx=\"12\" cy=\"12\" r=\"10\"/><path d=\"M12 8l4 4-4 4-4-4 4-4z\"/><path d=\"M12 2v6M12 16v6M2 12h6M16 12h6\"/>\n  </g>\n</svg>\n",
+      "variant": "gradient",
+      "tags": [
+        "technology",
+        "cohere",
+        "command",
+        "r",
+        "plus",
+        "tech",
+        "software"
       ]
     },
     {
@@ -3228,7 +3373,7 @@
       "name": "continue-dev",
       "category": "dev",
       "path": "icons/dev/gradient/continue-dev.svg",
-      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-continue-dev)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-continue-dev\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#10b981;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#06b6d4;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\"/>\n  <path d=\"M8 12l4-3v6l-4-3z\"/>\n  <path d=\"M14 9v6\"/>\n  <path d=\"M17 9v6\"/>\n</svg>\n",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-continue-dev\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#10b981;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#3b82f6;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <g stroke=\"url(#grad-continue-dev)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\">\n    <circle cx=\"12\" cy=\"12\" r=\"10\"/><path d=\"M10 8l6 4-6 4V8z\"/><circle cx=\"12\" cy=\"12\" r=\"1\"/>\n  </g>\n</svg>\n",
       "variant": "gradient",
       "tags": [
         "dev",
@@ -3340,6 +3485,20 @@
       "tags": [
         "home",
         "couch"
+      ]
+    },
+    {
+      "name": "couchbase-capella",
+      "category": "technology",
+      "path": "icons/technology/database/gradient/couchbase-capella.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-couchbase-capella\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#ef4444;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#f97316;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <g stroke=\"url(#grad-couchbase-capella)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\">\n    <circle cx=\"12\" cy=\"12\" r=\"10\"/><path d=\"M8 8l8 8M16 8l-8 8\"/><circle cx=\"12\" cy=\"12\" r=\"3\"/>\n  </g>\n</svg>\n",
+      "variant": "gradient",
+      "tags": [
+        "technology",
+        "couchbase",
+        "capella",
+        "tech",
+        "software"
       ]
     },
     {
@@ -3542,7 +3701,7 @@
       "name": "cursor-composer",
       "category": "dev",
       "path": "icons/dev/gradient/cursor-composer.svg",
-      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-cursor-composer)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-cursor-composer\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#10b981;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#06b6d4;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <path d=\"M3 3l7.07 16.97 2.51-7.39 7.39-2.51L3 3z\"/>\n  <circle cx=\"17\" cy=\"7\" r=\"2\"/>\n</svg>\n",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-cursor-composer\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#8b5cf6;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#ec4899;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <g stroke=\"url(#grad-cursor-composer)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\">\n    <path d=\"M3 3l7 17 3-7 7-3-17-7z\"/><circle cx=\"13\" cy=\"13\" r=\"2\"/><path d=\"M18 18l4 4\"/>\n  </g>\n</svg>\n",
       "variant": "gradient",
       "tags": [
         "dev",
@@ -3715,6 +3874,20 @@
       ]
     },
     {
+      "name": "deepseek-r1",
+      "category": "technology",
+      "path": "icons/technology/ai/gradient/deepseek-r1.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-deepseek-r1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#3b82f6;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#8b5cf6;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <g stroke=\"url(#grad-deepseek-r1)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\">\n    <circle cx=\"12\" cy=\"12\" r=\"10\"/><path d=\"M12 6v12M6 12h12\"/><path d=\"M9 9l6 6M15 9l-6 6\"/><circle cx=\"12\" cy=\"12\" r=\"3\"/>\n  </g>\n</svg>\n",
+      "variant": "gradient",
+      "tags": [
+        "technology",
+        "deepseek",
+        "r1",
+        "tech",
+        "software"
+      ]
+    },
+    {
       "name": "deepseek-v3",
       "category": "technology",
       "path": "icons/technology/ai/gradient/deepseek-v3.svg",
@@ -3764,6 +3937,20 @@
         "development",
         "code",
         "tools"
+      ]
+    },
+    {
+      "name": "deno-deploy",
+      "category": "technology",
+      "path": "icons/technology/cloud/gradient/deno-deploy.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-deno-deploy\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#000000;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#3f3f46;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <g stroke=\"url(#grad-deno-deploy)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\">\n    <path d=\"M22 12l-9.5-9.5L3 12l9.5 9.5L22 12z\"/><path d=\"M12 6v12M6 12h12\"/><circle cx=\"12\" cy=\"12\" r=\"2\"/>\n  </g>\n</svg>\n",
+      "variant": "gradient",
+      "tags": [
+        "technology",
+        "deno",
+        "deploy",
+        "tech",
+        "software"
       ]
     },
     {
@@ -3852,7 +4039,7 @@
       "name": "devin-ai",
       "category": "technology",
       "path": "icons/technology/ai/gradient/devin-ai.svg",
-      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-devin-ai)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-devin-ai\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#3b82f6;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#8b5cf6;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <path d=\"M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8l-6-6z\"/>\n  <polyline points=\"14 2 14 8 20 8\"/>\n  <path d=\"M8 13h8\"/>\n  <path d=\"M8 17h8\"/>\n  <circle cx=\"12\" cy=\"10\" r=\"1.5\"/>\n</svg>\n",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-devin-ai\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#a855f7;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#ec4899;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <g stroke=\"url(#grad-devin-ai)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\">\n    <rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\"/><path d=\"M8 8h8v8H8z\"/><path d=\"M12 8v8M8 12h8\"/><circle cx=\"12\" cy=\"12\" r=\"2\"/>\n  </g>\n</svg>\n",
       "variant": "gradient",
       "tags": [
         "technology",
@@ -4364,7 +4551,7 @@
       "name": "edgedb",
       "category": "technology",
       "path": "icons/technology/database/gradient/edgedb.svg",
-      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-edgedb)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-edgedb\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#3b82f6;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#06b6d4;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <path d=\"M21 12c0-5-4-9-9-9S3 7 3 12\"/>\n  <path d=\"M3 12c0 5 4 9 9 9s9-4 9-9\"/>\n  <circle cx=\"12\" cy=\"8\" r=\"2\"/>\n  <circle cx=\"8\" cy=\"12\" r=\"2\"/>\n  <circle cx=\"16\" cy=\"12\" r=\"2\"/>\n  <circle cx=\"12\" cy=\"16\" r=\"2\"/>\n</svg>\n",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-edgedb\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#a855f7;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#ec4899;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <g stroke=\"url(#grad-edgedb)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\">\n    <rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\"/><path d=\"M3 9h18M9 3v18M15 9v12\"/>\n  </g>\n</svg>\n",
       "variant": "gradient",
       "tags": [
         "technology",
@@ -5027,6 +5214,20 @@
       ]
     },
     {
+      "name": "fireworks-ai",
+      "category": "technology",
+      "path": "icons/technology/cloud/gradient/fireworks-ai.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-fireworks-ai\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#f97316;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#ef4444;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <g stroke=\"url(#grad-fireworks-ai)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\">\n    <path d=\"M12 2l1 4 4 1-4 1-1 4-1-4-4-1 4-1 1-4z\"/><path d=\"M18 14l.5 2 2 .5-2 .5-.5 2-.5-2-2-.5 2-.5.5-2z\"/><path d=\"M6 16l.5 1.5 1.5.5-1.5.5-.5 1.5-.5-1.5-1.5-.5 1.5-.5.5-1.5z\"/>\n  </g>\n</svg>\n",
+      "variant": "gradient",
+      "tags": [
+        "technology",
+        "fireworks",
+        "ai",
+        "tech",
+        "software"
+      ]
+    },
+    {
       "name": "first-aid",
       "category": "healthcare",
       "path": "icons/healthcare/medical/gradient/first-aid.svg",
@@ -5478,6 +5679,20 @@
       ]
     },
     {
+      "name": "gemini-pro",
+      "category": "technology",
+      "path": "icons/technology/ai/gradient/gemini-pro.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-gemini-pro\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#3b82f6;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#06b6d4;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <g stroke=\"url(#grad-gemini-pro)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\">\n    <path d=\"M12 2l3 7h7l-5.5 4.5 2 7-6.5-5-6.5 5 2-7L3 9h7l2-7z\"/><circle cx=\"12\" cy=\"12\" r=\"2\"/><path d=\"M12 2v4M12 18v4\"/>\n  </g>\n</svg>\n",
+      "variant": "gradient",
+      "tags": [
+        "technology",
+        "gemini",
+        "pro",
+        "tech",
+        "software"
+      ]
+    },
+    {
       "name": "gemma-2",
       "category": "technology",
       "path": "icons/technology/ai/gradient/gemma-2.svg",
@@ -5657,6 +5872,22 @@
       ]
     },
     {
+      "name": "github-copilot-workspace",
+      "category": "dev",
+      "path": "icons/dev/gradient/github-copilot-workspace.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-github-copilot-workspace\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#8b5cf6;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#3b82f6;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <g stroke=\"url(#grad-github-copilot-workspace)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\">\n    <rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\"/><path d=\"M9 9h6v6H9z\"/><circle cx=\"7\" cy=\"7\" r=\"1\"/><circle cx=\"17\" cy=\"7\" r=\"1\"/>\n  </g>\n</svg>\n",
+      "variant": "gradient",
+      "tags": [
+        "dev",
+        "github",
+        "copilot",
+        "workspace",
+        "development",
+        "code",
+        "tools"
+      ]
+    },
+    {
       "name": "gitlab",
       "category": "brand",
       "path": "icons/brand/gradient/gitlab.svg",
@@ -5760,6 +5991,21 @@
         "app",
         "google",
         "drive"
+      ]
+    },
+    {
+      "name": "google-vertex-ai",
+      "category": "technology",
+      "path": "icons/technology/ai/gradient/google-vertex-ai.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-google-vertex-ai\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#3b82f6;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#06b6d4;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <g stroke=\"url(#grad-google-vertex-ai)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\">\n    <path d=\"M12 2l10 6v8l-10 6-10-6V8l10-6z\"/><path d=\"M12 8v8M8 10l4 2 4-2M8 14l4 2 4-2\"/>\n  </g>\n</svg>\n",
+      "variant": "gradient",
+      "tags": [
+        "technology",
+        "google",
+        "vertex",
+        "ai",
+        "tech",
+        "software"
       ]
     },
     {
@@ -6132,6 +6378,20 @@
         "development",
         "code",
         "tools"
+      ]
+    },
+    {
+      "name": "haystack-ai",
+      "category": "technology",
+      "path": "icons/technology/ai/gradient/haystack-ai.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-haystack-ai\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#3b82f6;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#10b981;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <g stroke=\"url(#grad-haystack-ai)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\">\n    <path d=\"M3 18l9-15 9 15H3z\"/><path d=\"M12 8v6M9 14h6\"/><circle cx=\"12\" cy=\"16\" r=\"1\"/>\n  </g>\n</svg>\n",
+      "variant": "gradient",
+      "tags": [
+        "technology",
+        "haystack",
+        "ai",
+        "tech",
+        "software"
       ]
     },
     {
@@ -6635,6 +6895,20 @@
         "technology",
         "inference",
         "cost",
+        "tech",
+        "software"
+      ]
+    },
+    {
+      "name": "inflection-pi",
+      "category": "technology",
+      "path": "icons/technology/ai/gradient/inflection-pi.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-inflection-pi\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#3b82f6;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#8b5cf6;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <g stroke=\"url(#grad-inflection-pi)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\">\n    <circle cx=\"12\" cy=\"12\" r=\"10\"/><path d=\"M9 9h2v6H9z\"/><circle cx=\"15\" cy=\"9\" r=\"1\"/>\n  </g>\n</svg>\n",
+      "variant": "gradient",
+      "tags": [
+        "technology",
+        "inflection",
+        "pi",
         "tech",
         "software"
       ]
@@ -7244,10 +7518,23 @@
       ]
     },
     {
+      "name": "langgraph",
+      "category": "technology",
+      "path": "icons/technology/ai/gradient/langgraph.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-langgraph\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#10b981;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#3b82f6;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <g stroke=\"url(#grad-langgraph)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\">\n    <circle cx=\"6\" cy=\"6\" r=\"2\"/><circle cx=\"18\" cy=\"6\" r=\"2\"/><circle cx=\"6\" cy=\"18\" r=\"2\"/><circle cx=\"18\" cy=\"18\" r=\"2\"/><path d=\"M8 6h8M6 8v8M18 8v8M8 18h8\"/>\n  </g>\n</svg>\n",
+      "variant": "gradient",
+      "tags": [
+        "technology",
+        "langgraph",
+        "tech",
+        "software"
+      ]
+    },
+    {
       "name": "langsmith",
       "category": "technology",
       "path": "icons/technology/ai/gradient/langsmith.svg",
-      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-langsmith)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-langsmith\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#3b82f6;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#8b5cf6;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <path d=\"M12 2l-2 5-5 2 5 2 2 5 2-5 5-2-5-2-2-5z\"/><circle cx=\"12\" cy=\"12\" r=\"3\"/><path d=\"M12 2v4\"/><path d=\"M12 18v4\"/><path d=\"M2 12h4\"/><path d=\"M18 12h4\"/>\n</svg>\n",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-langsmith\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#8b5cf6;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#3b82f6;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <g stroke=\"url(#grad-langsmith)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\">\n    <path d=\"M12 2L2 7v10l10 5 10-5V7L12 2z\"/><path d=\"M12 12v10M2 7l10 5 10-5\"/><circle cx=\"12\" cy=\"7\" r=\"1.5\"/>\n  </g>\n</svg>\n",
       "variant": "gradient",
       "tags": [
         "technology",
@@ -8171,6 +8458,19 @@
       ]
     },
     {
+      "name": "mem0",
+      "category": "technology",
+      "path": "icons/technology/ai/gradient/mem0.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-mem0\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#a855f7;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#ec4899;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <g stroke=\"url(#grad-mem0)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\">\n    <circle cx=\"12\" cy=\"12\" r=\"10\"/><path d=\"M8 10c0-2 1-3 2-3s2 1 2 3-1 3-2 3M14 10c0-2 1-3 2-3s2 1 2 3-1 3-2 3\"/><path d=\"M8 15c0 .5.5 1 1 1h6c.5 0 1-.5 1-1\"/>\n  </g>\n</svg>\n",
+      "variant": "gradient",
+      "tags": [
+        "technology",
+        "mem0",
+        "tech",
+        "software"
+      ]
+    },
+    {
       "name": "mental-health",
       "category": "healthcare",
       "path": "icons/healthcare/gradient/mental-health.svg",
@@ -8424,7 +8724,7 @@
       "name": "million-lint",
       "category": "dev",
       "path": "icons/dev/gradient/million-lint.svg",
-      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-million-lint)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-million-lint\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#10b981;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#06b6d4;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <path d=\"M12 2l-2 5-5 2 5 2 2 5 2-5 5-2-5-2-2-5z\"/><path d=\"M8 12l2 2 4-4\"/><circle cx=\"12\" cy=\"12\" r=\"3\"/>\n</svg>\n",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-million-lint\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#a855f7;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#ec4899;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <g stroke=\"url(#grad-million-lint)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\">\n    <path d=\"M12 2v20M17 7l-5-5-5 5M7 17l5 5 5-5\"/><path d=\"M8 12h8\"/><circle cx=\"12\" cy=\"12\" r=\"1\"/>\n  </g>\n</svg>\n",
       "variant": "gradient",
       "tags": [
         "dev",
@@ -9020,6 +9320,20 @@
       ]
     },
     {
+      "name": "neon-serverless",
+      "category": "technology",
+      "path": "icons/technology/database/gradient/neon-serverless.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-neon-serverless\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#10b981;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#06b6d4;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <g stroke=\"url(#grad-neon-serverless)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\">\n    <path d=\"M12 2L2 7v10l10 5 10-5V7L12 2z\"/><path d=\"M12 7l5 3-5 3-5-3 5-3z\"/><path d=\"M12 12v10\"/>\n  </g>\n</svg>\n",
+      "variant": "gradient",
+      "tags": [
+        "technology",
+        "neon",
+        "serverless",
+        "tech",
+        "software"
+      ]
+    },
+    {
       "name": "netflix",
       "category": "entertainment",
       "path": "icons/entertainment/streaming/gradient/netflix.svg",
@@ -9509,6 +9823,20 @@
       ]
     },
     {
+      "name": "openai-agents",
+      "category": "technology",
+      "path": "icons/technology/ai/gradient/openai-agents.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-openai-agents\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#10b981;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#06b6d4;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <g stroke=\"url(#grad-openai-agents)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\">\n    <circle cx=\"8\" cy=\"8\" r=\"3\"/><circle cx=\"16\" cy=\"8\" r=\"3\"/><circle cx=\"12\" cy=\"16\" r=\"3\"/><path d=\"M10.5 10.5l-2 2M13.5 10.5l2 2\"/>\n  </g>\n</svg>\n",
+      "variant": "gradient",
+      "tags": [
+        "technology",
+        "openai",
+        "agents",
+        "tech",
+        "software"
+      ]
+    },
+    {
       "name": "openai-sora",
       "category": "technology",
       "path": "icons/technology/ai/gradient/openai-sora.svg",
@@ -9553,7 +9881,7 @@
       "name": "openrouter",
       "category": "technology",
       "path": "icons/technology/ai/gradient/openrouter.svg",
-      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-openrouter)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-openrouter\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#3b82f6;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#8b5cf6;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <circle cx=\"12\" cy=\"12\" r=\"10\"/>\n  <path d=\"M8 12h8\"/>\n  <path d=\"M12 8v8\"/>\n  <circle cx=\"6\" cy=\"12\" r=\"2\"/>\n  <circle cx=\"18\" cy=\"12\" r=\"2\"/>\n  <circle cx=\"12\" cy=\"6\" r=\"2\"/>\n  <circle cx=\"12\" cy=\"18\" r=\"2\"/>\n</svg>\n",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-openrouter\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#a855f7;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#ec4899;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <g stroke=\"url(#grad-openrouter)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\">\n    <circle cx=\"12\" cy=\"12\" r=\"10\"/><path d=\"M8 12l4-4 4 4M8 12l4 4 4-4\"/><circle cx=\"12\" cy=\"12\" r=\"2\"/>\n  </g>\n</svg>\n",
       "variant": "gradient",
       "tags": [
         "technology",
@@ -10141,6 +10469,22 @@
         "dev",
         "pieces",
         "app",
+        "development",
+        "code",
+        "tools"
+      ]
+    },
+    {
+      "name": "pieces-for-developers",
+      "category": "dev",
+      "path": "icons/dev/gradient/pieces-for-developers.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-pieces-for-developers\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#3b82f6;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#8b5cf6;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <g stroke=\"url(#grad-pieces-for-developers)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\">\n    <rect x=\"3\" y=\"3\" width=\"7\" height=\"7\" rx=\"1\"/><rect x=\"14\" y=\"3\" width=\"7\" height=\"7\" rx=\"1\"/><rect x=\"3\" y=\"14\" width=\"7\" height=\"7\" rx=\"1\"/><rect x=\"14\" y=\"14\" width=\"7\" height=\"7\" rx=\"1\"/>\n  </g>\n</svg>\n",
+      "variant": "gradient",
+      "tags": [
+        "dev",
+        "pieces",
+        "for",
+        "developers",
         "development",
         "code",
         "tools"
@@ -11040,6 +11384,20 @@
       ]
     },
     {
+      "name": "qwen-max",
+      "category": "technology",
+      "path": "icons/technology/ai/gradient/qwen-max.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-qwen-max\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#ef4444;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#f97316;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <g stroke=\"url(#grad-qwen-max)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\">\n    <path d=\"M3 12l9-9 9 9-9 9-9-9z\"/><path d=\"M12 6v12M6 12h12\"/><circle cx=\"12\" cy=\"12\" r=\"2\"/>\n  </g>\n</svg>\n",
+      "variant": "gradient",
+      "tags": [
+        "technology",
+        "qwen",
+        "max",
+        "tech",
+        "software"
+      ]
+    },
+    {
       "name": "qwik",
       "category": "dev",
       "path": "icons/dev/gradient/qwik.svg",
@@ -11418,6 +11776,20 @@
       ]
     },
     {
+      "name": "reka-core",
+      "category": "technology",
+      "path": "icons/technology/ai/gradient/reka-core.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-reka-core\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#f97316;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#ef4444;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <g stroke=\"url(#grad-reka-core)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\">\n    <path d=\"M12 2L2 7v10l10 5 10-5V7L12 2z\"/><circle cx=\"12\" cy=\"12\" r=\"4\"/><path d=\"M12 2v10\"/>\n  </g>\n</svg>\n",
+      "variant": "gradient",
+      "tags": [
+        "technology",
+        "reka",
+        "core",
+        "tech",
+        "software"
+      ]
+    },
+    {
       "name": "remix",
       "category": "dev",
       "path": "icons/dev/gradient/remix.svg",
@@ -11494,6 +11866,20 @@
         "replicate",
         "logo",
         "company"
+      ]
+    },
+    {
+      "name": "replicate-deployments",
+      "category": "technology",
+      "path": "icons/technology/cloud/gradient/replicate-deployments.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-replicate-deployments\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#8b5cf6;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#3b82f6;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <g stroke=\"url(#grad-replicate-deployments)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\">\n    <rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\"/><path d=\"M3 9h18M3 15h18\"/><circle cx=\"8\" cy=\"12\" r=\"1\"/><circle cx=\"12\" cy=\"12\" r=\"1\"/><circle cx=\"16\" cy=\"12\" r=\"1\"/>\n  </g>\n</svg>\n",
+      "variant": "gradient",
+      "tags": [
+        "technology",
+        "replicate",
+        "deployments",
+        "tech",
+        "software"
       ]
     },
     {
@@ -11686,6 +12072,20 @@
       ]
     },
     {
+      "name": "rolldown",
+      "category": "dev",
+      "path": "icons/dev/gradient/rolldown.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-rolldown\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#f97316;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#ef4444;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <g stroke=\"url(#grad-rolldown)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\">\n    <circle cx=\"12\" cy=\"12\" r=\"10\"/><path d=\"M12 8v8M8 12h8\"/><path d=\"M15 9l-3 3 3 3\"/>\n  </g>\n</svg>\n",
+      "variant": "gradient",
+      "tags": [
+        "dev",
+        "rolldown",
+        "development",
+        "code",
+        "tools"
+      ]
+    },
+    {
       "name": "rotate-ccw",
       "category": "essential",
       "path": "icons/essential/actions/gradient/rotate-ccw.svg",
@@ -11767,7 +12167,7 @@
       "name": "rspack",
       "category": "dev",
       "path": "icons/dev/gradient/rspack.svg",
-      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-rspack)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-rspack\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#3b82f6;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#06b6d4;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <rect x=\"3\" y=\"3\" width=\"8\" height=\"8\" rx=\"1\"/><rect x=\"13\" y=\"3\" width=\"8\" height=\"8\" rx=\"1\"/><rect x=\"3\" y=\"13\" width=\"8\" height=\"8\" rx=\"1\"/><rect x=\"13\" y=\"13\" width=\"8\" height=\"8\" rx=\"1\"/><path d=\"M11 7h2M11 17h2M7 11v2M17 11v2\"/>\n</svg>\n",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-rspack\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#f97316;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#ef4444;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <g stroke=\"url(#grad-rspack)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\">\n    <rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\"/><path d=\"M8 8l8 8M16 8l-8 8\"/><circle cx=\"12\" cy=\"12\" r=\"2\"/>\n  </g>\n</svg>\n",
       "variant": "gradient",
       "tags": [
         "dev",
@@ -12216,6 +12616,21 @@
       "tags": [
         "dev",
         "shadcn",
+        "development",
+        "code",
+        "tools"
+      ]
+    },
+    {
+      "name": "shadcn-blocks",
+      "category": "dev",
+      "path": "icons/dev/gradient/shadcn-blocks.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-shadcn-blocks\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#10b981;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#06b6d4;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <g stroke=\"url(#grad-shadcn-blocks)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\">\n    <rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\"/><path d=\"M3 9h18M9 3v18\"/><path d=\"M3 15h18\"/>\n  </g>\n</svg>\n",
+      "variant": "gradient",
+      "tags": [
+        "dev",
+        "shadcn",
+        "blocks",
         "development",
         "code",
         "tools"
@@ -13404,6 +13819,20 @@
       ]
     },
     {
+      "name": "supermaven",
+      "category": "dev",
+      "path": "icons/dev/gradient/supermaven.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-supermaven\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#8b5cf6;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#3b82f6;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <g stroke=\"url(#grad-supermaven)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\">\n    <path d=\"M12 2l2.5 7.5h8l-6.5 5 2.5 7.5-6.5-5-6.5 5 2.5-7.5-6.5-5h8L12 2z\"/><path d=\"M12 8v8\"/><circle cx=\"12\" cy=\"12\" r=\"1.5\"/>\n  </g>\n</svg>\n",
+      "variant": "gradient",
+      "tags": [
+        "dev",
+        "supermaven",
+        "development",
+        "code",
+        "tools"
+      ]
+    },
+    {
       "name": "superrare",
       "category": "entertainment",
       "path": "icons/entertainment/nft/gradient/superrare.svg",
@@ -13434,7 +13863,7 @@
       "name": "surrealdb",
       "category": "technology",
       "path": "icons/technology/database/gradient/surrealdb.svg",
-      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-surrealdb)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-surrealdb\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#3b82f6;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#06b6d4;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <ellipse cx=\"12\" cy=\"6\" rx=\"8\" ry=\"3\"/>\n  <path d=\"M4 6v12c0 1.7 3.6 3 8 3s8-1.3 8-3V6\"/>\n  <path d=\"M4 12c0 1.7 3.6 3 8 3s8-1.3 8-3\"/>\n  <path d=\"M12 9v12\"/>\n</svg>\n",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-surrealdb\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#a855f7;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#ec4899;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <g stroke=\"url(#grad-surrealdb)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\">\n    <circle cx=\"12\" cy=\"12\" r=\"10\"/><path d=\"M8 10h8M8 14h8\"/><circle cx=\"12\" cy=\"12\" r=\"4\"/>\n  </g>\n</svg>\n",
       "variant": "gradient",
       "tags": [
         "technology",
@@ -13580,7 +14009,7 @@
       "name": "tabnine",
       "category": "dev",
       "path": "icons/dev/gradient/tabnine.svg",
-      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-tabnine)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-tabnine\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#10b981;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#06b6d4;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\"/>\n  <path d=\"M3 9h18\"/>\n  <path d=\"M9 3v18\"/>\n  <circle cx=\"15\" cy=\"15\" r=\"3\"/>\n</svg>\n",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-tabnine\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#a855f7;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#3b82f6;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <g stroke=\"url(#grad-tabnine)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\">\n    <rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\"/><path d=\"M12 7v10M7 12h10\"/><path d=\"M8 8l8 8M16 8l-8 8\"/>\n  </g>\n</svg>\n",
       "variant": "gradient",
       "tags": [
         "dev",
@@ -13784,6 +14213,20 @@
         "telegram",
         "media",
         "network"
+      ]
+    },
+    {
+      "name": "tembo-postgres",
+      "category": "technology",
+      "path": "icons/technology/database/gradient/tembo-postgres.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-tembo-postgres\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#3b82f6;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#10b981;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <g stroke=\"url(#grad-tembo-postgres)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\">\n    <circle cx=\"12\" cy=\"12\" r=\"10\"/><path d=\"M8 8h8v8H8z\"/><path d=\"M12 8v8M8 12h8\"/>\n  </g>\n</svg>\n",
+      "variant": "gradient",
+      "tags": [
+        "technology",
+        "tembo",
+        "postgres",
+        "tech",
+        "software"
       ]
     },
     {
@@ -14090,6 +14533,20 @@
       ]
     },
     {
+      "name": "tigris-data",
+      "category": "technology",
+      "path": "icons/technology/database/gradient/tigris-data.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-tigris-data\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#f97316;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#ef4444;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <g stroke=\"url(#grad-tigris-data)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\">\n    <path d=\"M3 12l9-9 9 9-9 9-9-9z\"/><path d=\"M9 12l3-3 3 3-3 3-3-3z\"/>\n  </g>\n</svg>\n",
+      "variant": "gradient",
+      "tags": [
+        "technology",
+        "tigris",
+        "data",
+        "tech",
+        "software"
+      ]
+    },
+    {
       "name": "tiktok",
       "category": "social",
       "path": "icons/social/platforms/gradient/tiktok.svg",
@@ -14194,6 +14651,20 @@
         "ai",
         "logo",
         "company"
+      ]
+    },
+    {
+      "name": "together-inference",
+      "category": "technology",
+      "path": "icons/technology/cloud/gradient/together-inference.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-together-inference\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#8b5cf6;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#3b82f6;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <g stroke=\"url(#grad-together-inference)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\">\n    <circle cx=\"8\" cy=\"12\" r=\"4\"/><circle cx=\"16\" cy=\"12\" r=\"4\"/><path d=\"M12 8v8\"/>\n  </g>\n</svg>\n",
+      "variant": "gradient",
+      "tags": [
+        "technology",
+        "together",
+        "inference",
+        "tech",
+        "software"
       ]
     },
     {
@@ -14534,6 +15005,20 @@
         "tuk",
         "thailand",
         "local"
+      ]
+    },
+    {
+      "name": "turbopack",
+      "category": "dev",
+      "path": "icons/dev/gradient/turbopack.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-turbopack\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#3b82f6;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#06b6d4;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <g stroke=\"url(#grad-turbopack)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\">\n    <path d=\"M13 2L3 14h9l-1 8 10-12h-9l1-8z\"/><path d=\"M12 14l2-2\"/>\n  </g>\n</svg>\n",
+      "variant": "gradient",
+      "tags": [
+        "dev",
+        "turbopack",
+        "development",
+        "code",
+        "tools"
       ]
     },
     {
@@ -14951,6 +15436,20 @@
       "tags": [
         "home",
         "utensils"
+      ]
+    },
+    {
+      "name": "v0-dev",
+      "category": "dev",
+      "path": "icons/dev/gradient/v0-dev.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-v0-dev\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#10b981;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#06b6d4;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <g stroke=\"url(#grad-v0-dev)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\">\n    <path d=\"M12 2L2 22h20L12 2z\"/><path d=\"M12 8v8\"/><circle cx=\"12\" cy=\"18\" r=\"1\"/>\n  </g>\n</svg>\n",
+      "variant": "gradient",
+      "tags": [
+        "dev",
+        "v0",
+        "development",
+        "code",
+        "tools"
       ]
     },
     {
@@ -15807,6 +16306,20 @@
         "technology",
         "yi",
         "large",
+        "tech",
+        "software"
+      ]
+    },
+    {
+      "name": "yi-lightning",
+      "category": "technology",
+      "path": "icons/technology/ai/gradient/yi-lightning.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-yi-lightning\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#8b5cf6;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#3b82f6;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <g stroke=\"url(#grad-yi-lightning)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\">\n    <path d=\"M13 2L3 14h9l-1 8 10-12h-9l1-8z\"/><circle cx=\"12\" cy=\"14\" r=\"1.5\"/>\n  </g>\n</svg>\n",
+      "variant": "gradient",
+      "tags": [
+        "technology",
+        "yi",
+        "lightning",
         "tech",
         "software"
       ]
