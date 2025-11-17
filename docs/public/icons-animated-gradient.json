@@ -1,12 +1,12 @@
 {
-  "generated": "2025-11-17T04:17:27.681Z",
+  "generated": "2025-11-17T04:21:51.357Z",
   "stats": {
-    "total": 1077,
+    "total": 1095,
     "variant": "animated-gradient",
     "categories": {
       "thai": 40,
       "technology": 272,
-      "dev": 233,
+      "dev": 251,
       "business": 115,
       "app": 11,
       "brand": 58,
@@ -945,6 +945,21 @@
       ]
     },
     {
+      "name": "axiom-logs",
+      "category": "dev",
+      "path": "icons/dev/animated-gradient/axiom-logs.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-axiom-logs)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-axiom-logs\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#10b981;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#06b6d4;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <rect <animate attributeName=\"opacity\" values=\"0.6;1;0.6\" dur=\"2s\" repeatCount=\"indefinite\"/> x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\"/><path <animate attributeName=\"opacity\" values=\"1;0.6;1\" dur=\"2s\" repeatCount=\"indefinite\"/> d=\"M8 8h8M8 12h6M8 16h4\"/><circle <animate attributeName=\"opacity\" values=\"0.6;1;0.6\" dur=\"2s\" repeatCount=\"indefinite\"/> cx=\"18\" cy=\"18\" r=\"3\"/><path <animate attributeName=\"opacity\" values=\"1;0.6;1\" dur=\"2s\" repeatCount=\"indefinite\"/> d=\"M18 17v2\"/>\n</svg>\n",
+      "variant": "animated-gradient",
+      "tags": [
+        "dev",
+        "axiom",
+        "logs",
+        "development",
+        "code",
+        "tools"
+      ]
+    },
+    {
       "name": "azure",
       "category": "technology",
       "path": "icons/technology/cloud/animated-gradient/azure.svg",
@@ -1163,6 +1178,20 @@
       ]
     },
     {
+      "name": "bearer",
+      "category": "dev",
+      "path": "icons/dev/animated-gradient/bearer.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-bearer)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-bearer\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#10b981;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#06b6d4;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <circle <animate attributeName=\"opacity\" values=\"0.6;1;0.6\" dur=\"2s\" repeatCount=\"indefinite\"/> cx=\"12\" cy=\"12\" r=\"10\"/><path <animate attributeName=\"opacity\" values=\"1;0.6;1\" dur=\"2s\" repeatCount=\"indefinite\"/> d=\"M12 2v20M2 12h20\"/><circle <animate attributeName=\"opacity\" values=\"0.6;1;0.6\" dur=\"2s\" repeatCount=\"indefinite\"/> cx=\"12\" cy=\"12\" r=\"4\"/><path <animate attributeName=\"opacity\" values=\"1;0.6;1\" dur=\"2s\" repeatCount=\"indefinite\"/> d=\"M6 6l12 12M18 6L6 18\"/>\n</svg>\n",
+      "variant": "animated-gradient",
+      "tags": [
+        "dev",
+        "bearer",
+        "development",
+        "code",
+        "tools"
+      ]
+    },
+    {
       "name": "bed",
       "category": "home",
       "path": "icons/home/living/animated-gradient/bed.svg",
@@ -1223,6 +1252,20 @@
       ]
     },
     {
+      "name": "bento",
+      "category": "dev",
+      "path": "icons/dev/animated-gradient/bento.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-bento)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-bento\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#10b981;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#06b6d4;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <rect <animate attributeName=\"opacity\" values=\"0.6;1;0.6\" dur=\"2s\" repeatCount=\"indefinite\"/> x=\"3\" y=\"3\" width=\"8\" height=\"8\" rx=\"1\"/><rect <animate attributeName=\"opacity\" values=\"0.6;1;0.6\" dur=\"2s\" repeatCount=\"indefinite\"/> x=\"13\" y=\"3\" width=\"8\" height=\"8\" rx=\"1\"/><rect <animate attributeName=\"opacity\" values=\"0.6;1;0.6\" dur=\"2s\" repeatCount=\"indefinite\"/> x=\"3\" y=\"13\" width=\"8\" height=\"8\" rx=\"1\"/><rect <animate attributeName=\"opacity\" values=\"0.6;1;0.6\" dur=\"2s\" repeatCount=\"indefinite\"/> x=\"13\" y=\"13\" width=\"8\" height=\"8\" rx=\"1\"/>\n</svg>\n",
+      "variant": "animated-gradient",
+      "tags": [
+        "dev",
+        "bento",
+        "development",
+        "code",
+        "tools"
+      ]
+    },
+    {
       "name": "berachain",
       "category": "technology",
       "path": "icons/technology/blockchain/animated-gradient/berachain.svg",
@@ -1267,7 +1310,7 @@
       "name": "betterstack",
       "category": "dev",
       "path": "icons/dev/animated-gradient/betterstack.svg",
-      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-betterstack)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-betterstack\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#10b981;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#06b6d4;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <rect x=\"3\" y=\"3\" width=\"18\" height=\"5\" rx=\"1\">\n    <animate attributeName=\"opacity\" values=\"1;0.6;1\" dur=\"2s\" repeatCount=\"indefinite\"/>\n  </rect>\n  <rect x=\"3\" y=\"10\" width=\"18\" height=\"5\" rx=\"1\">\n    <animate attributeName=\"opacity\" values=\"0.6;1;0.6\" dur=\"2s\" begin=\"0.5s\" repeatCount=\"indefinite\"/>\n  </rect>\n  <rect x=\"3\" y=\"17\" width=\"18\" height=\"5\" rx=\"1\">\n    <animate attributeName=\"opacity\" values=\"0.6;1;0.6\" dur=\"2s\" begin=\"1s\" repeatCount=\"indefinite\"/>\n  </rect>\n  <path d=\"M15 5.5l3 3\">\n    <animate attributeName=\"opacity\" values=\"0.5;1;0.5\" dur=\"1s\" repeatCount=\"indefinite\"/>\n  </path>\n</svg>\n",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-betterstack)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-betterstack\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#10b981;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#06b6d4;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <rect <animate attributeName=\"opacity\" values=\"0.6;1;0.6\" dur=\"2s\" repeatCount=\"indefinite\"/> x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\"/><path <animate attributeName=\"opacity\" values=\"1;0.6;1\" dur=\"2s\" repeatCount=\"indefinite\"/> d=\"M8 8v8M12 10v6M16 6v12\"/>\n</svg>\n",
       "variant": "animated-gradient",
       "tags": [
         "dev",
@@ -1717,6 +1760,20 @@
         "bullhorn",
         "work",
         "office"
+      ]
+    },
+    {
+      "name": "bullmq",
+      "category": "dev",
+      "path": "icons/dev/animated-gradient/bullmq.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-bullmq)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-bullmq\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#10b981;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#06b6d4;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <circle <animate attributeName=\"opacity\" values=\"0.6;1;0.6\" dur=\"2s\" repeatCount=\"indefinite\"/> cx=\"6\" cy=\"12\" r=\"3\"/><circle <animate attributeName=\"opacity\" values=\"0.6;1;0.6\" dur=\"2s\" repeatCount=\"indefinite\"/> cx=\"12\" cy=\"12\" r=\"3\"/><circle <animate attributeName=\"opacity\" values=\"0.6;1;0.6\" dur=\"2s\" repeatCount=\"indefinite\"/> cx=\"18\" cy=\"12\" r=\"3\"/><path <animate attributeName=\"opacity\" values=\"1;0.6;1\" dur=\"2s\" repeatCount=\"indefinite\"/> d=\"M9 12h3M15 12h3\"/>\n</svg>\n",
+      "variant": "animated-gradient",
+      "tags": [
+        "dev",
+        "bullmq",
+        "development",
+        "code",
+        "tools"
       ]
     },
     {
@@ -2640,6 +2697,20 @@
       ]
     },
     {
+      "name": "codecov",
+      "category": "dev",
+      "path": "icons/dev/animated-gradient/codecov.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-codecov)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-codecov\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#10b981;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#06b6d4;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <circle <animate attributeName=\"opacity\" values=\"0.6;1;0.6\" dur=\"2s\" repeatCount=\"indefinite\"/> cx=\"12\" cy=\"12\" r=\"10\"/><path <animate attributeName=\"opacity\" values=\"1;0.6;1\" dur=\"2s\" repeatCount=\"indefinite\"/> d=\"M8 12l2 2 4-4\"/><path <animate attributeName=\"opacity\" values=\"1;0.6;1\" dur=\"2s\" repeatCount=\"indefinite\"/> d=\"M12 2v4M12 18v4M2 12h4M18 12h4\"/><circle <animate attributeName=\"opacity\" values=\"0.6;1;0.6\" dur=\"2s\" repeatCount=\"indefinite\"/> cx=\"12\" cy=\"12\" r=\"6\"/>\n</svg>\n",
+      "variant": "animated-gradient",
+      "tags": [
+        "dev",
+        "codecov",
+        "development",
+        "code",
+        "tools"
+      ]
+    },
+    {
       "name": "codesandbox",
       "category": "dev",
       "path": "icons/dev/animated-gradient/codesandbox.svg",
@@ -3286,6 +3357,20 @@
       "tags": [
         "dev",
         "deno",
+        "development",
+        "code",
+        "tools"
+      ]
+    },
+    {
+      "name": "dependabot",
+      "category": "dev",
+      "path": "icons/dev/animated-gradient/dependabot.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-dependabot)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-dependabot\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#10b981;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#06b6d4;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <rect <animate attributeName=\"opacity\" values=\"0.6;1;0.6\" dur=\"2s\" repeatCount=\"indefinite\"/> x=\"5\" y=\"8\" width=\"14\" height=\"12\" rx=\"2\"/><circle <animate attributeName=\"opacity\" values=\"0.6;1;0.6\" dur=\"2s\" repeatCount=\"indefinite\"/> cx=\"9\" cy=\"13\" r=\"1\"/><circle <animate attributeName=\"opacity\" values=\"0.6;1;0.6\" dur=\"2s\" repeatCount=\"indefinite\"/> cx=\"15\" cy=\"13\" r=\"1\"/><path <animate attributeName=\"opacity\" values=\"1;0.6;1\" dur=\"2s\" repeatCount=\"indefinite\"/> d=\"M9 16h6\"/><rect <animate attributeName=\"opacity\" values=\"0.6;1;0.6\" dur=\"2s\" repeatCount=\"indefinite\"/> x=\"8\" y=\"4\" width=\"3\" height=\"4\" rx=\"1\"/><rect <animate attributeName=\"opacity\" values=\"0.6;1;0.6\" dur=\"2s\" repeatCount=\"indefinite\"/> x=\"13\" y=\"4\" width=\"3\" height=\"4\" rx=\"1\"/>\n</svg>\n",
+      "variant": "animated-gradient",
+      "tags": [
+        "dev",
+        "dependabot",
         "development",
         "code",
         "tools"
@@ -5227,6 +5312,20 @@
       ]
     },
     {
+      "name": "graphite",
+      "category": "dev",
+      "path": "icons/dev/animated-gradient/graphite.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-graphite)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-graphite\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#10b981;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#06b6d4;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <rect <animate attributeName=\"opacity\" values=\"0.6;1;0.6\" dur=\"2s\" repeatCount=\"indefinite\"/> x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\"/><path <animate attributeName=\"opacity\" values=\"1;0.6;1\" dur=\"2s\" repeatCount=\"indefinite\"/> d=\"M3 8h18M3 13h18M8 3v18M13 3v18\"/><circle <animate attributeName=\"opacity\" values=\"0.6;1;0.6\" dur=\"2s\" repeatCount=\"indefinite\"/> cx=\"8\" cy=\"8\" r=\"1\"/>\n</svg>\n",
+      "variant": "animated-gradient",
+      "tags": [
+        "dev",
+        "graphite",
+        "development",
+        "code",
+        "tools"
+      ]
+    },
+    {
       "name": "graphql",
       "category": "dev",
       "path": "icons/dev/animated-gradient/graphql.svg",
@@ -5581,7 +5680,7 @@
       "name": "highlight-io",
       "category": "dev",
       "path": "icons/dev/animated-gradient/highlight-io.svg",
-      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-highlight-io)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-highlight-io\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#10b981;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#06b6d4;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <circle cx=\"12\" cy=\"12\" r=\"10\">\n    <animate attributeName=\"stroke-opacity\" values=\"1;0.5;1\" dur=\"2s\" repeatCount=\"indefinite\"/>\n  </circle>\n  <path d=\"M12 8v8\">\n    <animate attributeName=\"stroke-dasharray\" values=\"0,8;8,0;0,8\" dur=\"2s\" repeatCount=\"indefinite\"/>\n  </path>\n  <path d=\"M8 12h8\">\n    <animate attributeName=\"stroke-dasharray\" values=\"0,8;8,0;0,8\" dur=\"2s\" begin=\"1s\" repeatCount=\"indefinite\"/>\n  </path>\n  <circle cx=\"12\" cy=\"12\" r=\"3\">\n    <animateTransform attributeName=\"transform\" type=\"rotate\" from=\"0 12 12\" to=\"360 12 12\" dur=\"3s\" repeatCount=\"indefinite\"/>\n  </circle>\n  <path d=\"M18 6l-12 12\">\n    <animate attributeName=\"opacity\" values=\"0.5;1;0.5\" dur=\"1.5s\" repeatCount=\"indefinite\"/>\n  </path>\n</svg>\n",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-highlight-io)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-highlight-io\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#10b981;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#06b6d4;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <path <animate attributeName=\"opacity\" values=\"1;0.6;1\" dur=\"2s\" repeatCount=\"indefinite\"/> d=\"M3 3l6 18 3-9 9-3L3 3z\"/><circle <animate attributeName=\"opacity\" values=\"0.6;1;0.6\" dur=\"2s\" repeatCount=\"indefinite\"/> cx=\"12\" cy=\"12\" r=\"2\"/><path <animate attributeName=\"opacity\" values=\"1;0.6;1\" dur=\"2s\" repeatCount=\"indefinite\"/> d=\"M18 6l3-3M21 6l-3-3\"/>\n</svg>\n",
       "variant": "animated-gradient",
       "tags": [
         "dev",
@@ -6879,6 +6978,21 @@
       ]
     },
     {
+      "name": "loops-so",
+      "category": "dev",
+      "path": "icons/dev/animated-gradient/loops-so.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-loops-so)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-loops-so\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#10b981;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#06b6d4;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <circle <animate attributeName=\"opacity\" values=\"0.6;1;0.6\" dur=\"2s\" repeatCount=\"indefinite\"/> cx=\"8\" cy=\"12\" r=\"6\"/><circle <animate attributeName=\"opacity\" values=\"0.6;1;0.6\" dur=\"2s\" repeatCount=\"indefinite\"/> cx=\"16\" cy=\"12\" r=\"6\"/><path <animate attributeName=\"opacity\" values=\"1;0.6;1\" dur=\"2s\" repeatCount=\"indefinite\"/> d=\"M14 12h-4\"/>\n</svg>\n",
+      "variant": "animated-gradient",
+      "tags": [
+        "dev",
+        "loops",
+        "so",
+        "development",
+        "code",
+        "tools"
+      ]
+    },
+    {
       "name": "lotus",
       "category": "thai",
       "path": "icons/thai/animated-gradient/lotus.svg",
@@ -6970,6 +7084,34 @@
         "mail",
         "media",
         "network"
+      ]
+    },
+    {
+      "name": "mailgun",
+      "category": "dev",
+      "path": "icons/dev/animated-gradient/mailgun.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-mailgun)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-mailgun\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#10b981;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#06b6d4;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <rect <animate attributeName=\"opacity\" values=\"0.6;1;0.6\" dur=\"2s\" repeatCount=\"indefinite\"/> x=\"3\" y=\"5\" width=\"18\" height=\"14\" rx=\"2\"/><path <animate attributeName=\"opacity\" values=\"1;0.6;1\" dur=\"2s\" repeatCount=\"indefinite\"/> d=\"M3 7l9 6 9-6\"/><circle <animate attributeName=\"opacity\" values=\"0.6;1;0.6\" dur=\"2s\" repeatCount=\"indefinite\"/> cx=\"18\" cy=\"8\" r=\"2\"/>\n</svg>\n",
+      "variant": "animated-gradient",
+      "tags": [
+        "dev",
+        "mailgun",
+        "development",
+        "code",
+        "tools"
+      ]
+    },
+    {
+      "name": "mailtrap",
+      "category": "dev",
+      "path": "icons/dev/animated-gradient/mailtrap.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-mailtrap)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-mailtrap\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#10b981;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#06b6d4;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <rect <animate attributeName=\"opacity\" values=\"0.6;1;0.6\" dur=\"2s\" repeatCount=\"indefinite\"/> x=\"3\" y=\"5\" width=\"18\" height=\"14\" rx=\"2\"/><path <animate attributeName=\"opacity\" values=\"1;0.6;1\" dur=\"2s\" repeatCount=\"indefinite\"/> d=\"M3 7l9 6 9-6\"/><path <animate attributeName=\"opacity\" values=\"1;0.6;1\" dur=\"2s\" repeatCount=\"indefinite\"/> d=\"M8 12l-5 5M16 12l5 5\"/>\n</svg>\n",
+      "variant": "animated-gradient",
+      "tags": [
+        "dev",
+        "mailtrap",
+        "development",
+        "code",
+        "tools"
       ]
     },
     {
@@ -8367,6 +8509,20 @@
       ]
     },
     {
+      "name": "openphone",
+      "category": "dev",
+      "path": "icons/dev/animated-gradient/openphone.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-openphone)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-openphone\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#10b981;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#06b6d4;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <path <animate attributeName=\"opacity\" values=\"1;0.6;1\" dur=\"2s\" repeatCount=\"indefinite\"/> d=\"M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z\"/>\n</svg>\n",
+      "variant": "animated-gradient",
+      "tags": [
+        "dev",
+        "openphone",
+        "development",
+        "code",
+        "tools"
+      ]
+    },
+    {
       "name": "openrouter",
       "category": "technology",
       "path": "icons/technology/ai/animated-gradient/openrouter.svg",
@@ -9368,6 +9524,20 @@
       ]
     },
     {
+      "name": "postmark",
+      "category": "dev",
+      "path": "icons/dev/animated-gradient/postmark.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-postmark)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-postmark\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#10b981;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#06b6d4;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <rect <animate attributeName=\"opacity\" values=\"0.6;1;0.6\" dur=\"2s\" repeatCount=\"indefinite\"/> x=\"3\" y=\"5\" width=\"18\" height=\"14\" rx=\"2\"/><path <animate attributeName=\"opacity\" values=\"1;0.6;1\" dur=\"2s\" repeatCount=\"indefinite\"/> d=\"M3 7l9 6 9-6\"/><path <animate attributeName=\"opacity\" values=\"1;0.6;1\" dur=\"2s\" repeatCount=\"indefinite\"/> d=\"M3 7v10\"/><path <animate attributeName=\"opacity\" values=\"1;0.6;1\" dur=\"2s\" repeatCount=\"indefinite\"/> d=\"M21 7v10\"/>\n</svg>\n",
+      "variant": "animated-gradient",
+      "tags": [
+        "dev",
+        "postmark",
+        "development",
+        "code",
+        "tools"
+      ]
+    },
+    {
       "name": "pound",
       "category": "business",
       "path": "icons/business/finance/animated-gradient/pound.svg",
@@ -9671,6 +9841,20 @@
         "computing",
         "tech",
         "software"
+      ]
+    },
+    {
+      "name": "quirrel",
+      "category": "dev",
+      "path": "icons/dev/animated-gradient/quirrel.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-quirrel)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-quirrel\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#10b981;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#06b6d4;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <circle <animate attributeName=\"opacity\" values=\"0.6;1;0.6\" dur=\"2s\" repeatCount=\"indefinite\"/> cx=\"12\" cy=\"12\" r=\"10\"/><path <animate attributeName=\"opacity\" values=\"1;0.6;1\" dur=\"2s\" repeatCount=\"indefinite\"/> d=\"M12 6v6l4 2\"/><circle <animate attributeName=\"opacity\" values=\"0.6;1;0.6\" dur=\"2s\" repeatCount=\"indefinite\"/> cx=\"12\" cy=\"12\" r=\"2\"/>\n</svg>\n",
+      "variant": "animated-gradient",
+      "tags": [
+        "dev",
+        "quirrel",
+        "development",
+        "code",
+        "tools"
       ]
     },
     {
@@ -10059,6 +10243,20 @@
         "render",
         "logo",
         "company"
+      ]
+    },
+    {
+      "name": "renovate",
+      "category": "dev",
+      "path": "icons/dev/animated-gradient/renovate.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-renovate)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-renovate\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#10b981;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#06b6d4;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <circle <animate attributeName=\"opacity\" values=\"0.6;1;0.6\" dur=\"2s\" repeatCount=\"indefinite\"/> cx=\"12\" cy=\"12\" r=\"10\"/><path <animate attributeName=\"opacity\" values=\"1;0.6;1\" dur=\"2s\" repeatCount=\"indefinite\"/> d=\"M12 2v20\"/><path <animate attributeName=\"opacity\" values=\"1;0.6;1\" dur=\"2s\" repeatCount=\"indefinite\"/> d=\"M12 2l-5 8h10l-5 8v-8\"/>\n</svg>\n",
+      "variant": "animated-gradient",
+      "tags": [
+        "dev",
+        "renovate",
+        "development",
+        "code",
+        "tools"
       ]
     },
     {
@@ -10610,6 +10808,20 @@
       ]
     },
     {
+      "name": "semgrep",
+      "category": "dev",
+      "path": "icons/dev/animated-gradient/semgrep.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-semgrep)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-semgrep\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#10b981;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#06b6d4;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <path <animate attributeName=\"opacity\" values=\"1;0.6;1\" dur=\"2s\" repeatCount=\"indefinite\"/> d=\"M12 2L2 7v10l10 5 10-5V7L12 2z\"/><path <animate attributeName=\"opacity\" values=\"1;0.6;1\" dur=\"2s\" repeatCount=\"indefinite\"/> d=\"M2 7l10 5M22 7l-10 5\"/><path <animate attributeName=\"opacity\" values=\"1;0.6;1\" dur=\"2s\" repeatCount=\"indefinite\"/> d=\"M12 12v10\"/><circle <animate attributeName=\"opacity\" values=\"0.6;1;0.6\" dur=\"2s\" repeatCount=\"indefinite\"/> cx=\"12\" cy=\"12\" r=\"2\"/>\n</svg>\n",
+      "variant": "animated-gradient",
+      "tags": [
+        "dev",
+        "semgrep",
+        "development",
+        "code",
+        "tools"
+      ]
+    },
+    {
       "name": "send",
       "category": "essential",
       "path": "icons/essential/actions/animated-gradient/send.svg",
@@ -11118,6 +11330,20 @@
       ]
     },
     {
+      "name": "snyk",
+      "category": "dev",
+      "path": "icons/dev/animated-gradient/snyk.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-snyk)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-snyk\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#10b981;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#06b6d4;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <circle <animate attributeName=\"opacity\" values=\"0.6;1;0.6\" dur=\"2s\" repeatCount=\"indefinite\"/> cx=\"12\" cy=\"12\" r=\"10\"/><path <animate attributeName=\"opacity\" values=\"1;0.6;1\" dur=\"2s\" repeatCount=\"indefinite\"/> d=\"M12 6v6l4 2\"/><circle <animate attributeName=\"opacity\" values=\"0.6;1;0.6\" dur=\"2s\" repeatCount=\"indefinite\"/> cx=\"12\" cy=\"12\" r=\"2\"/><path <animate attributeName=\"opacity\" values=\"1;0.6;1\" dur=\"2s\" repeatCount=\"indefinite\"/> d=\"M6 6l12 12M18 6L6 18\"/>\n</svg>\n",
+      "variant": "animated-gradient",
+      "tags": [
+        "dev",
+        "snyk",
+        "development",
+        "code",
+        "tools"
+      ]
+    },
+    {
       "name": "social-commerce",
       "category": "social",
       "path": "icons/social/animated-gradient/social-commerce.svg",
@@ -11128,6 +11354,20 @@
         "commerce",
         "media",
         "network"
+      ]
+    },
+    {
+      "name": "socket-dev",
+      "category": "dev",
+      "path": "icons/dev/animated-gradient/socket-dev.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-socket-dev)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-socket-dev\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#10b981;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#06b6d4;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <circle <animate attributeName=\"opacity\" values=\"0.6;1;0.6\" dur=\"2s\" repeatCount=\"indefinite\"/> cx=\"12\" cy=\"12\" r=\"10\"/><circle <animate attributeName=\"opacity\" values=\"0.6;1;0.6\" dur=\"2s\" repeatCount=\"indefinite\"/> cx=\"12\" cy=\"12\" r=\"6\"/><circle <animate attributeName=\"opacity\" values=\"0.6;1;0.6\" dur=\"2s\" repeatCount=\"indefinite\"/> cx=\"12\" cy=\"12\" r=\"2\"/><path <animate attributeName=\"opacity\" values=\"1;0.6;1\" dur=\"2s\" repeatCount=\"indefinite\"/> d=\"M12 2v4M12 18v4M2 12h4M18 12h4\"/>\n</svg>\n",
+      "variant": "animated-gradient",
+      "tags": [
+        "dev",
+        "socket",
+        "development",
+        "code",
+        "tools"
       ]
     },
     {
@@ -11202,6 +11442,20 @@
       "tags": [
         "dev",
         "solidjs",
+        "development",
+        "code",
+        "tools"
+      ]
+    },
+    {
+      "name": "sonarqube",
+      "category": "dev",
+      "path": "icons/dev/animated-gradient/sonarqube.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"url(#grad-sonarqube)\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"grad-sonarqube\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:#10b981;stop-opacity:1\"/>\n      <stop offset=\"100%\" style=\"stop-color:#06b6d4;stop-opacity:1\"/>\n    </linearGradient>\n  </defs>\n  <rect <animate attributeName=\"opacity\" values=\"0.6;1;0.6\" dur=\"2s\" repeatCount=\"indefinite\"/> x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\"/><path <animate attributeName=\"opacity\" values=\"1;0.6;1\" dur=\"2s\" repeatCount=\"indefinite\"/> d=\"M8 16v-4M12 16v-6M16 16v-8\"/><path <animate attributeName=\"opacity\" values=\"1;0.6;1\" dur=\"2s\" repeatCount=\"indefinite\"/> d=\"M8 10l4-2 4 2\"/>\n</svg>\n",
+      "variant": "animated-gradient",
+      "tags": [
+        "dev",
+        "sonarqube",
         "development",
         "code",
         "tools"
