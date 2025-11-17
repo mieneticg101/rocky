@@ -1,22 +1,22 @@
 {
-  "generated": "2025-11-16T22:49:17.862Z",
+  "generated": "2025-11-17T00:18:09.630Z",
   "stats": {
-    "total": 818,
+    "total": 824,
     "gradient": 784,
     "animated": 130,
     "animated-gradient": 268,
     "categories": {
       "thai": 40,
-      "technology": 190,
+      "technology": 194,
       "business": 107,
       "app": 11,
       "brand": 58,
       "essential": 134,
       "entertainment": 60,
-      "dev": 67,
+      "dev": 68,
       "home": 28,
       "healthcare": 27,
-      "social": 54,
+      "social": 55,
       "nature": 42
     }
   },
@@ -623,6 +623,25 @@
         "pro",
         "tech",
         "software"
+      ]
+    },
+    {
+      "name": "appwrite",
+      "category": "dev",
+      "path": "icons/dev/appwrite.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M12 2L4 7v10l8 5 8-5V7l-8-5z\"/>\n  <circle cx=\"12\" cy=\"12\" r=\"3\"/>\n  <path d=\"M12 2v4\"/>\n  <path d=\"M12 18v4\"/>\n</svg>\n",
+      "variants": {
+        "normal": true,
+        "gradient": false,
+        "animated": false,
+        "animated-gradient": false
+      },
+      "tags": [
+        "dev",
+        "appwrite",
+        "development",
+        "code",
+        "tools"
       ]
     },
     {
@@ -6192,6 +6211,42 @@
       ]
     },
     {
+      "name": "hunyuan",
+      "category": "technology",
+      "path": "icons/technology/ai/hunyuan.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <circle cx=\"12\" cy=\"12\" r=\"10\"/>\n  <path d=\"M12 6l3 6-3 6-3-6z\"/>\n</svg>\n",
+      "variants": {
+        "normal": true,
+        "gradient": false,
+        "animated": false,
+        "animated-gradient": false
+      },
+      "tags": [
+        "technology",
+        "hunyuan",
+        "tech",
+        "software"
+      ]
+    },
+    {
+      "name": "hyperliquid",
+      "category": "technology",
+      "path": "icons/technology/blockchain/hyperliquid.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M3 3v18h18\"/>\n  <path d=\"M7 16l4-8 4 4 4-6\"/>\n  <path d=\"M18 10h-4v4\"/>\n</svg>\n",
+      "variants": {
+        "normal": true,
+        "gradient": false,
+        "animated": false,
+        "animated-gradient": false
+      },
+      "tags": [
+        "technology",
+        "hyperliquid",
+        "tech",
+        "software"
+      ]
+    },
+    {
       "name": "ice-cream",
       "category": "home",
       "path": "icons/home/food/ice-cream.svg",
@@ -7311,6 +7366,24 @@
         "mail",
         "media",
         "network"
+      ]
+    },
+    {
+      "name": "mantle",
+      "category": "technology",
+      "path": "icons/technology/blockchain/mantle.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\"/>\n  <path d=\"M8 8h8\"/>\n  <path d=\"M8 12h5\"/>\n  <path d=\"M8 16h6\"/>\n</svg>\n",
+      "variants": {
+        "normal": true,
+        "gradient": false,
+        "animated": false,
+        "animated-gradient": false
+      },
+      "tags": [
+        "technology",
+        "mantle",
+        "tech",
+        "software"
       ]
     },
     {
@@ -10879,6 +10952,24 @@
       ]
     },
     {
+      "name": "session",
+      "category": "social",
+      "path": "icons/social/session.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <rect x=\"3\" y=\"11\" width=\"18\" height=\"11\" rx=\"2\"/>\n  <path d=\"M7 11V7a5 5 0 0 1 9.9-1\"/>\n  <circle cx=\"12\" cy=\"16\" r=\"1\"/>\n</svg>\n",
+      "variants": {
+        "normal": true,
+        "gradient": false,
+        "animated": false,
+        "animated-gradient": false
+      },
+      "tags": [
+        "social",
+        "session",
+        "media",
+        "network"
+      ]
+    },
+    {
       "name": "settings",
       "category": "essential",
       "path": "icons/essential/ui-ux/settings.svg",
@@ -13353,6 +13444,24 @@
         "eats",
         "work",
         "office"
+      ]
+    },
+    {
+      "name": "udio",
+      "category": "technology",
+      "path": "icons/technology/ai/udio.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <circle cx=\"9\" cy=\"9\" r=\"2\"/>\n  <circle cx=\"15\" cy=\"9\" r=\"2\"/>\n  <path d=\"M9 14c1 1.5 2.5 2 3 2s2-.5 3-2\"/>\n  <path d=\"M6 18c2-2 4-3 6-3s4 1 6 3\"/>\n</svg>\n",
+      "variants": {
+        "normal": true,
+        "gradient": false,
+        "animated": false,
+        "animated-gradient": false
+      },
+      "tags": [
+        "technology",
+        "udio",
+        "tech",
+        "software"
       ]
     },
     {
