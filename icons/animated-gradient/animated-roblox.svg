@@ -1,0 +1,29 @@
+<svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="url(#grad-animated-roblox-anim)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad-animated-roblox-anim" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1">
+        <animate attributeName="stop-color" values="#3b82f6;#8b5cf6;#3b82f6" dur="3s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" style="stop-color:#8b5cf6;stop-opacity:1">
+        <animate attributeName="stop-color" values="#8b5cf6;#3b82f6;#8b5cf6" dur="3s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+  <g transform-origin="12 12">
+    <rect x="8" y="4" width="8" height="16" rx="1" transform="rotate(15 12 12)">
+      <animateTransform
+        attributeName="transform"
+        type="rotate"
+        from="15 12 12"
+        to="375 12 12"
+        dur="4s"
+        repeatCount="indefinite"/>
+    </rect>
+    <path d="M10 10l4 1">
+      <animate attributeName="opacity" values="1;0.5;1" dur="2s" repeatCount="indefinite"/>
+    </path>
+    <path d="M10 14l4 1">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="2s" repeatCount="indefinite"/>
+    </path>
+  </g>
+</svg>

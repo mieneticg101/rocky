@@ -1,0 +1,18 @@
+<svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="url(#grad-eye-blink-anim)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad-eye-blink-anim" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1">
+        <animate attributeName="stop-color" values="#3b82f6;#8b5cf6;#3b82f6" dur="3s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" style="stop-color:#8b5cf6;stop-opacity:1">
+        <animate attributeName="stop-color" values="#8b5cf6;#3b82f6;#8b5cf6" dur="3s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+  <path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z">
+    <animate attributeName="d" values="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z;M1 12s4 0 11 0 11 0 11 0-4 0-11 0-11 0-11 0z;M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z" dur="3s" repeatCount="indefinite"/>
+  </path>
+  <circle cx="12" cy="12" r="3">
+    <animate attributeName="r" values="3;0.5;3" dur="3s" repeatCount="indefinite"/>
+  </circle>
+</svg>

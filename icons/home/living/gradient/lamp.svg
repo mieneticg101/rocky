@@ -1,0 +1,11 @@
+<svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="url(#grad-lamp)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad-lamp" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f59e0b;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#ef4444;stop-opacity:1"/>
+    </linearGradient>
+  </defs>
+  <path d="M9 2h6l3 7H6l3-7z"/>
+  <path d="M12 9v13"/>
+  <path d="M9 22h6"/>
+</svg>

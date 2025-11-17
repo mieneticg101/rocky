@@ -1,0 +1,23 @@
+<svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="url(#grad-battery-charging-anim)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad-battery-charging-anim" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1">
+        <animate attributeName="stop-color" values="#3b82f6;#8b5cf6;#3b82f6" dur="3s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" style="stop-color:#8b5cf6;stop-opacity:1">
+        <animate attributeName="stop-color" values="#8b5cf6;#3b82f6;#8b5cf6" dur="3s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="7" width="16" height="10" rx="2" ry="2"/>
+  <line x1="22" y1="11" x2="22" y2="13"/>
+  <rect x="4" y="9" width="4" height="6" fill="url(#grad-battery-charging-anim)" opacity="0.3">
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="1.5s" repeatCount="indefinite" begin="0s"/>
+  </rect>
+  <rect x="9" y="9" width="4" height="6" fill="url(#grad-battery-charging-anim)" opacity="0.3">
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="1.5s" repeatCount="indefinite" begin="0.3s"/>
+  </rect>
+  <rect x="14" y="9" width="2" height="6" fill="url(#grad-battery-charging-anim)" opacity="0.3">
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="1.5s" repeatCount="indefinite" begin="0.6s"/>
+  </rect>
+</svg>

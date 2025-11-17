@@ -1,0 +1,25 @@
+<svg viewBox="0 0 24 24" width="24" height="24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad-animated-gradient-5g-anim" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1">
+        <animate attributeName="stop-color" values="#3b82f6;#8b5cf6;#3b82f6" dur="3s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" style="stop-color:#8b5cf6;stop-opacity:1">
+        <animate attributeName="stop-color" values="#8b5cf6;#3b82f6;#8b5cf6" dur="3s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+  <defs>
+    <linearGradient id="5g-anim-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#6366f1;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#8b5cf6;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <path d="M8 8h3v3H8v2h3v3H8M14 8h3c1 0 2 1 2 2v1c0 1-1 2-2 2h-3v-2h3v-1h-3V8z" stroke="url(#5g-anim-gradient)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+    <animate attributeName="stroke-dasharray" values="0 40;40 0" dur="3s" repeatCount="indefinite"/>
+  </path>
+  <circle cx="12" cy="12" r="9" stroke="url(#5g-anim-gradient)" stroke-width="1.5" opacity="0.3">
+    <animate attributeName="r" values="9;10;11" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.3;0;0" dur="2s" repeatCount="indefinite"/>
+  </circle>
+</svg>

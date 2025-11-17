@@ -1,0 +1,37 @@
+<svg viewBox="0 0 24 24" width="24" height="24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad-animated-gradient-drone-fly-anim" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1">
+        <animate attributeName="stop-color" values="#3b82f6;#8b5cf6;#3b82f6" dur="3s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" style="stop-color:#8b5cf6;stop-opacity:1">
+        <animate attributeName="stop-color" values="#8b5cf6;#3b82f6;#8b5cf6" dur="3s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+  <defs>
+    <linearGradient id="drone-fly-anim-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#fc466b;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#3f5efb;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -2;0 0;0 2;0 0" dur="3s" repeatCount="indefinite"/>
+    <rect x="9" y="10" width="6" height="3" rx="0.5" stroke="url(#drone-fly-anim-gradient)" stroke-width="1.5"/>
+    <line x1="9" y1="11.5" x2="5" y2="11.5" stroke="url(#drone-fly-anim-gradient)" stroke-width="1.5"/>
+    <line x1="15" y1="11.5" x2="19" y2="11.5" stroke="url(#drone-fly-anim-gradient)" stroke-width="1.5"/>
+    <circle cx="5" cy="11.5" r="2.5" stroke="url(#drone-fly-anim-gradient)" stroke-width="1.5"/>
+    <circle cx="19" cy="11.5" r="2.5" stroke="url(#drone-fly-anim-gradient)" stroke-width="1.5"/>
+    <circle cx="12" cy="8" r="1" fill="url(#drone-fly-anim-gradient)" opacity="0.1" stroke="url(#drone-fly-anim-gradient)" stroke-width="1.5">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="1s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <g opacity="0.3">
+    <ellipse cx="5" cy="11.5" rx="3.5" ry="1" stroke="url(#drone-fly-anim-gradient)" stroke-width="1.5">
+      <animateTransform attributeName="transform" type="rotate" from="0 5 11.5" to="360 5 11.5" dur="0.5s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="19" cy="11.5" rx="3.5" ry="1" stroke="url(#drone-fly-anim-gradient)" stroke-width="1.5">
+      <animateTransform attributeName="transform" type="rotate" from="0 19 11.5" to="360 19 11.5" dur="0.5s" repeatCount="indefinite"/>
+    </ellipse>
+  </g>
+</svg>

@@ -1,0 +1,27 @@
+<svg viewBox="0 0 24 24" width="24" height="24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad-animated-gradient-aws-anim" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1">
+        <animate attributeName="stop-color" values="#3b82f6;#8b5cf6;#3b82f6" dur="3s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" style="stop-color:#8b5cf6;stop-opacity:1">
+        <animate attributeName="stop-color" values="#8b5cf6;#3b82f6;#8b5cf6" dur="3s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+  <defs>
+    <linearGradient id="aws-anim-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ff9900;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ec7211;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <path d="M3 8c2-2 4-3 7-3s5 1 7 3" stroke="url(#aws-anim-gradient)" stroke-width="1.5" stroke-linecap="round">
+    <animate attributeName="stroke-dasharray" values="0 20;20 0" dur="3s" repeatCount="indefinite" begin="0s"/>
+  </path>
+  <path d="M3 12c2-2 4-3 7-3s5 1 7 3" stroke="url(#aws-anim-gradient)" stroke-width="1.5" stroke-linecap="round">
+    <animate attributeName="stroke-dasharray" values="0 20;20 0" dur="3s" repeatCount="indefinite" begin="0.5s"/>
+  </path>
+  <path d="M3 16c2-2 4-3 7-3s5 1 7 3" stroke="url(#aws-anim-gradient)" stroke-width="1.5" stroke-linecap="round">
+    <animate attributeName="stroke-dasharray" values="0 20;20 0" dur="3s" repeatCount="indefinite" begin="1s"/>
+  </path>
+</svg>

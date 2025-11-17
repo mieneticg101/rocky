@@ -1,0 +1,36 @@
+<svg viewBox="0 0 24 24" width="24" height="24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad-animated-gradient-food-delivery-anim" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1">
+        <animate attributeName="stop-color" values="#3b82f6;#8b5cf6;#3b82f6" dur="3s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" style="stop-color:#8b5cf6;stop-opacity:1">
+        <animate attributeName="stop-color" values="#8b5cf6;#3b82f6;#8b5cf6" dur="3s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+  <defs>
+    <linearGradient id="food-delivery-anim-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ff6b6b;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ffa502;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect x="2" y="8" width="20" height="10" rx="2" stroke="url(#food-delivery-anim-gradient)" stroke-width="1.5" fill="url(#food-delivery-anim-gradient)" opacity="0.2">
+    <animate attributeName="opacity" values="0.2;0.4;0.2" dur="3s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate" values="0 0;1 0;0 0" dur="2s" repeatCount="indefinite"/>
+  </rect>
+  <path d="M8 8V6a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2" stroke="url(#food-delivery-anim-gradient)" stroke-width="1.5">
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="2s" repeatCount="indefinite"/>
+  </path>
+  <circle cx="7" cy="21" r="2" stroke="url(#food-delivery-anim-gradient)" stroke-width="1.5">
+    <animateTransform attributeName="transform" type="rotate" values="0 7 21;360 7 21" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="17" cy="21" r="2" stroke="url(#food-delivery-anim-gradient)" stroke-width="1.5">
+    <animateTransform attributeName="transform" type="rotate" values="0 17 21;360 17 21" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <line x1="7" y1="19" x2="7" y2="18" stroke="url(#food-delivery-anim-gradient)" stroke-width="1.5"/>
+  <line x1="17" y1="19" x2="17" y2="18" stroke="url(#food-delivery-anim-gradient)" stroke-width="1.5"/>
+  <path d="M10 12h4" stroke="url(#food-delivery-anim-gradient)" stroke-width="1.5" stroke-linecap="round">
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="2s" repeatCount="indefinite"/>
+  </path>
+</svg>

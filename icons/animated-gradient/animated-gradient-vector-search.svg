@@ -1,0 +1,29 @@
+<svg viewBox="0 0 24 24" width="24" height="24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad-animated-gradient-vector-search-anim" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1">
+        <animate attributeName="stop-color" values="#3b82f6;#8b5cf6;#3b82f6" dur="3s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" style="stop-color:#8b5cf6;stop-opacity:1">
+        <animate attributeName="stop-color" values="#8b5cf6;#3b82f6;#8b5cf6" dur="3s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+  <defs>
+    <linearGradient id="vector-search-anim-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#fc466b;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#3f5efb;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <ellipse cx="12" cy="6" rx="8" ry="3" stroke="url(#vector-search-anim-gradient)" stroke-width="1.5"/>
+  <path d="M4 6v6c0 1.66 3.58 3 8 3s8-1.34 8-3V6" stroke="url(#vector-search-anim-gradient)" stroke-width="1.5"/>
+  <path d="M4 12v6c0 1.66 3.58 3 8 3s8-1.34 8-3v-6" stroke="url(#vector-search-anim-gradient)" stroke-width="1.5"/>
+  <g>
+    <animate attributeName="opacity" values="0;1;0" dur="2s" repeatCount="indefinite"/>
+    <path d="M12 9v3m-2-1l2 1 2-1" stroke="url(#vector-search-anim-gradient)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g>
+    <animate attributeName="opacity" values="0;1;0" dur="2s" repeatCount="indefinite" begin="1s"/>
+    <path d="M12 15v3" stroke="url(#vector-search-anim-gradient)" stroke-width="1.5" stroke-linecap="round"/>
+  </g>
+</svg>

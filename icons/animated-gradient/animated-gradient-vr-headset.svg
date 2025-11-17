@@ -1,0 +1,29 @@
+<svg viewBox="0 0 24 24" width="24" height="24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad-animated-gradient-vr-headset-anim" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1">
+        <animate attributeName="stop-color" values="#3b82f6;#8b5cf6;#3b82f6" dur="3s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" style="stop-color:#8b5cf6;stop-opacity:1">
+        <animate attributeName="stop-color" values="#8b5cf6;#3b82f6;#8b5cf6" dur="3s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+  <defs>
+    <linearGradient id="vr-headset-anim-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#8e2de2;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#4a00e0;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <path d="M2 12a10 10 0 0 1 20 0v4a2 2 0 0 1-2 2h-2a2 2 0 0 1-2-2v-2a2 2 0 0 0-4 0v2a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2v-4z" stroke="url(#vr-headset-anim-gradient)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" fill="url(#vr-headset-anim-gradient)" opacity="0.2">
+    <animate attributeName="opacity" values="0.2;0.3;0.2" dur="3s" repeatCount="indefinite"/>
+  </path>
+  <circle cx="7" cy="12" r="2" stroke="url(#vr-headset-anim-gradient)" stroke-width="1.5">
+    <animate attributeName="r" values="2;2.3;2" dur="2s" repeatCount="indefinite" begin="0s"/>
+    <animate attributeName="opacity" values="0.7;1;0.7" dur="2s" repeatCount="indefinite" begin="0s"/>
+  </circle>
+  <circle cx="17" cy="12" r="2" stroke="url(#vr-headset-anim-gradient)" stroke-width="1.5">
+    <animate attributeName="r" values="2;2.3;2" dur="2s" repeatCount="indefinite" begin="0.3s"/>
+    <animate attributeName="opacity" values="0.7;1;0.7" dur="2s" repeatCount="indefinite" begin="0.3s"/>
+  </circle>
+</svg>

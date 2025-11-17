@@ -1,9 +1,0 @@
-<svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="url(#grad-zed)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="grad-zed" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f97316;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#eab308;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  <path d="M5 4h14l-14 8h14l-14 8"/>
-</svg>

@@ -1,0 +1,19 @@
+<svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="url(#grad-clock-countdown-anim)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad-clock-countdown-anim" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1">
+        <animate attributeName="stop-color" values="#3b82f6;#8b5cf6;#3b82f6" dur="3s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" style="stop-color:#8b5cf6;stop-opacity:1">
+        <animate attributeName="stop-color" values="#8b5cf6;#3b82f6;#8b5cf6" dur="3s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+  <circle cx="12" cy="12" r="10"/>
+  <polyline points="12 6 12 12 16 14">
+    <animateTransform attributeName="transform" type="rotate" from="0 12 12" to="360 12 12" dur="4s" repeatCount="indefinite"/>
+  </polyline>
+  <circle cx="12" cy="12" r="10" stroke-dasharray="63" stroke-dashoffset="0" opacity="0.3">
+    <animate attributeName="stroke-dashoffset" values="0;63" dur="4s" repeatCount="indefinite"/>
+  </circle>
+</svg>

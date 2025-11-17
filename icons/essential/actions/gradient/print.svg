@@ -1,0 +1,11 @@
+<svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="url(#grad-print)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad-print" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#8b5cf6;stop-opacity:1"/>
+    </linearGradient>
+  </defs>
+  <polyline points="6 9 6 2 18 2 18 9"/>
+  <path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"/>
+  <rect x="6" y="14" width="12" height="8"/>
+</svg>

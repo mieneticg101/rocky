@@ -1,0 +1,37 @@
+<svg viewBox="0 0 24 24" width="24" height="24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad-check-success-anim" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1">
+        <animate attributeName="stop-color" values="#3b82f6;#8b5cf6;#3b82f6" dur="3s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" style="stop-color:#8b5cf6;stop-opacity:1">
+        <animate attributeName="stop-color" values="#8b5cf6;#3b82f6;#8b5cf6" dur="3s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+  <defs>
+    <linearGradient id="success-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#10B981"/>
+      <stop offset="100%" style="stop-color:#059669"/>
+    </linearGradient>
+  </defs>
+  <circle cx="12" cy="12" r="10" fill="url(#success-gradient)">
+    <animate
+      attributeName="r"
+      from="0"
+      to="10"
+      dur="0.3s"
+      fill="freeze"/>
+  </circle>
+  <polyline points="7 12 10 15 17 8" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
+            stroke-dasharray="20"
+            stroke-dashoffset="20">
+    <animate
+      attributeName="stroke-dashoffset"
+      from="20"
+      to="0"
+      dur="0.4s"
+      begin="0.3s"
+      fill="freeze"/>
+  </polyline>
+</svg>

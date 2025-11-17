@@ -1,0 +1,12 @@
+<svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="url(#grad-bullhorn)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad-bullhorn" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f59e0b;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#ec4899;stop-opacity:1"/>
+    </linearGradient>
+  </defs>
+  <path d="M6 12h8"/>
+  <path d="M6 8h8"/>
+  <path d="M20 8V6a2 2 0 0 0-2-2H6a2 2 0 0 0-2 2v4a2 2 0 0 0 2 2h1v6a2 2 0 0 0 2 2h2"/>
+  <path d="M14 12v6a2 2 0 0 0 2 2h4"/>
+</svg>

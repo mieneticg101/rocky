@@ -1,0 +1,14 @@
+<svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="url(#grad-bereal)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad-bereal" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ec4899;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#f59e0b;stop-opacity:1"/>
+    </linearGradient>
+  </defs>
+  <circle cx="12" cy="12" r="10"/>
+  <circle cx="9" cy="10" r="2"/>
+  <circle cx="15" cy="10" r="2"/>
+  <path d="M9 15h6"/>
+  <path d="M12 2v3"/>
+  <path d="M12 19v3"/>
+</svg>
