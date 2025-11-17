@@ -1,17 +1,17 @@
 {
-  "generated": "2025-11-17T03:34:03.743Z",
+  "generated": "2025-11-17T03:43:31.843Z",
   "stats": {
-    "total": 940,
+    "total": 960,
     "gradient": 0,
     "animated": 0,
     "animated-gradient": 0,
     "categories": {
       "thai": 40,
-      "technology": 248,
+      "technology": 258,
       "business": 115,
       "app": 11,
       "brand": 58,
-      "dev": 120,
+      "dev": 130,
       "essential": 134,
       "entertainment": 59,
       "home": 28,
@@ -575,6 +575,25 @@
       ]
     },
     {
+      "name": "amplitude",
+      "category": "dev",
+      "path": "icons/dev/amplitude.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M12 2l-2 5-5 2 5 2 2 5 2-5 5-2-5-2-2-5z\"/><circle cx=\"8\" cy=\"16\" r=\"2\"/><circle cx=\"16\" cy=\"16\" r=\"2\"/><path d=\"M8 16h8\"/>\n</svg>\n",
+      "variants": {
+        "normal": true,
+        "gradient": false,
+        "animated": false,
+        "animated-gradient": false
+      },
+      "tags": [
+        "dev",
+        "amplitude",
+        "development",
+        "code",
+        "tools"
+      ]
+    },
+    {
       "name": "anchor",
       "category": "essential",
       "path": "icons/essential/anchor.svg",
@@ -625,6 +644,24 @@
         "anthropic",
         "logo",
         "company"
+      ]
+    },
+    {
+      "name": "anyscale",
+      "category": "technology",
+      "path": "icons/technology/ai/anyscale.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <circle cx=\"12\" cy=\"12\" r=\"10\"/><path d=\"M12 6v12\"/><circle cx=\"12\" cy=\"9\" r=\"2\"/><circle cx=\"8\" cy=\"13\" r=\"1.5\"/><circle cx=\"16\" cy=\"13\" r=\"1.5\"/><circle cx=\"12\" cy=\"16\" r=\"1\"/>\n</svg>\n",
+      "variants": {
+        "normal": true,
+        "gradient": false,
+        "animated": false,
+        "animated-gradient": false
+      },
+      "tags": [
+        "technology",
+        "anyscale",
+        "tech",
+        "software"
       ]
     },
     {
@@ -843,6 +880,26 @@
         "arctic",
         "tech",
         "software"
+      ]
+    },
+    {
+      "name": "ark-ui",
+      "category": "dev",
+      "path": "icons/dev/ark-ui.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M12 2L2 7v10l10 5 10-5V7L12 2z\"/><path d=\"M2 7l10 5\"/><path d=\"M22 7l-10 5\"/><path d=\"M12 12v10\"/><path d=\"M7 9.5l5 2.5 5-2.5\"/>\n</svg>\n",
+      "variants": {
+        "normal": true,
+        "gradient": false,
+        "animated": false,
+        "animated-gradient": false
+      },
+      "tags": [
+        "dev",
+        "ark",
+        "ui",
+        "development",
+        "code",
+        "tools"
       ]
     },
     {
@@ -3382,6 +3439,25 @@
       ]
     },
     {
+      "name": "cohere-coral",
+      "category": "technology",
+      "path": "icons/technology/ai/cohere-coral.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M12 2c-4 0-7 3-7 7v8l7 5 7-5V9c0-4-3-7-7-7z\"/><circle cx=\"9\" cy=\"10\" r=\"1\"/><circle cx=\"15\" cy=\"10\" r=\"1\"/><path d=\"M9 14c1 1 2 1.5 3 1.5s2-0.5 3-1.5\"/>\n</svg>\n",
+      "variants": {
+        "normal": true,
+        "gradient": false,
+        "animated": false,
+        "animated-gradient": false
+      },
+      "tags": [
+        "technology",
+        "cohere",
+        "coral",
+        "tech",
+        "software"
+      ]
+    },
+    {
       "name": "coin",
       "category": "business",
       "path": "icons/business/finance/coin.svg",
@@ -4005,6 +4081,24 @@
       "tags": [
         "technology",
         "database",
+        "tech",
+        "software"
+      ]
+    },
+    {
+      "name": "databricks",
+      "category": "technology",
+      "path": "icons/technology/ai/databricks.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M12 2L2 7v10l10 5 10-5V7L12 2z\"/><path d=\"M2 7l10 5\"/><path d=\"M22 7l-10 5\"/><path d=\"M12 12v10\"/><circle cx=\"12\" cy=\"7\" r=\"2\"/><circle cx=\"12\" cy=\"17\" r=\"2\"/>\n</svg>\n",
+      "variants": {
+        "normal": true,
+        "gradient": false,
+        "animated": false,
+        "animated-gradient": false
+      },
+      "tags": [
+        "technology",
+        "databricks",
         "tech",
         "software"
       ]
@@ -5152,6 +5246,25 @@
         "facebook",
         "media",
         "network"
+      ]
+    },
+    {
+      "name": "falcon-llm",
+      "category": "technology",
+      "path": "icons/technology/ai/falcon-llm.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M12 2l-2 4-4 1 4 1 2 4 2-4 4-1-4-1-2-4z\"/><path d=\"M6 14l3-2 3 2v6l-3 2-3-2v-6z\"/><path d=\"M6 14v-2\"/><path d=\"M12 14v-2\"/>\n</svg>\n",
+      "variants": {
+        "normal": true,
+        "gradient": false,
+        "animated": false,
+        "animated-gradient": false
+      },
+      "tags": [
+        "technology",
+        "falcon",
+        "llm",
+        "tech",
+        "software"
       ]
     },
     {
@@ -6693,6 +6806,25 @@
       ]
     },
     {
+      "name": "heap",
+      "category": "dev",
+      "path": "icons/dev/heap.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M3 12l9-9 9 9\"/><path d=\"M5 14v7h14v-7\"/><path d=\"M9 16v5\"/><path d=\"M12 14v7\"/><path d=\"M15 16v5\"/>\n</svg>\n",
+      "variants": {
+        "normal": true,
+        "gradient": false,
+        "animated": false,
+        "animated-gradient": false
+      },
+      "tags": [
+        "dev",
+        "heap",
+        "development",
+        "code",
+        "tools"
+      ]
+    },
+    {
       "name": "heart",
       "category": "social",
       "path": "icons/social/social-media/heart.svg",
@@ -7706,6 +7838,25 @@
         "development",
         "code",
         "tools"
+      ]
+    },
+    {
+      "name": "lambda-labs",
+      "category": "technology",
+      "path": "icons/technology/ai/lambda-labs.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M12 2l-9 20h18L12 2z\"/><path d=\"M12 8v8\"/><path d=\"M8 16h8\"/>\n</svg>\n",
+      "variants": {
+        "normal": true,
+        "gradient": false,
+        "animated": false,
+        "animated-gradient": false
+      },
+      "tags": [
+        "technology",
+        "lambda",
+        "labs",
+        "tech",
+        "software"
       ]
     },
     {
@@ -8926,6 +9077,26 @@
       ]
     },
     {
+      "name": "million-js",
+      "category": "dev",
+      "path": "icons/dev/million-js.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M12 2l3 7h7l-5.5 4 2 7-6.5-5-6.5 5 2-7L2 9h7l3-7z\"/><circle cx=\"12\" cy=\"12\" r=\"3\"/>\n</svg>\n",
+      "variants": {
+        "normal": true,
+        "gradient": false,
+        "animated": false,
+        "animated-gradient": false
+      },
+      "tags": [
+        "dev",
+        "million",
+        "js",
+        "development",
+        "code",
+        "tools"
+      ]
+    },
+    {
       "name": "milvus",
       "category": "technology",
       "path": "icons/technology/database/milvus.svg",
@@ -9098,6 +9269,44 @@
         "ai",
         "logo",
         "company"
+      ]
+    },
+    {
+      "name": "mistral-large",
+      "category": "technology",
+      "path": "icons/technology/ai/mistral-large.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M3 3l3 18 6-12 6 12 3-18\"/><circle cx=\"6\" cy=\"21\" r=\"1\"/><circle cx=\"12\" cy=\"9\" r=\"1\"/><circle cx=\"18\" cy=\"21\" r=\"1\"/><path d=\"M12 2v7\"/>\n</svg>\n",
+      "variants": {
+        "normal": true,
+        "gradient": false,
+        "animated": false,
+        "animated-gradient": false
+      },
+      "tags": [
+        "technology",
+        "mistral",
+        "large",
+        "tech",
+        "software"
+      ]
+    },
+    {
+      "name": "mixpanel",
+      "category": "dev",
+      "path": "icons/dev/mixpanel.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <rect x=\"3\" y=\"3\" width=\"8\" height=\"8\" rx=\"1\"/><rect x=\"13\" y=\"3\" width=\"8\" height=\"8\" rx=\"1\"/><rect x=\"3\" y=\"13\" width=\"8\" height=\"8\" rx=\"1\"/><rect x=\"13\" y=\"13\" width=\"8\" height=\"8\" rx=\"1\"/><path d=\"M11 7h2\"/><path d=\"M11 17h2\"/><path d=\"M7 11v2\"/><path d=\"M17 11v2\"/>\n</svg>\n",
+      "variants": {
+        "normal": true,
+        "gradient": false,
+        "animated": false,
+        "animated-gradient": false
+      },
+      "tags": [
+        "dev",
+        "mixpanel",
+        "development",
+        "code",
+        "tools"
       ]
     },
     {
@@ -10148,6 +10357,26 @@
       ]
     },
     {
+      "name": "panda-css",
+      "category": "dev",
+      "path": "icons/dev/panda-css.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <circle cx=\"9\" cy=\"8\" r=\"2\"/><circle cx=\"15\" cy=\"8\" r=\"2\"/><path d=\"M12 2c-4 0-7 3-7 7v4c0 4 3 7 7 7s7-3 7-7V9c0-4-3-7-7-7z\"/><circle cx=\"9\" cy=\"12\" r=\"1\"/><circle cx=\"15\" cy=\"12\" r=\"1\"/><path d=\"M9 15c1 1 2 1.5 3 1.5s2-0.5 3-1.5\"/>\n</svg>\n",
+      "variants": {
+        "normal": true,
+        "gradient": false,
+        "animated": false,
+        "animated-gradient": false
+      },
+      "tags": [
+        "dev",
+        "panda",
+        "css",
+        "development",
+        "code",
+        "tools"
+      ]
+    },
+    {
       "name": "panel",
       "category": "essential",
       "path": "icons/essential/ui-ux/panel.svg",
@@ -10177,6 +10406,24 @@
       "tags": [
         "essential",
         "paperclip"
+      ]
+    },
+    {
+      "name": "paperspace",
+      "category": "technology",
+      "path": "icons/technology/ai/paperspace.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\"/><path d=\"M3 9h18\"/><path d=\"M3 15h18\"/><path d=\"M9 3v18\"/><path d=\"M15 3v18\"/>\n</svg>\n",
+      "variants": {
+        "normal": true,
+        "gradient": false,
+        "animated": false,
+        "animated-gradient": false
+      },
+      "tags": [
+        "technology",
+        "paperspace",
+        "tech",
+        "software"
       ]
     },
     {
@@ -10478,6 +10725,25 @@
       "tags": [
         "technology",
         "phantom",
+        "tech",
+        "software"
+      ]
+    },
+    {
+      "name": "phi-35",
+      "category": "technology",
+      "path": "icons/technology/ai/phi-35.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <circle cx=\"12\" cy=\"12\" r=\"10\"/><path d=\"M12 6v12\"/><path d=\"M8 9h8\"/><path d=\"M8 12h4\"/><path d=\"M8 15h6\"/>\n</svg>\n",
+      "variants": {
+        "normal": true,
+        "gradient": false,
+        "animated": false,
+        "animated-gradient": false
+      },
+      "tags": [
+        "technology",
+        "phi",
+        "35",
         "tech",
         "software"
       ]
@@ -11061,6 +11327,25 @@
       ]
     },
     {
+      "name": "posthog",
+      "category": "dev",
+      "path": "icons/dev/posthog.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\"/>\n  <path d=\"M3 12h18\"/>\n  <path d=\"M12 3v18\"/>\n  <circle cx=\"9\" cy=\"9\" r=\"2\"/>\n  <circle cx=\"15\" cy=\"15\" r=\"2\"/>\n  <path d=\"M9 9l6 6\"/>\n</svg>\n",
+      "variants": {
+        "normal": true,
+        "gradient": false,
+        "animated": false,
+        "animated-gradient": false
+      },
+      "tags": [
+        "dev",
+        "posthog",
+        "development",
+        "code",
+        "tools"
+      ]
+    },
+    {
       "name": "postman",
       "category": "dev",
       "path": "icons/dev/postman.svg",
@@ -11571,6 +11856,26 @@
       ]
     },
     {
+      "name": "radix-ui",
+      "category": "dev",
+      "path": "icons/dev/radix-ui.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <circle cx=\"12\" cy=\"12\" r=\"10\"/><circle cx=\"12\" cy=\"12\" r=\"6\"/><circle cx=\"12\" cy=\"12\" r=\"2\"/><path d=\"M12 2v4\"/><path d=\"M12 18v4\"/><path d=\"M2 12h4\"/><path d=\"M18 12h4\"/>\n</svg>\n",
+      "variants": {
+        "normal": true,
+        "gradient": false,
+        "animated": false,
+        "animated-gradient": false
+      },
+      "tags": [
+        "dev",
+        "radix",
+        "ui",
+        "development",
+        "code",
+        "tools"
+      ]
+    },
+    {
       "name": "rag-ai",
       "category": "technology",
       "path": "icons/technology/rag-ai.svg",
@@ -11841,6 +12146,25 @@
         "nature",
         "regenerative",
         "design"
+      ]
+    },
+    {
+      "name": "reka-ai",
+      "category": "technology",
+      "path": "icons/technology/ai/reka-ai.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <circle cx=\"12\" cy=\"12\" r=\"10\"/><path d=\"M12 2l2 5 5 2-5 2-2 5-2-5-5-2 5-2 2-5z\"/><circle cx=\"12\" cy=\"12\" r=\"3\"/>\n</svg>\n",
+      "variants": {
+        "normal": true,
+        "gradient": false,
+        "animated": false,
+        "animated-gradient": false
+      },
+      "tags": [
+        "technology",
+        "reka",
+        "ai",
+        "tech",
+        "software"
       ]
     },
     {
@@ -12260,6 +12584,24 @@
       ]
     },
     {
+      "name": "runpod",
+      "category": "technology",
+      "path": "icons/technology/ai/runpod.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <rect x=\"3\" y=\"6\" width=\"7\" height=\"12\" rx=\"1\"/><rect x=\"14\" y=\"6\" width=\"7\" height=\"12\" rx=\"1\"/><path d=\"M10 9h4\"/><path d=\"M10 12h4\"/><path d=\"M10 15h4\"/>\n</svg>\n",
+      "variants": {
+        "normal": true,
+        "gradient": false,
+        "animated": false,
+        "animated-gradient": false
+      },
+      "tags": [
+        "technology",
+        "runpod",
+        "tech",
+        "software"
+      ]
+    },
+    {
       "name": "runway",
       "category": "brand",
       "path": "icons/brand/runway.svg",
@@ -12523,6 +12865,25 @@
       "tags": [
         "nature",
         "seedling"
+      ]
+    },
+    {
+      "name": "segment",
+      "category": "dev",
+      "path": "icons/dev/segment.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <circle cx=\"12\" cy=\"12\" r=\"10\"/><path d=\"M12 2v20\"/><path d=\"M2 12h20\"/><path d=\"M6 6l12 12\"/><path d=\"M18 6L6 18\"/>\n</svg>\n",
+      "variants": {
+        "normal": true,
+        "gradient": false,
+        "animated": false,
+        "animated-gradient": false
+      },
+      "tags": [
+        "dev",
+        "segment",
+        "development",
+        "code",
+        "tools"
       ]
     },
     {
@@ -15526,6 +15887,25 @@
       "tags": [
         "essential",
         "unlock"
+      ]
+    },
+    {
+      "name": "unocss",
+      "category": "dev",
+      "path": "icons/dev/unocss.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\"/><path d=\"M8 8h8v8H8z\"/><path d=\"M3 8h5\"/><path d=\"M16 8h5\"/><path d=\"M8 3v5\"/><path d=\"M8 16v5\"/>\n</svg>\n",
+      "variants": {
+        "normal": true,
+        "gradient": false,
+        "animated": false,
+        "animated-gradient": false
+      },
+      "tags": [
+        "dev",
+        "unocss",
+        "development",
+        "code",
+        "tools"
       ]
     },
     {
