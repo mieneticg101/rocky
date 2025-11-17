@@ -2,8 +2,7 @@
 
 /**
  * Generate separate JSON files for each icon variant
- * Creates: icons.json, icons-gradient.json, icons-animated.json, icons-animated-gradient.json,
- *          icons-filled.json, icons-duotone.json, icons-bold.json, icons-light.json, icons-filled-gradient.json
+ * Creates: icons.json, icons-gradient.json
  */
 
 import fs from 'fs';
@@ -27,7 +26,7 @@ function scanIconsByVariant(variant = 'normal') {
 
       if (entry.isDirectory()) {
         // Handle variant directories
-        const isVariantDir = ['gradient', 'animated', 'animated-gradient', 'filled', 'duotone', 'bold', 'light', 'filled-gradient'].includes(entry.name);
+        const isVariantDir = ['gradient'].includes(entry.name);
 
         if (variant === 'normal') {
           // For normal variant, skip variant directories
@@ -152,14 +151,7 @@ function main() {
 
   const variants = [
     { variant: 'normal', filename: 'icons.json' },
-    { variant: 'gradient', filename: 'icons-gradient.json' },
-    { variant: 'animated', filename: 'icons-animated.json' },
-    { variant: 'animated-gradient', filename: 'icons-animated-gradient.json' },
-    { variant: 'filled', filename: 'icons-filled.json' },
-    { variant: 'duotone', filename: 'icons-duotone.json' },
-    { variant: 'bold', filename: 'icons-bold.json' },
-    { variant: 'light', filename: 'icons-light.json' },
-    { variant: 'filled-gradient', filename: 'icons-filled-gradient.json' }
+    { variant: 'gradient', filename: 'icons-gradient.json' }
   ];
 
   const allStats = {};
@@ -170,16 +162,9 @@ function main() {
   }
 
   console.log('\n📊 Summary:');
-  console.log(`   Normal icons:            ${allStats.normal}`);
-  console.log(`   Gradient icons:          ${allStats.gradient}`);
-  console.log(`   Animated icons:          ${allStats.animated}`);
-  console.log(`   Animated-Gradient icons: ${allStats['animated-gradient']}`);
-  console.log(`   Filled icons:            ${allStats.filled}`);
-  console.log(`   Duotone icons:           ${allStats.duotone}`);
-  console.log(`   Bold icons:              ${allStats.bold}`);
-  console.log(`   Light icons:             ${allStats.light}`);
-  console.log(`   Filled-Gradient icons:   ${allStats['filled-gradient']}`);
-  console.log(`\n✨ All 9 variant JSON files generated successfully!`);
+  console.log(`   Normal icons:   ${allStats.normal}`);
+  console.log(`   Gradient icons: ${allStats.gradient}`);
+  console.log(`\n✨ All 2 variant JSON files generated successfully!`);
 }
 
 main();

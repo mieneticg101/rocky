@@ -1,9 +1,0 @@
-<svg viewBox="0 0 24 24" width="24" height="24" fill="url(#grad-filled-deadline)" stroke="none" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="grad-filled-deadline" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f59e0b;stop-opacity:1"/>
-      <stop offset="100%" style="stop-color:#ef4444;stop-opacity:1"/>
-    </linearGradient>
-  </defs>
-  <circle cx="12" cy="13" r="9"/><path d="M12 6v7l4 2"/><path d="M12 3V1M9 3l-1-2M15 3l1-2"/>
-</svg>

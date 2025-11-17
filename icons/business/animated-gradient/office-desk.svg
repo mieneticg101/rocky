@@ -1,9 +1,0 @@
-<svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="url(#grad-office-desk)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="grad-office-desk" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f59e0b;stop-opacity:1"/>
-      <stop offset="100%" style="stop-color:#ef4444;stop-opacity:1"/>
-    </linearGradient>
-  </defs>
-  <rect <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite"/> x="2" y="14" width="20" height="2"/><rect <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite"/> x="4" y="10" width="4" height="4"/><rect <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite"/> x="12" y="8" width="8" height="6"/><circle <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite"/> cx="16" cy="11" r="1.5"/><path <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite"/> d="M4 14V6h4v8M20 14V8h-8v6"/>
-</svg>

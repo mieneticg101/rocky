@@ -1,9 +1,0 @@
-<svg viewBox="0 0 24 24" width="24" height="24" fill="url(#grad-filled-panda-css)" stroke="none" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="grad-filled-panda-css" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#10b981;stop-opacity:1"/>
-      <stop offset="100%" style="stop-color:#06b6d4;stop-opacity:1"/>
-    </linearGradient>
-  </defs>
-  <circle cx="9" cy="8" r="2"/><circle cx="15" cy="8" r="2"/><path d="M12 2c-4 0-7 3-7 7v4c0 4 3 7 7 7s7-3 7-7V9c0-4-3-7-7-7z"/><circle cx="9" cy="12" r="1"/><circle cx="15" cy="12" r="1"/><path d="M9 15c1 1 2 1.5 3 1.5s2-0.5 3-1.5"/>
-</svg>

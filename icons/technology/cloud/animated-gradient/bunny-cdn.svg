@@ -1,9 +1,0 @@
-<svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="url(#grad-bunny-cdn)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="grad-bunny-cdn" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1"/>
-      <stop offset="100%" style="stop-color:#06b6d4;stop-opacity:1"/>
-    </linearGradient>
-  </defs>
-  <circle <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite"/> cx="12" cy="14" r="8"/><circle <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite"/> cx="9" cy="11" r="1"/><circle <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite"/> cx="15" cy="11" r="1"/><path <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite"/> d="M9 15c1 1 2 1.5 3 1.5s2-0.5 3-1.5"/><path <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite"/> d="M8 5l2 4M16 5l-2 4"/>
-</svg>

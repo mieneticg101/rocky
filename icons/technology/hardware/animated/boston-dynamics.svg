@@ -1,9 +1,0 @@
-<svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg">
-  <path <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite" d="M12 2c-3 0-5 2-5 4v3h10V6c0-2-2-4-5-4z"/>
-  <rect <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite" x="8" y="9" width="8" height="6" rx="1"/>
-  <path <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite" d="M8 15l-2 5"/>
-  <path <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite" d="M16 15l2 5"/>
-  <path <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite" d="M10 20h4"/>
-  <circle <animate attributeName="opacity" values="0.5;1;0.5" dur="1.5s" repeatCount="indefinite" cx="10" cy="7" r="1"/>
-  <circle <animate attributeName="opacity" values="0.5;1;0.5" dur="1.5s" repeatCount="indefinite" cx="14" cy="7" r="1"/>
-</svg>
