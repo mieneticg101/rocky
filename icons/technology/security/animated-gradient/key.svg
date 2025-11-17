@@ -1,0 +1,9 @@
+<svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="url(#grad-key)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad-key" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#06b6d4;stop-opacity:1"/>
+    </linearGradient>
+  </defs>
+  <path <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite" d="M21 2l-2 2m-7.61 7.61a5.5 5.5 0 1 1-7.778 7.778 5.5 5.5 0 0 1 7.777-7.777zm0 0L15.5 7.5m0 0l3 3L22 7l-3-3m-3.5 3.5L19 4"/>
+</svg>

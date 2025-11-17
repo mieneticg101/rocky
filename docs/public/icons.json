@@ -1,10 +1,10 @@
 {
-  "generated": "2025-11-17T03:16:47.450Z",
+  "generated": "2025-11-17T03:34:03.743Z",
   "stats": {
     "total": 940,
     "gradient": 0,
-    "animated": 130,
-    "animated-gradient": 268,
+    "animated": 0,
+    "animated-gradient": 0,
     "categories": {
       "thai": 40,
       "technology": 248,
@@ -68,7 +68,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "business",
@@ -85,8 +85,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "app",
@@ -196,7 +196,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "technology",
@@ -293,7 +293,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "technology",
@@ -506,8 +506,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "business",
@@ -564,7 +564,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "technology",
@@ -583,7 +583,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "essential",
@@ -598,8 +598,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "dev",
@@ -617,8 +617,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "brand",
@@ -635,8 +635,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "technology",
@@ -673,7 +673,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "home",
@@ -707,8 +707,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "technology",
@@ -764,8 +764,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "technology",
@@ -800,8 +800,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "technology",
@@ -1009,8 +1009,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "business",
@@ -1027,8 +1027,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "dev",
@@ -1100,7 +1100,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "essential",
@@ -1115,8 +1115,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "technology",
@@ -1388,7 +1388,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "entertainment",
@@ -1422,7 +1422,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "technology",
@@ -1506,7 +1506,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "essential",
@@ -1558,8 +1558,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "social",
@@ -1666,7 +1666,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "nature",
@@ -1735,8 +1735,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "brand",
@@ -1754,7 +1754,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "business",
@@ -1809,8 +1809,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "social",
@@ -1846,7 +1846,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "technology",
@@ -1919,7 +1919,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "essential",
@@ -1954,7 +1954,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "essential",
@@ -2116,8 +2116,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "thai",
@@ -2188,8 +2188,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "dev",
@@ -2240,7 +2240,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "home",
@@ -2292,7 +2292,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "business",
@@ -2328,7 +2328,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "essential",
@@ -2343,8 +2343,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "brand",
@@ -2361,8 +2361,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "app",
@@ -2378,7 +2378,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "entertainment",
@@ -2567,7 +2567,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "technology",
@@ -2677,8 +2677,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "brand",
@@ -2900,8 +2900,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "app",
@@ -2933,7 +2933,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "business",
@@ -2989,8 +2989,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "brand",
@@ -3066,7 +3066,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "nature",
@@ -3101,7 +3101,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "business",
@@ -3134,8 +3134,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "technology",
@@ -3191,7 +3191,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "nature",
@@ -3243,8 +3243,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "brand",
@@ -3280,8 +3280,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "technology",
@@ -3356,7 +3356,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "home",
@@ -3371,8 +3371,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "brand",
@@ -3407,8 +3407,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "technology",
@@ -3496,7 +3496,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "entertainment",
@@ -3733,7 +3733,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "essential",
@@ -3749,7 +3749,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "business",
@@ -3768,7 +3768,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "business",
@@ -3806,8 +3806,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "healthcare",
@@ -3909,8 +3909,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "essential",
@@ -3999,8 +3999,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "technology",
@@ -4106,8 +4106,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "dev",
@@ -4219,7 +4219,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "entertainment",
@@ -4275,7 +4275,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "healthcare",
@@ -4309,8 +4309,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "social",
@@ -4365,7 +4365,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "healthcare",
@@ -4380,8 +4380,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "dev",
@@ -4487,7 +4487,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "essential",
@@ -4521,8 +4521,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "dev",
@@ -4540,8 +4540,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "app",
@@ -4609,7 +4609,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "entertainment",
@@ -4662,8 +4662,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "app",
@@ -4698,7 +4698,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "technology",
@@ -4842,8 +4842,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "brand",
@@ -4880,7 +4880,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "technology",
@@ -4990,7 +4990,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "nature",
@@ -5270,8 +5270,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "brand",
@@ -5289,7 +5289,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "business",
@@ -5396,7 +5396,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "technology",
@@ -5413,8 +5413,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "dev",
@@ -5551,7 +5551,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "nature",
@@ -5566,8 +5566,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "dev",
@@ -5623,7 +5623,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "business",
@@ -5715,7 +5715,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "entertainment",
@@ -5842,7 +5842,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "entertainment",
@@ -5896,8 +5896,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "technology",
@@ -5914,8 +5914,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "technology",
@@ -5933,8 +5933,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "brand",
@@ -5991,7 +5991,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "healthcare",
@@ -6027,7 +6027,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "technology",
@@ -6046,7 +6046,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "business",
@@ -6083,7 +6083,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "technology",
@@ -6177,8 +6177,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "brand",
@@ -6195,8 +6195,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "brand",
@@ -6250,7 +6250,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "entertainment",
@@ -6267,8 +6267,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "dev",
@@ -6286,8 +6286,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "app",
@@ -6341,8 +6341,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "thai",
@@ -6415,8 +6415,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "dev",
@@ -6504,8 +6504,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "brand",
@@ -6683,7 +6683,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "technology",
@@ -6701,7 +6701,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "social",
@@ -6846,7 +6846,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "technology",
@@ -6895,8 +6895,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "dev",
@@ -6933,8 +6933,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "dev",
@@ -6952,8 +6952,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "brand",
@@ -6971,8 +6971,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "brand",
@@ -7154,7 +7154,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "essential",
@@ -7315,8 +7315,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "social",
@@ -7477,7 +7477,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "thai",
@@ -7495,7 +7495,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "technology",
@@ -7566,8 +7566,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "dev",
@@ -7640,8 +7640,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "dev",
@@ -7732,8 +7732,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "brand",
@@ -7751,7 +7751,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "technology",
@@ -7769,7 +7769,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "essential",
@@ -7800,8 +7800,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "thai",
@@ -7820,7 +7820,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "nature",
@@ -7835,8 +7835,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "social",
@@ -7962,7 +7962,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "thai",
@@ -7980,8 +7980,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "business",
@@ -8018,7 +8018,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "essential",
@@ -8067,8 +8067,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "social",
@@ -8159,7 +8159,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "technology",
@@ -8213,7 +8213,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "technology",
@@ -8375,7 +8375,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "social",
@@ -8502,8 +8502,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "social",
@@ -8628,7 +8628,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "healthcare",
@@ -8734,8 +8734,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "brand",
@@ -8773,8 +8773,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "technology",
@@ -8896,8 +8896,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "brand",
@@ -8951,8 +8951,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "entertainment",
@@ -9089,8 +9089,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "brand",
@@ -9108,8 +9108,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "brand",
@@ -9182,7 +9182,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "technology",
@@ -9218,7 +9218,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "nature",
@@ -9370,7 +9370,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "thai",
@@ -9387,8 +9387,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "technology",
@@ -9407,7 +9407,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "technology",
@@ -9445,7 +9445,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "essential",
@@ -9515,8 +9515,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "brand",
@@ -9552,8 +9552,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "entertainment",
@@ -9570,8 +9570,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "brand",
@@ -9589,7 +9589,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "technology",
@@ -9607,8 +9607,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "technology",
@@ -9645,7 +9645,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "technology",
@@ -9662,8 +9662,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "dev",
@@ -9792,8 +9792,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "app",
@@ -9808,8 +9808,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "brand",
@@ -9847,7 +9847,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "technology",
@@ -9864,8 +9864,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "dev",
@@ -9883,8 +9883,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "brand",
@@ -9902,8 +9902,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "technology",
@@ -9921,7 +9921,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "nature",
@@ -9937,8 +9937,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "technology",
@@ -9955,8 +9955,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "brand",
@@ -9973,8 +9973,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "technology",
@@ -10121,7 +10121,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "technology",
@@ -10273,8 +10273,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "brand",
@@ -10311,7 +10311,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "healthcare",
@@ -10345,7 +10345,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "business",
@@ -10418,8 +10418,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "brand",
@@ -10546,8 +10546,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "brand",
@@ -10748,7 +10748,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "home",
@@ -10782,7 +10782,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "business",
@@ -10800,7 +10800,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "brand",
@@ -10922,8 +10922,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "dev",
@@ -11106,7 +11106,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "healthcare",
@@ -11178,8 +11178,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "entertainment",
@@ -11214,7 +11214,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "technology",
@@ -11231,8 +11231,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "dev",
@@ -11289,7 +11289,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "thai",
@@ -11358,8 +11358,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "dev",
@@ -11396,7 +11396,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "business",
@@ -11452,8 +11452,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "dev",
@@ -11579,7 +11579,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "technology",
@@ -11598,7 +11598,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "brand",
@@ -11728,8 +11728,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "dev",
@@ -11747,8 +11747,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "technology",
@@ -11851,8 +11851,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "dev",
@@ -11871,7 +11871,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "brand",
@@ -11905,7 +11905,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "brand",
@@ -11922,8 +11922,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "dev",
@@ -12124,8 +12124,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "entertainment",
@@ -12268,7 +12268,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "brand",
@@ -12285,8 +12285,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "brand",
@@ -12304,8 +12304,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "dev",
@@ -12323,8 +12323,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "app",
@@ -12429,7 +12429,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "thai",
@@ -12484,7 +12484,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "business",
@@ -12502,7 +12502,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "essential",
@@ -12568,7 +12568,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "technology",
@@ -12604,8 +12604,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "technology",
@@ -12660,7 +12660,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "essential",
@@ -12695,7 +12695,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "essential",
@@ -12730,7 +12730,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "essential",
@@ -12765,7 +12765,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "technology",
@@ -12784,7 +12784,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "entertainment",
@@ -12801,8 +12801,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "thai",
@@ -12821,7 +12821,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "business",
@@ -13065,8 +13065,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "social",
@@ -13133,7 +13133,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "technology",
@@ -13222,7 +13222,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "social",
@@ -13255,8 +13255,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "technology",
@@ -13293,7 +13293,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "nature",
@@ -13327,8 +13327,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "dev",
@@ -13346,8 +13346,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "brand",
@@ -13440,7 +13440,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "entertainment",
@@ -13459,7 +13459,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "technology",
@@ -13533,8 +13533,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "entertainment",
@@ -13619,7 +13619,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "brand",
@@ -13675,7 +13675,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "social",
@@ -13710,8 +13710,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "technology",
@@ -13728,8 +13728,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "entertainment",
@@ -13766,7 +13766,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "healthcare",
@@ -13832,7 +13832,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "brand",
@@ -13905,7 +13905,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "nature",
@@ -13970,8 +13970,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "technology",
@@ -14061,8 +14061,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "dev",
@@ -14081,7 +14081,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "dev",
@@ -14118,7 +14118,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "technology",
@@ -14223,8 +14223,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "dev",
@@ -14281,7 +14281,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "business",
@@ -14318,7 +14318,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "dev",
@@ -14336,8 +14336,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "business",
@@ -14354,8 +14354,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "social",
@@ -14427,7 +14427,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "technology",
@@ -14444,8 +14444,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "technology",
@@ -14481,8 +14481,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "thai",
@@ -14536,7 +14536,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "thai",
@@ -14587,8 +14587,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "social",
@@ -14625,7 +14625,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "social",
@@ -14660,7 +14660,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "entertainment",
@@ -14713,8 +14713,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "social",
@@ -14784,7 +14784,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "brand",
@@ -14908,7 +14908,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "entertainment",
@@ -14961,7 +14961,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "nature",
@@ -15088,7 +15088,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "entertainment",
@@ -15106,7 +15106,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "dev",
@@ -15180,7 +15180,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "thai",
@@ -15235,7 +15235,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "dev",
@@ -15305,8 +15305,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "entertainment",
@@ -15341,8 +15341,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "app",
@@ -15358,8 +15358,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "dev",
@@ -15415,7 +15415,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "nature",
@@ -15446,8 +15446,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "technology",
@@ -15464,8 +15464,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "entertainment",
@@ -15556,7 +15556,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "essential",
@@ -15590,7 +15590,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "essential",
@@ -15644,7 +15644,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "social",
@@ -15770,8 +15770,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "brand",
@@ -15789,7 +15789,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "brand",
@@ -15828,7 +15828,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "nature",
@@ -15845,7 +15845,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "essential",
@@ -15915,7 +15915,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "technology",
@@ -15953,7 +15953,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "dev",
@@ -16081,8 +16081,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "dev",
@@ -16101,7 +16101,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "business",
@@ -16157,7 +16157,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "dev",
@@ -16284,8 +16284,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "social",
@@ -16303,7 +16303,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "technology",
@@ -16321,7 +16321,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "nature",
@@ -16337,7 +16337,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "nature",
@@ -16353,8 +16353,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "dev",
@@ -16461,8 +16461,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "technology",
@@ -16515,8 +16515,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "social",
@@ -16642,8 +16642,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "social",
@@ -16680,7 +16680,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "nature",
@@ -16805,8 +16805,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "technology",
@@ -16824,7 +16824,7 @@
         "normal": true,
         "gradient": false,
         "animated": false,
-        "animated-gradient": true
+        "animated-gradient": false
       },
       "tags": [
         "dev",
@@ -16842,8 +16842,8 @@
       "variants": {
         "normal": true,
         "gradient": false,
-        "animated": true,
-        "animated-gradient": true
+        "animated": false,
+        "animated-gradient": false
       },
       "tags": [
         "business",

@@ -1,0 +1,11 @@
+<svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="url(#grad-hoppscotch)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad-hoppscotch" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#10b981;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#06b6d4;stop-opacity:1"/>
+    </linearGradient>
+  </defs>
+  <path <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite" d="M4 4v16l4-4 4 4 4-4 4 4V4"/>
+  <path <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite" d="M4 8h16"/>
+  <path <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite" d="M4 12h16"/>
+</svg>

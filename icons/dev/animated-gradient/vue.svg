@@ -1,0 +1,10 @@
+<svg viewBox="0 0 24 24" width="24" height="24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad-vue" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#10b981;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#06b6d4;stop-opacity:1"/>
+    </linearGradient>
+  </defs>
+  <path <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite" d="M2 4h4l6 10 6-10h4l-10 16L2 4z" stroke="url(#grad-vue)" stroke-width="1.5" stroke-linejoin="round"/>
+  <path <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite" d="M7 4l5 8 5-8" stroke="url(#grad-vue)" stroke-width="1.5" stroke-linejoin="round"/>
+</svg>

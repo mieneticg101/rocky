@@ -1,0 +1,10 @@
+<svg viewBox="0 0 24 24" width="24" height="24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad-stable-diffusion" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f59e0b;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#ef4444;stop-opacity:1"/>
+    </linearGradient>
+  </defs>
+  <circle <animate attributeName="opacity" values="0.5;1;0.5" dur="1.5s" repeatCount="indefinite" cx="12" cy="12" r="9" stroke="url(#grad-stable-diffusion)" stroke-width="1.5"/>
+  <path <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite" d="M12 3c-2.5 4-2.5 8 0 12M3 12c4 2.5 8 2.5 12 0M9 9c1.5 1.5 3.5 1.5 6 0M9 15c1.5-1.5 3.5-1.5 6 0" stroke="url(#grad-stable-diffusion)" stroke-width="1.5" stroke-linecap="round"/>
+</svg>

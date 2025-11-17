@@ -1,0 +1,7 @@
+<svg viewBox="0 0 24 24" width="24" height="24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle <animate attributeName="opacity" values="0.5;1;0.5" dur="1.5s" repeatCount="indefinite" cx="12" cy="12" r="9" stroke="currentColor" stroke-width="1.5"/>
+  <path <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite" d="M12 3c-2 3-2 6 0 9s2 6 0 9" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+  <path <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite" d="M3 12c3 2 6 2 9 0s6-2 9 0" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+  <path <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite" d="M7 7l3 3m4-4l-3 3m-4 4l3 3m4-4l-3 3" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+  <circle <animate attributeName="opacity" values="0.5;1;0.5" dur="1.5s" repeatCount="indefinite" cx="12" cy="12" r="2" stroke="currentColor" stroke-width="1.5"/>
+</svg>

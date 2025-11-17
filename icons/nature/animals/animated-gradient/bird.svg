@@ -1,0 +1,14 @@
+<svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="url(#grad-bird)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad-bird" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#6366f1;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#8b5cf6;stop-opacity:1"/>
+    </linearGradient>
+  </defs>
+  <path <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite" d="M16 7h.01"/>
+  <path <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite" d="M3.4 18H12a8 8 0 0 0 8-8V7a4 4 0 0 0-7.28-2.3L2 20"/>
+  <path <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite" d="m20 7 2 .5-2 .5"/>
+  <path <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite" d="M10 18v3"/>
+  <path <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite" d="M14 17.75V21"/>
+  <path <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite" d="M7 18a6 6 0 0 0 3.84-10.61"/>
+</svg>

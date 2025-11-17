@@ -1,8 +1,0 @@
-<svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg">
-  <path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z">
-    <animate attributeName="d" values="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z;M1 12s4 0 11 0 11 0 11 0-4 0-11 0-11 0-11 0z;M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z" dur="3s" repeatCount="indefinite"/>
-  </path>
-  <circle cx="12" cy="12" r="3">
-    <animate attributeName="r" values="3;0.5;3" dur="3s" repeatCount="indefinite"/>
-  </circle>
-</svg>
