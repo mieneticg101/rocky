@@ -5,10 +5,6 @@
       <stop offset="100%" style="stop-color:#06b6d4;stop-opacity:1"/>
     </linearGradient>
   </defs>
-  <style>
-    @keyframes iconPulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.6; } }
-    path, circle, rect, ellipse, polygon { animation: iconPulse 2s ease-in-out infinite; }
-  </style>
   <path d="M4 20L8 4h3l4 16h-3l-.8-3.2H8.8L8 20H4z" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round"/>
   <path d="M13 20l4-16h3l4 16h-3l-.8-3.2h-3.4l-.8 3.2h-3z" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round"/>
 </svg>

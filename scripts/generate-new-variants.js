@@ -11,67 +11,50 @@ const gradientColors = {
   'dev': { start: '#10b981', end: '#06b6d4' }
 };
 
-// Helper to add CSS-based animations via style tag
-function addAnimations(svg) {
-  // Use CSS animation instead of SVG SMIL for better compatibility
-  const styleTag = `<style>
-    @keyframes iconPulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.6; } }
-    path, circle, rect, ellipse, polygon { animation: iconPulse 2s ease-in-out infinite; }
-  </style>`;
-
-  // Insert style tag at the beginning of SVG content
-  return styleTag + '\n  ' + svg;
-}
-
-// 1. Filled (Solid) variant with animation
+// 1. Filled (Solid) variant - NO animation (static)
 function createFilledSVG(name, svg, category) {
-  const animatedSvg = addAnimations(svg);
   return `<svg viewBox="0 0 24 24" width="24" height="24" fill="currentColor" stroke="none" xmlns="http://www.w3.org/2000/svg">
-  ${animatedSvg}
+  ${svg}
 </svg>
 `;
 }
 
-// 2. Duotone variant with animation
+// 2. Duotone variant - NO animation (static, manual opacity on alternate elements)
 function createDuotoneSVG(name, svg, category) {
-  const animatedSvg = addAnimations(svg);
-  // Primary elements with full opacity, secondary with 0.3 opacity
-  let duotoneSvg = animatedSvg.replace(/opacity" values="[^"]+"/g, 'opacity" values="1;0.6;1"');
+  // Add opacity="0.3" to every other element for duotone effect
+  let isOdd = true;
+  const duotoneSvg = svg.replace(/<(path|circle|rect|ellipse|polygon)(\s+[^>\/]*)(\/?)>/g, (match, tag, attrs, selfClosing) => {
+    const opacityAttr = isOdd ? ' opacity="0.3"' : '';
+    isOdd = !isOdd;
+    return `<${tag}${attrs}${opacityAttr}${selfClosing}>`;
+  });
 
   return `<svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    path:nth-child(odd) { opacity: 0.3; }
-    rect:nth-child(odd) { opacity: 0.3; }
-    circle:nth-child(odd) { opacity: 0.3; }
-  </style>
   ${duotoneSvg}
 </svg>
 `;
 }
 
-// 3. Bold variant with animation
+// 3. Bold variant - NO animation (static, thick stroke)
 function createBoldSVG(name, svg, category) {
-  const animatedSvg = addAnimations(svg);
   return `<svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg">
-  ${animatedSvg}
+  ${svg}
 </svg>
 `;
 }
 
-// 4. Light variant with animation
+// 4. Light variant - NO animation (static, thin stroke)
 function createLightSVG(name, svg, category) {
-  const animatedSvg = addAnimations(svg);
   return `<svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg">
-  ${animatedSvg}
+  ${svg}
 </svg>
 `;
 }
 
-// 5. Filled-Gradient variant with animation
+// 5. Filled-Gradient variant - NO animation (static, gradient fill)
 function createFilledGradientSVG(name, svg, category) {
   const colors = gradientColors[category] || gradientColors.dev;
   const gradId = `grad-filled-${name}`;
-  const animatedSvg = addAnimations(svg);
 
   return `<svg viewBox="0 0 24 24" width="24" height="24" fill="url(#${gradId})" stroke="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
@@ -80,7 +63,7 @@ function createFilledGradientSVG(name, svg, category) {
       <stop offset="100%" style="stop-color:${colors.end};stop-opacity:1"/>
     </linearGradient>
   </defs>
-  ${animatedSvg}
+  ${svg}
 </svg>
 `;
 }
@@ -165,12 +148,12 @@ function processAllIcons() {
   traverse(ICONS_DIR);
   console.log(`\n✅ Successfully created 5 variants for ${totalProcessed} icons`);
   console.log(`📦 Total new files: ${totalProcessed * 5} (${totalProcessed} icons × 5 variants)`);
-  console.log(`\n📁 New variants created:`);
-  console.log(`   1. filled/ - Filled solid icons with animation`);
-  console.log(`   2. duotone/ - Duotone two-color icons with animation`);
-  console.log(`   3. bold/ - Bold stroke icons with animation`);
-  console.log(`   4. light/ - Light stroke icons with animation`);
-  console.log(`   5. filled-gradient/ - Filled gradient icons with animation`);
+  console.log(`\n📁 New variants created (all STATIC, no animation):`);
+  console.log(`   1. filled/ - Filled solid icons`);
+  console.log(`   2. duotone/ - Duotone two-color icons`);
+  console.log(`   3. bold/ - Bold stroke icons`);
+  console.log(`   4. light/ - Light stroke icons`);
+  console.log(`   5. filled-gradient/ - Filled gradient icons`);
 }
 
 processAllIcons();
