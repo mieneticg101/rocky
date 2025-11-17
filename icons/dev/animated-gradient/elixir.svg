@@ -5,6 +5,5 @@
       <stop offset="100%" style="stop-color:#06b6d4;stop-opacity:1"/>
     </linearGradient>
   </defs>
-  <path <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite" d="M12 2c-2 3-3 6-3 9a6 6 0 1 0 12 0c0-3-1-6-3-9-2 2-4 4-6 0z"/>
-  <path <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite" d="M12 8c-1 1.5-2 3-2 5"/>
+  <path <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite"/> d="M12 2c-3 4-4 8-4 12a4 4 0 0 0 8 0c0-4-1-8-4-12z"/><circle <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite"/> cx="12" cy="14" r="3"/><path <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite"/> d="M9 11l6 6"/>
 </svg>
