@@ -1,13 +1,13 @@
 {
-  "generated": "2025-11-17T06:20:00.211Z",
+  "generated": "2025-11-17T06:26:56.461Z",
   "stats": {
-    "total": 1174,
+    "total": 1193,
     "variant": "normal",
     "categories": {
       "thai": 40,
       "technology": 279,
+      "business": 134,
       "dev": 323,
-      "business": 115,
       "app": 11,
       "brand": 58,
       "essential": 134,
@@ -45,6 +45,20 @@
         "abstract",
         "tech",
         "software"
+      ]
+    },
+    {
+      "name": "achievement-star",
+      "category": "business",
+      "path": "icons/business/achievement-star.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M12 2l2.5 7.5h8l-6.5 5 2.5 7.5-6.5-5-6.5 5 2.5-7.5-6.5-5h8L12 2z\"/><circle cx=\"12\" cy=\"12\" r=\"2\"/>\n</svg>\n",
+      "variant": "normal",
+      "tags": [
+        "business",
+        "achievement",
+        "star",
+        "work",
+        "office"
       ]
     },
     {
@@ -1177,6 +1191,20 @@
       ]
     },
     {
+      "name": "barcode-scanner",
+      "category": "business",
+      "path": "icons/business/barcode-scanner.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <rect x=\"3\" y=\"3\" width=\"18\" height=\"14\" rx=\"2\"/><path d=\"M6 7v6M9 7v6M12 7v6M15 7v6M18 7v6\"/><path d=\"M3 19h18\"/>\n</svg>\n",
+      "variant": "normal",
+      "tags": [
+        "business",
+        "barcode",
+        "scanner",
+        "work",
+        "office"
+      ]
+    },
+    {
       "name": "base",
       "category": "technology",
       "path": "icons/technology/blockchain/base.svg",
@@ -1824,6 +1852,20 @@
       ]
     },
     {
+      "name": "budget-planning",
+      "category": "business",
+      "path": "icons/business/budget-planning.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\"/><path d=\"M8 8h8M8 12h6M8 16h4\"/><circle cx=\"17\" cy=\"16\" r=\"1\"/><path d=\"M12 3L12 21\"/>\n</svg>\n",
+      "variant": "normal",
+      "tags": [
+        "business",
+        "budget",
+        "planning",
+        "work",
+        "office"
+      ]
+    },
+    {
       "name": "budibase",
       "category": "dev",
       "path": "icons/dev/budibase.svg",
@@ -2216,6 +2258,19 @@
         "cerebrium",
         "tech",
         "software"
+      ]
+    },
+    {
+      "name": "certificate",
+      "category": "business",
+      "path": "icons/business/certificate.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <rect x=\"3\" y=\"5\" width=\"18\" height=\"14\" rx=\"2\"/><circle cx=\"12\" cy=\"12\" r=\"3\"/><path d=\"M12 15l-2 4 2-1 2 1-2-4\"/><path d=\"M6 8h2M6 11h2M16 8h2M16 11h2\"/>\n</svg>\n",
+      "variant": "normal",
+      "tags": [
+        "business",
+        "certificate",
+        "work",
+        "office"
       ]
     },
     {
@@ -2666,6 +2721,20 @@
       "tags": [
         "business",
         "clipboard",
+        "work",
+        "office"
+      ]
+    },
+    {
+      "name": "clipboard-check",
+      "category": "business",
+      "path": "icons/business/clipboard-check.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <rect x=\"5\" y=\"2\" width=\"14\" height=\"20\" rx=\"2\"/><rect x=\"9\" y=\"0\" width=\"6\" height=\"4\" rx=\"1\"/><path d=\"M9 12l2 2 4-4\"/>\n</svg>\n",
+      "variant": "normal",
+      "tags": [
+        "business",
+        "clipboard",
+        "check",
         "work",
         "office"
       ]
@@ -3529,6 +3598,19 @@
       ]
     },
     {
+      "name": "deadline",
+      "category": "business",
+      "path": "icons/business/deadline.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <circle cx=\"12\" cy=\"13\" r=\"9\"/><path d=\"M12 6v7l4 2\"/><path d=\"M12 3V1M9 3l-1-2M15 3l1-2\"/>\n</svg>\n",
+      "variant": "normal",
+      "tags": [
+        "business",
+        "deadline",
+        "work",
+        "office"
+      ]
+    },
+    {
       "name": "decentralized-social",
       "category": "social",
       "path": "icons/social/decentralized-social.svg",
@@ -3794,6 +3876,19 @@
         "development",
         "code",
         "tools"
+      ]
+    },
+    {
+      "name": "diploma",
+      "category": "business",
+      "path": "icons/business/diploma.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <rect x=\"4\" y=\"6\" width=\"16\" height=\"12\" rx=\"1\"/><path d=\"M4 10h16M8 13h8\"/><circle cx=\"12\" cy=\"16\" r=\"1\"/><path d=\"M8 3l4 3 4-3\"/>\n</svg>\n",
+      "variant": "normal",
+      "tags": [
+        "business",
+        "diploma",
+        "work",
+        "office"
       ]
     },
     {
@@ -5822,6 +5917,19 @@
       ]
     },
     {
+      "name": "handshake",
+      "category": "business",
+      "path": "icons/business/handshake.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M12 8L8 12l4 4 4-4-4-4z\"/><path d=\"M4 12h4M16 12h4\"/><path d=\"M8 8l-2-2M16 8l2-2M8 16l-2 2M16 16l2 2\"/>\n</svg>\n",
+      "variant": "normal",
+      "tags": [
+        "business",
+        "handshake",
+        "work",
+        "office"
+      ]
+    },
+    {
       "name": "hanko",
       "category": "dev",
       "path": "icons/dev/hanko.svg",
@@ -6290,6 +6398,20 @@
       ]
     },
     {
+      "name": "idea-bulb",
+      "category": "business",
+      "path": "icons/business/idea-bulb.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <circle cx=\"12\" cy=\"9\" r=\"5\"/><path d=\"M9 14h6\"/><path d=\"M10 17h4\"/><path d=\"M11 20h2\"/><path d=\"M12 4V2M18 9h2M6 9H4M16.5 5.5l1.5-1.5M7.5 5.5L6 4\"/>\n</svg>\n",
+      "variant": "normal",
+      "tags": [
+        "business",
+        "idea",
+        "bulb",
+        "work",
+        "office"
+      ]
+    },
+    {
       "name": "ideogram",
       "category": "technology",
       "path": "icons/technology/ai/ideogram.svg",
@@ -6485,6 +6607,19 @@
         "db",
         "tech",
         "software"
+      ]
+    },
+    {
+      "name": "investment",
+      "category": "business",
+      "path": "icons/business/investment.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M3 17l6-6 4 4 8-8\"/><path d=\"M21 3v6h-6\"/><circle cx=\"9\" cy=\"11\" r=\"1.5\"/><circle cx=\"13\" cy=\"15\" r=\"1.5\"/><circle cx=\"21\" cy=\"9\" r=\"1.5\"/>\n</svg>\n",
+      "variant": "normal",
+      "tags": [
+        "business",
+        "investment",
+        "work",
+        "office"
       ]
     },
     {
@@ -8893,6 +9028,20 @@
       ]
     },
     {
+      "name": "notification-bell",
+      "category": "business",
+      "path": "icons/business/notification-bell.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M18 8A6 6 0 106 8c0 7-3 9-3 9h18s-3-2-3-9\"/><path d=\"M13.73 21a2 2 0 01-3.46 0\"/><circle cx=\"18\" cy=\"6\" r=\"3\"/>\n</svg>\n",
+      "variant": "normal",
+      "tags": [
+        "business",
+        "notification",
+        "bell",
+        "work",
+        "office"
+      ]
+    },
+    {
       "name": "notion",
       "category": "app",
       "path": "icons/app/notion.svg",
@@ -9066,6 +9215,19 @@
         "development",
         "code",
         "tools"
+      ]
+    },
+    {
+      "name": "office-desk",
+      "category": "business",
+      "path": "icons/business/office-desk.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <rect x=\"2\" y=\"14\" width=\"20\" height=\"2\"/><rect x=\"4\" y=\"10\" width=\"4\" height=\"4\"/><rect x=\"12\" y=\"8\" width=\"8\" height=\"6\"/><circle cx=\"16\" cy=\"11\" r=\"1.5\"/><path d=\"M4 14V6h4v8M20 14V8h-8v6\"/>\n</svg>\n",
+      "variant": "normal",
+      "tags": [
+        "business",
+        "office",
+        "desk",
+        "work"
       ]
     },
     {
@@ -10180,6 +10342,20 @@
       ]
     },
     {
+      "name": "pos-terminal",
+      "category": "business",
+      "path": "icons/business/pos-terminal.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <rect x=\"4\" y=\"4\" width=\"16\" height=\"14\" rx=\"2\"/><rect x=\"7\" y=\"7\" width=\"10\" height=\"6\" rx=\"1\"/><circle cx=\"9\" cy=\"16\" r=\"1\"/><circle cx=\"12\" cy=\"16\" r=\"1\"/><circle cx=\"15\" cy=\"16\" r=\"1\"/>\n</svg>\n",
+      "variant": "normal",
+      "tags": [
+        "business",
+        "pos",
+        "terminal",
+        "work",
+        "office"
+      ]
+    },
+    {
       "name": "posthog",
       "category": "dev",
       "path": "icons/dev/posthog.svg",
@@ -10551,6 +10727,20 @@
         "business",
         "qr",
         "code",
+        "work",
+        "office"
+      ]
+    },
+    {
+      "name": "quality-badge",
+      "category": "business",
+      "path": "icons/business/quality-badge.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M12 2l3 6 6 1-4.5 4.5L18 20l-6-3-6 3 1.5-6.5L3 9l6-1 3-6z\"/><circle cx=\"12\" cy=\"11\" r=\"3\"/><path d=\"M12 8v2\"/>\n</svg>\n",
+      "variant": "normal",
+      "tags": [
+        "business",
+        "quality",
+        "badge",
         "work",
         "office"
       ]
@@ -11502,6 +11692,19 @@
       "tags": [
         "essential",
         "save"
+      ]
+    },
+    {
+      "name": "savings",
+      "category": "business",
+      "path": "icons/business/savings.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M12 2c-3 0-5 1-5 3v14c0 2 2 3 5 3s5-1 5-3V5c0-2-2-3-5-3z\"/><path d=\"M12 7v10M9 10h6M9 14h6\"/><circle cx=\"12\" cy=\"5\" r=\"1\"/>\n</svg>\n",
+      "variant": "normal",
+      "tags": [
+        "business",
+        "savings",
+        "work",
+        "office"
       ]
     },
     {
@@ -12755,6 +12958,19 @@
       ]
     },
     {
+      "name": "strategy",
+      "category": "business",
+      "path": "icons/business/strategy.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M12 7v10M7 12h10\"/><circle cx=\"12\" cy=\"7\" r=\"2\"/><circle cx=\"7\" cy=\"12\" r=\"2\"/><circle cx=\"17\" cy=\"12\" r=\"2\"/><circle cx=\"12\" cy=\"17\" r=\"2\"/>\n</svg>\n",
+      "variant": "normal",
+      "tags": [
+        "business",
+        "strategy",
+        "work",
+        "office"
+      ]
+    },
+    {
       "name": "stripe",
       "category": "brand",
       "path": "icons/brand/stripe.svg",
@@ -13234,6 +13450,20 @@
         "development",
         "code",
         "tools"
+      ]
+    },
+    {
+      "name": "team-collaboration",
+      "category": "business",
+      "path": "icons/business/team-collaboration.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <circle cx=\"9\" cy=\"7\" r=\"3\"/><circle cx=\"15\" cy=\"7\" r=\"3\"/><path d=\"M5 17v-2c0-2 2-4 4-4 2 0 4 2 4 4v2\"/><path d=\"M11 17v-2c0-2 2-4 4-4 2 0 4 2 4 4v2\"/>\n</svg>\n",
+      "variant": "normal",
+      "tags": [
+        "business",
+        "team",
+        "collaboration",
+        "work",
+        "office"
       ]
     },
     {
@@ -15028,6 +15258,19 @@
       ]
     },
     {
+      "name": "whiteboard",
+      "category": "business",
+      "path": "icons/business/whiteboard.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <rect x=\"3\" y=\"4\" width=\"18\" height=\"12\" rx=\"1\"/><path d=\"M3 16l18 0\"/><path d=\"M7 16v4M17 16v4\"/><path d=\"M7 20h10\"/><path d=\"M7 8h6M7 11h8\"/><circle cx=\"17\" cy=\"9\" r=\"1\"/>\n</svg>\n",
+      "variant": "normal",
+      "tags": [
+        "business",
+        "whiteboard",
+        "work",
+        "office"
+      ]
+    },
+    {
       "name": "wifi",
       "category": "technology",
       "path": "icons/technology/devices/wifi.svg",
@@ -15137,6 +15380,19 @@
       "tags": [
         "business",
         "wise",
+        "work",
+        "office"
+      ]
+    },
+    {
+      "name": "workflow",
+      "category": "business",
+      "path": "icons/business/workflow.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <rect x=\"3\" y=\"3\" width=\"6\" height=\"6\" rx=\"1\"/><rect x=\"15\" y=\"3\" width=\"6\" height=\"6\" rx=\"1\"/><rect x=\"3\" y=\"15\" width=\"6\" height=\"6\" rx=\"1\"/><rect x=\"15\" y=\"15\" width=\"6\" height=\"6\" rx=\"1\"/><path d=\"M9 6h6M9 18h6M6 9v6M18 9v6\"/>\n</svg>\n",
+      "variant": "normal",
+      "tags": [
+        "business",
+        "workflow",
         "work",
         "office"
       ]
