@@ -1,12 +1,12 @@
 {
-  "generated": "2025-11-17T04:21:51.121Z",
+  "generated": "2025-11-17T04:26:43.705Z",
   "stats": {
-    "total": 1095,
+    "total": 1115,
     "variant": "animated",
     "categories": {
       "thai": 40,
       "technology": 272,
-      "dev": 251,
+      "dev": 271,
       "business": 115,
       "app": 11,
       "brand": 58,
@@ -543,6 +543,21 @@
       ]
     },
     {
+      "name": "apollo-client",
+      "category": "dev",
+      "path": "icons/dev/animated/apollo-client.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path <animate attributeName=\"opacity\" values=\"1;0.6;1\" dur=\"2s\" repeatCount=\"indefinite\"/> d=\"M12 2l-2 5-5 2 5 2 2 5 2-5 5-2-5-2-2-5z\"/><circle <animate attributeName=\"opacity\" values=\"0.6;1;0.6\" dur=\"2s\" repeatCount=\"indefinite\"/> cx=\"12\" cy=\"12\" r=\"6\"/>\n</svg>\n",
+      "variant": "animated",
+      "tags": [
+        "dev",
+        "apollo",
+        "client",
+        "development",
+        "code",
+        "tools"
+      ]
+    },
+    {
       "name": "apple",
       "category": "home",
       "path": "icons/home/food/animated/apple.svg",
@@ -954,6 +969,20 @@
         "dev",
         "axiom",
         "logs",
+        "development",
+        "code",
+        "tools"
+      ]
+    },
+    {
+      "name": "axios",
+      "category": "dev",
+      "path": "icons/dev/animated/axios.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path <animate attributeName=\"opacity\" values=\"1;0.6;1\" dur=\"2s\" repeatCount=\"indefinite\"/> d=\"M3 3l6 18 3-9 9-3L3 3z\"/><circle <animate attributeName=\"opacity\" values=\"0.6;1;0.6\" dur=\"2s\" repeatCount=\"indefinite\"/> cx=\"12\" cy=\"12\" r=\"2\"/>\n</svg>\n",
+      "variant": "animated",
+      "tags": [
+        "dev",
+        "axios",
         "development",
         "code",
         "tools"
@@ -2849,6 +2878,20 @@
         "compass",
         "media",
         "fun"
+      ]
+    },
+    {
+      "name": "conform",
+      "category": "dev",
+      "path": "icons/dev/animated/conform.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <rect <animate attributeName=\"opacity\" values=\"0.6;1;0.6\" dur=\"2s\" repeatCount=\"indefinite\"/> x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\"/><path <animate attributeName=\"opacity\" values=\"1;0.6;1\" dur=\"2s\" repeatCount=\"indefinite\"/> d=\"M9 12l2 2 4-4\"/>\n</svg>\n",
+      "variant": "animated",
+      "tags": [
+        "dev",
+        "conform",
+        "development",
+        "code",
+        "tools"
       ]
     },
     {
@@ -4757,6 +4800,20 @@
       ]
     },
     {
+      "name": "formik",
+      "category": "dev",
+      "path": "icons/dev/animated/formik.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <rect <animate attributeName=\"opacity\" values=\"0.6;1;0.6\" dur=\"2s\" repeatCount=\"indefinite\"/> x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\"/><path <animate attributeName=\"opacity\" values=\"1;0.6;1\" dur=\"2s\" repeatCount=\"indefinite\"/> d=\"M8 8h8M8 12h8M8 16h4\"/><path <animate attributeName=\"opacity\" values=\"1;0.6;1\" dur=\"2s\" repeatCount=\"indefinite\"/> d=\"M18 14l2 2-2 2\"/>\n</svg>\n",
+      "variant": "animated",
+      "tags": [
+        "dev",
+        "formik",
+        "development",
+        "code",
+        "tools"
+      ]
+    },
+    {
       "name": "fortnite",
       "category": "entertainment",
       "path": "icons/entertainment/gaming/animated/fortnite.svg",
@@ -6407,6 +6464,20 @@
       ]
     },
     {
+      "name": "ky",
+      "category": "dev",
+      "path": "icons/dev/animated/ky.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path <animate attributeName=\"opacity\" values=\"1;0.6;1\" dur=\"2s\" repeatCount=\"indefinite\"/> d=\"M5 3v18\"/><path <animate attributeName=\"opacity\" values=\"1;0.6;1\" dur=\"2s\" repeatCount=\"indefinite\"/> d=\"M5 12l12-9v6l-12 3 12 3v6l-12-9z\"/>\n</svg>\n",
+      "variant": "animated",
+      "tags": [
+        "dev",
+        "ky",
+        "development",
+        "code",
+        "tools"
+      ]
+    },
+    {
       "name": "kysely",
       "category": "dev",
       "path": "icons/dev/animated/kysely.svg",
@@ -6636,6 +6707,20 @@
       "tags": [
         "dev",
         "lerna",
+        "development",
+        "code",
+        "tools"
+      ]
+    },
+    {
+      "name": "lexical",
+      "category": "dev",
+      "path": "icons/dev/animated/lexical.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <rect <animate attributeName=\"opacity\" values=\"0.6;1;0.6\" dur=\"2s\" repeatCount=\"indefinite\"/> x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\"/><path <animate attributeName=\"opacity\" values=\"1;0.6;1\" dur=\"2s\" repeatCount=\"indefinite\"/> d=\"M8 8h8M8 12h8M8 16h6\"/>\n</svg>\n",
+      "variant": "animated",
+      "tags": [
+        "dev",
+        "lexical",
         "development",
         "code",
         "tools"
@@ -8456,6 +8541,20 @@
       ]
     },
     {
+      "name": "ofetch",
+      "category": "dev",
+      "path": "icons/dev/animated/ofetch.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <circle <animate attributeName=\"opacity\" values=\"0.6;1;0.6\" dur=\"2s\" repeatCount=\"indefinite\"/> cx=\"12\" cy=\"12\" r=\"10\"/><path <animate attributeName=\"opacity\" values=\"1;0.6;1\" dur=\"2s\" repeatCount=\"indefinite\"/> d=\"M12 6v12M6 12h12\"/><circle <animate attributeName=\"opacity\" values=\"0.6;1;0.6\" dur=\"2s\" repeatCount=\"indefinite\"/> cx=\"12\" cy=\"12\" r=\"4\"/>\n</svg>\n",
+      "variant": "animated",
+      "tags": [
+        "dev",
+        "ofetch",
+        "development",
+        "code",
+        "tools"
+      ]
+    },
+    {
       "name": "ollama",
       "category": "technology",
       "path": "icons/technology/ai/animated/ollama.svg",
@@ -9300,6 +9399,20 @@
       ]
     },
     {
+      "name": "plate",
+      "category": "dev",
+      "path": "icons/dev/animated/plate.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <circle <animate attributeName=\"opacity\" values=\"0.6;1;0.6\" dur=\"2s\" repeatCount=\"indefinite\"/> cx=\"12\" cy=\"12\" r=\"10\"/><rect <animate attributeName=\"opacity\" values=\"0.6;1;0.6\" dur=\"2s\" repeatCount=\"indefinite\"/> x=\"8\" y=\"8\" width=\"8\" height=\"8\" rx=\"1\"/><path <animate attributeName=\"opacity\" values=\"1;0.6;1\" dur=\"2s\" repeatCount=\"indefinite\"/> d=\"M12 8v8M8 12h8\"/>\n</svg>\n",
+      "variant": "animated",
+      "tags": [
+        "dev",
+        "plate",
+        "development",
+        "code",
+        "tools"
+      ]
+    },
+    {
       "name": "platform-engineering",
       "category": "technology",
       "path": "icons/technology/animated/platform-engineering.svg",
@@ -9738,6 +9851,20 @@
       ]
     },
     {
+      "name": "prosemirror",
+      "category": "dev",
+      "path": "icons/dev/animated/prosemirror.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <rect <animate attributeName=\"opacity\" values=\"0.6;1;0.6\" dur=\"2s\" repeatCount=\"indefinite\"/> x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\"/><path <animate attributeName=\"opacity\" values=\"1;0.6;1\" dur=\"2s\" repeatCount=\"indefinite\"/> d=\"M8 8h8M8 12h6M8 16h4\"/><path <animate attributeName=\"opacity\" values=\"1;0.6;1\" dur=\"2s\" repeatCount=\"indefinite\"/> d=\"M3 8h18\"/>\n</svg>\n",
+      "variant": "animated",
+      "tags": [
+        "dev",
+        "prosemirror",
+        "development",
+        "code",
+        "tools"
+      ]
+    },
+    {
       "name": "pulse",
       "category": "healthcare",
       "path": "icons/healthcare/medical/animated/pulse.svg",
@@ -10125,6 +10252,22 @@
         "dev",
         "react",
         "email",
+        "development",
+        "code",
+        "tools"
+      ]
+    },
+    {
+      "name": "react-hook-form",
+      "category": "dev",
+      "path": "icons/dev/animated/react-hook-form.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <rect <animate attributeName=\"opacity\" values=\"0.6;1;0.6\" dur=\"2s\" repeatCount=\"indefinite\"/> x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\"/><path <animate attributeName=\"opacity\" values=\"1;0.6;1\" dur=\"2s\" repeatCount=\"indefinite\"/> d=\"M8 10h8M8 14h6\"/><circle <animate attributeName=\"opacity\" values=\"0.6;1;0.6\" dur=\"2s\" repeatCount=\"indefinite\"/> cx=\"6\" cy=\"10\" r=\"1\"/><circle <animate attributeName=\"opacity\" values=\"0.6;1;0.6\" dur=\"2s\" repeatCount=\"indefinite\"/> cx=\"6\" cy=\"14\" r=\"1\"/>\n</svg>\n",
+      "variant": "animated",
+      "tags": [
+        "dev",
+        "react",
+        "hook",
+        "form",
         "development",
         "code",
         "tools"
@@ -10532,6 +10675,21 @@
       "tags": [
         "dev",
         "rspack",
+        "development",
+        "code",
+        "tools"
+      ]
+    },
+    {
+      "name": "rtk-query",
+      "category": "dev",
+      "path": "icons/dev/animated/rtk-query.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <rect <animate attributeName=\"opacity\" values=\"0.6;1;0.6\" dur=\"2s\" repeatCount=\"indefinite\"/> x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\"/><path <animate attributeName=\"opacity\" values=\"1;0.6;1\" dur=\"2s\" repeatCount=\"indefinite\"/> d=\"M12 8v8M8 12h8\"/><circle <animate attributeName=\"opacity\" values=\"0.6;1;0.6\" dur=\"2s\" repeatCount=\"indefinite\"/> cx=\"12\" cy=\"12\" r=\"6\"/>\n</svg>\n",
+      "variant": "animated",
+      "tags": [
+        "dev",
+        "rtk",
+        "query",
         "development",
         "code",
         "tools"
@@ -11229,6 +11387,21 @@
       ]
     },
     {
+      "name": "slate-editor",
+      "category": "dev",
+      "path": "icons/dev/animated/slate-editor.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <rect <animate attributeName=\"opacity\" values=\"0.6;1;0.6\" dur=\"2s\" repeatCount=\"indefinite\"/> x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\"/><path <animate attributeName=\"opacity\" values=\"1;0.6;1\" dur=\"2s\" repeatCount=\"indefinite\"/> d=\"M3 8h18M3 13h18M8 3v18\"/>\n</svg>\n",
+      "variant": "animated",
+      "tags": [
+        "dev",
+        "slate",
+        "editor",
+        "development",
+        "code",
+        "tools"
+      ]
+    },
+    {
       "name": "sleep-tech",
       "category": "healthcare",
       "path": "icons/healthcare/animated/sleep-tech.svg",
@@ -11805,6 +11978,20 @@
       ]
     },
     {
+      "name": "stitches",
+      "category": "dev",
+      "path": "icons/dev/animated/stitches.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path <animate attributeName=\"opacity\" values=\"1;0.6;1\" dur=\"2s\" repeatCount=\"indefinite\"/> d=\"M6 3l12 6-12 6V3z\"/><path <animate attributeName=\"opacity\" values=\"1;0.6;1\" dur=\"2s\" repeatCount=\"indefinite\"/> d=\"M18 3v18\"/><circle <animate attributeName=\"opacity\" values=\"0.6;1;0.6\" dur=\"2s\" repeatCount=\"indefinite\"/> cx=\"12\" cy=\"9\" r=\"1\"/><circle <animate attributeName=\"opacity\" values=\"0.6;1;0.6\" dur=\"2s\" repeatCount=\"indefinite\"/> cx=\"12\" cy=\"15\" r=\"1\"/>\n</svg>\n",
+      "variant": "animated",
+      "tags": [
+        "dev",
+        "stitches",
+        "development",
+        "code",
+        "tools"
+      ]
+    },
+    {
       "name": "stop",
       "category": "essential",
       "path": "icons/essential/media/animated/stop.svg",
@@ -12020,6 +12207,20 @@
       ]
     },
     {
+      "name": "superstruct",
+      "category": "dev",
+      "path": "icons/dev/animated/superstruct.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path <animate attributeName=\"opacity\" values=\"1;0.6;1\" dur=\"2s\" repeatCount=\"indefinite\"/> d=\"M12 2L2 7v10l10 5 10-5V7L12 2z\"/><path <animate attributeName=\"opacity\" values=\"1;0.6;1\" dur=\"2s\" repeatCount=\"indefinite\"/> d=\"M2 7l10 5M22 7l-10 5\"/><path <animate attributeName=\"opacity\" values=\"1;0.6;1\" dur=\"2s\" repeatCount=\"indefinite\"/> d=\"M12 12v10\"/>\n</svg>\n",
+      "variant": "animated",
+      "tags": [
+        "dev",
+        "superstruct",
+        "development",
+        "code",
+        "tools"
+      ]
+    },
+    {
       "name": "surrealdb",
       "category": "technology",
       "path": "icons/technology/database/animated/surrealdb.svg",
@@ -12069,6 +12270,20 @@
       "tags": [
         "dev",
         "swift",
+        "development",
+        "code",
+        "tools"
+      ]
+    },
+    {
+      "name": "swr",
+      "category": "dev",
+      "path": "icons/dev/animated/swr.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <circle <animate attributeName=\"opacity\" values=\"0.6;1;0.6\" dur=\"2s\" repeatCount=\"indefinite\"/> cx=\"12\" cy=\"12\" r=\"10\"/><path <animate attributeName=\"opacity\" values=\"1;0.6;1\" dur=\"2s\" repeatCount=\"indefinite\"/> d=\"M12 2v20\"/><path <animate attributeName=\"opacity\" values=\"1;0.6;1\" dur=\"2s\" repeatCount=\"indefinite\"/> d=\"M12 2l-5 8h10l-5 8v-8\"/>\n</svg>\n",
+      "variant": "animated",
+      "tags": [
+        "dev",
+        "swr",
         "development",
         "code",
         "tools"
@@ -12644,6 +12859,20 @@
       ]
     },
     {
+      "name": "tiptap",
+      "category": "dev",
+      "path": "icons/dev/animated/tiptap.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <rect <animate attributeName=\"opacity\" values=\"0.6;1;0.6\" dur=\"2s\" repeatCount=\"indefinite\"/> x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\"/><path <animate attributeName=\"opacity\" values=\"1;0.6;1\" dur=\"2s\" repeatCount=\"indefinite\"/> d=\"M8 8h8M8 12h6M8 16h4\"/><circle <animate attributeName=\"opacity\" values=\"0.6;1;0.6\" dur=\"2s\" repeatCount=\"indefinite\"/> cx=\"18\" cy=\"8\" r=\"1\"/>\n</svg>\n",
+      "variant": "animated",
+      "tags": [
+        "dev",
+        "tiptap",
+        "development",
+        "code",
+        "tools"
+      ]
+    },
+    {
       "name": "tldraw",
       "category": "dev",
       "path": "icons/dev/animated/tldraw.svg",
@@ -13076,6 +13305,21 @@
       ]
     },
     {
+      "name": "twin-macro",
+      "category": "dev",
+      "path": "icons/dev/animated/twin-macro.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <rect <animate attributeName=\"opacity\" values=\"0.6;1;0.6\" dur=\"2s\" repeatCount=\"indefinite\"/> x=\"3\" y=\"3\" width=\"8\" height=\"18\" rx=\"1\"/><rect <animate attributeName=\"opacity\" values=\"0.6;1;0.6\" dur=\"2s\" repeatCount=\"indefinite\"/> x=\"13\" y=\"3\" width=\"8\" height=\"18\" rx=\"1\"/>\n</svg>\n",
+      "variant": "animated",
+      "tags": [
+        "dev",
+        "twin",
+        "macro",
+        "development",
+        "code",
+        "tools"
+      ]
+    },
+    {
       "name": "twitch",
       "category": "entertainment",
       "path": "icons/entertainment/streaming/animated/twitch.svg",
@@ -13323,6 +13567,20 @@
       ]
     },
     {
+      "name": "urql",
+      "category": "dev",
+      "path": "icons/dev/animated/urql.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <circle <animate attributeName=\"opacity\" values=\"0.6;1;0.6\" dur=\"2s\" repeatCount=\"indefinite\"/> cx=\"12\" cy=\"12\" r=\"10\"/><circle <animate attributeName=\"opacity\" values=\"0.6;1;0.6\" dur=\"2s\" repeatCount=\"indefinite\"/> cx=\"12\" cy=\"12\" r=\"6\"/><circle <animate attributeName=\"opacity\" values=\"0.6;1;0.6\" dur=\"2s\" repeatCount=\"indefinite\"/> cx=\"12\" cy=\"12\" r=\"2\"/>\n</svg>\n",
+      "variant": "animated",
+      "tags": [
+        "dev",
+        "urql",
+        "development",
+        "code",
+        "tools"
+      ]
+    },
+    {
       "name": "usb",
       "category": "technology",
       "path": "icons/technology/devices/animated/usb.svg",
@@ -13422,6 +13680,21 @@
       "tags": [
         "dev",
         "valibot",
+        "development",
+        "code",
+        "tools"
+      ]
+    },
+    {
+      "name": "vanilla-extract",
+      "category": "dev",
+      "path": "icons/dev/animated/vanilla-extract.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <circle <animate attributeName=\"opacity\" values=\"0.6;1;0.6\" dur=\"2s\" repeatCount=\"indefinite\"/> cx=\"12\" cy=\"12\" r=\"10\"/><path <animate attributeName=\"opacity\" values=\"1;0.6;1\" dur=\"2s\" repeatCount=\"indefinite\"/> d=\"M12 6v12M6 12h12\"/><circle <animate attributeName=\"opacity\" values=\"0.6;1;0.6\" dur=\"2s\" repeatCount=\"indefinite\"/> cx=\"12\" cy=\"8\" r=\"1.5\"/><circle <animate attributeName=\"opacity\" values=\"0.6;1;0.6\" dur=\"2s\" repeatCount=\"indefinite\"/> cx=\"12\" cy=\"16\" r=\"1.5\"/>\n</svg>\n",
+      "variant": "animated",
+      "tags": [
+        "dev",
+        "vanilla",
+        "extract",
         "development",
         "code",
         "tools"
@@ -14193,6 +14466,20 @@
         "music",
         "media",
         "fun"
+      ]
+    },
+    {
+      "name": "yup",
+      "category": "dev",
+      "path": "icons/dev/animated/yup.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <circle <animate attributeName=\"opacity\" values=\"0.6;1;0.6\" dur=\"2s\" repeatCount=\"indefinite\"/> cx=\"12\" cy=\"12\" r=\"10\"/><path <animate attributeName=\"opacity\" values=\"1;0.6;1\" dur=\"2s\" repeatCount=\"indefinite\"/> d=\"M9 12l2 2 4-4\"/><path <animate attributeName=\"opacity\" values=\"1;0.6;1\" dur=\"2s\" repeatCount=\"indefinite\"/> d=\"M12 2v4M12 18v4\"/>\n</svg>\n",
+      "variant": "animated",
+      "tags": [
+        "dev",
+        "yup",
+        "development",
+        "code",
+        "tools"
       ]
     },
     {
