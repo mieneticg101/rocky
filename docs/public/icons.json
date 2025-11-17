@@ -1,12 +1,12 @@
 {
-  "generated": "2025-11-17T06:10:47.144Z",
+  "generated": "2025-11-17T06:15:39.509Z",
   "stats": {
-    "total": 1135,
+    "total": 1154,
     "variant": "normal",
     "categories": {
       "thai": 40,
-      "technology": 274,
-      "dev": 289,
+      "technology": 276,
+      "dev": 306,
       "business": 115,
       "app": 11,
       "brand": 58,
@@ -465,6 +465,21 @@
       ]
     },
     {
+      "name": "analog-angular",
+      "category": "dev",
+      "path": "icons/dev/analog-angular.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M12 2L2 6l1.5 12L12 22l8.5-4L22 6 12 2z\"/><path d=\"M12 6l-4 8h8l-4-8z\"/><path d=\"M8 14h8\"/>\n</svg>\n",
+      "variant": "normal",
+      "tags": [
+        "dev",
+        "analog",
+        "angular",
+        "development",
+        "code",
+        "tools"
+      ]
+    },
+    {
       "name": "anchor",
       "category": "essential",
       "path": "icons/essential/anchor.svg",
@@ -726,6 +741,20 @@
         "dev",
         "ark",
         "ui",
+        "development",
+        "code",
+        "tools"
+      ]
+    },
+    {
+      "name": "arktype",
+      "category": "dev",
+      "path": "icons/dev/arktype.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M12 2L2 7l10 5 10-5-10-5z\"/><path d=\"M2 12l10 5 10-5\"/><path d=\"M2 17l10 5 10-5\"/><circle cx=\"12\" cy=\"7\" r=\"1\"/>\n</svg>\n",
+      "variant": "normal",
+      "tags": [
+        "dev",
+        "arktype",
         "development",
         "code",
         "tools"
@@ -2414,6 +2443,20 @@
       ]
     },
     {
+      "name": "chromatic",
+      "category": "dev",
+      "path": "icons/dev/chromatic.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M12 3l4 9-4 9-4-9 4-9z\"/><circle cx=\"12\" cy=\"12\" r=\"3\"/>\n</svg>\n",
+      "variant": "normal",
+      "tags": [
+        "dev",
+        "chromatic",
+        "development",
+        "code",
+        "tools"
+      ]
+    },
+    {
       "name": "chrome",
       "category": "app",
       "path": "icons/app/chrome.svg",
@@ -2698,6 +2741,34 @@
         "cloudflare",
         "logo",
         "company"
+      ]
+    },
+    {
+      "name": "cloudflare-d1",
+      "category": "technology",
+      "path": "icons/technology/database/cloudflare-d1.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <ellipse cx=\"12\" cy=\"8\" rx=\"8\" ry=\"3\"/><path d=\"M4 8v8c0 1.66 3.6 3 8 3s8-1.34 8-3V8\"/><path d=\"M20 12c0 1.66-3.6 3-8 3s-8-1.34-8-3\"/><path d=\"M16 6l2 2-2 2\"/>\n</svg>\n",
+      "variant": "normal",
+      "tags": [
+        "technology",
+        "cloudflare",
+        "d1",
+        "tech",
+        "software"
+      ]
+    },
+    {
+      "name": "cloudflare-r2",
+      "category": "technology",
+      "path": "icons/technology/cloud/cloudflare-r2.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <rect x=\"4\" y=\"4\" width=\"16\" height=\"16\" rx=\"2\"/><path d=\"M9 9h6M9 13h4\"/><rect x=\"14\" y=\"14\" width=\"4\" height=\"4\" rx=\"1\"/><circle cx=\"7\" cy=\"17\" r=\"1\"/>\n</svg>\n",
+      "variant": "normal",
+      "tags": [
+        "technology",
+        "cloudflare",
+        "r2",
+        "tech",
+        "software"
       ]
     },
     {
@@ -4982,6 +5053,21 @@
       ]
     },
     {
+      "name": "fresh-deno",
+      "category": "dev",
+      "path": "icons/dev/fresh-deno.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M12 2L2 7v10l10 5 10-5V7L12 2z\"/><path d=\"M12 12l10-5M12 12v10M12 12L2 7\"/><circle cx=\"12\" cy=\"12\" r=\"2\"/><path d=\"M16 10l2-1\"/>\n</svg>\n",
+      "variant": "normal",
+      "tags": [
+        "dev",
+        "fresh",
+        "deno",
+        "development",
+        "code",
+        "tools"
+      ]
+    },
+    {
       "name": "fuel",
       "category": "technology",
       "path": "icons/technology/blockchain/fuel.svg",
@@ -5588,6 +5674,20 @@
       ]
     },
     {
+      "name": "gsap",
+      "category": "dev",
+      "path": "icons/dev/gsap.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M2 12h20M12 2v20\"/><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M12 6l3 6-3 6-3-6 3-6z\"/>\n</svg>\n",
+      "variant": "normal",
+      "tags": [
+        "dev",
+        "gsap",
+        "development",
+        "code",
+        "tools"
+      ]
+    },
+    {
       "name": "guitar",
       "category": "entertainment",
       "path": "icons/entertainment/music/guitar.svg",
@@ -5658,6 +5758,21 @@
       "tags": [
         "dev",
         "hanko",
+        "development",
+        "code",
+        "tools"
+      ]
+    },
+    {
+      "name": "happy-dom",
+      "category": "dev",
+      "path": "icons/dev/happy-dom.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <circle cx=\"12\" cy=\"12\" r=\"9\"/><circle cx=\"9\" cy=\"10\" r=\"1.5\"/><circle cx=\"15\" cy=\"10\" r=\"1.5\"/><path d=\"M8 15c1 1.5 3 2 4 2s3-.5 4-2\"/>\n</svg>\n",
+      "variant": "normal",
+      "tags": [
+        "dev",
+        "happy",
+        "dom",
         "development",
         "code",
         "tools"
@@ -6022,6 +6137,21 @@
       ]
     },
     {
+      "name": "hydrogen-shopify",
+      "category": "dev",
+      "path": "icons/dev/hydrogen-shopify.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M12 2L4 6v12l8 4 8-4V6l-8-4z\"/><path d=\"M12 6v12M8 9l4-2 4 2M8 15l4 2 4-2\"/><circle cx=\"12\" cy=\"12\" r=\"1.5\"/>\n</svg>\n",
+      "variant": "normal",
+      "tags": [
+        "dev",
+        "hydrogen",
+        "shopify",
+        "development",
+        "code",
+        "tools"
+      ]
+    },
+    {
       "name": "hyperbolic",
       "category": "technology",
       "path": "icons/technology/ai/hyperbolic.svg",
@@ -6362,6 +6492,20 @@
       "tags": [
         "dev",
         "june",
+        "development",
+        "code",
+        "tools"
+      ]
+    },
+    {
+      "name": "k6",
+      "category": "dev",
+      "path": "icons/dev/k6.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M12 2L2 7v10l10 5 10-5V7L12 2z\"/><path d=\"M8 10h3l3-3M11 10l3 4M12 8v8\"/>\n</svg>\n",
+      "variant": "normal",
+      "tags": [
+        "dev",
+        "k6",
         "development",
         "code",
         "tools"
@@ -7201,6 +7345,20 @@
         "dev",
         "loops",
         "so",
+        "development",
+        "code",
+        "tools"
+      ]
+    },
+    {
+      "name": "lottie",
+      "category": "dev",
+      "path": "icons/dev/lottie.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M12 8v8M8 12h8\"/><circle cx=\"12\" cy=\"8\" r=\"1.5\"/><circle cx=\"12\" cy=\"16\" r=\"1.5\"/><circle cx=\"8\" cy=\"12\" r=\"1.5\"/><circle cx=\"16\" cy=\"12\" r=\"1.5\"/>\n</svg>\n",
+      "variant": "normal",
+      "tags": [
+        "dev",
+        "lottie",
         "development",
         "code",
         "tools"
@@ -8128,6 +8286,21 @@
       ]
     },
     {
+      "name": "motion-one",
+      "category": "dev",
+      "path": "icons/dev/motion-one.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M8 8l8 8M16 8l-8 8\"/><circle cx=\"12\" cy=\"12\" r=\"3\"/><path d=\"M12 3v2M12 19v2M3 12h2M19 12h2\"/>\n</svg>\n",
+      "variant": "normal",
+      "tags": [
+        "dev",
+        "motion",
+        "one",
+        "development",
+        "code",
+        "tools"
+      ]
+    },
+    {
       "name": "mountain",
       "category": "nature",
       "path": "icons/nature/mountain.svg",
@@ -8197,6 +8370,20 @@
         "mrt",
         "thailand",
         "local"
+      ]
+    },
+    {
+      "name": "msw",
+      "category": "dev",
+      "path": "icons/dev/msw.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\"/><path d=\"M8 8l4 4 4-4M8 16l4-4 4 4\"/>\n</svg>\n",
+      "variant": "normal",
+      "tags": [
+        "dev",
+        "msw",
+        "development",
+        "code",
+        "tools"
       ]
     },
     {
@@ -8722,6 +8909,21 @@
         "ollama",
         "tech",
         "software"
+      ]
+    },
+    {
+      "name": "open-props",
+      "category": "dev",
+      "path": "icons/dev/open-props.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <rect x=\"3\" y=\"5\" width=\"18\" height=\"14\" rx=\"2\"/><path d=\"M7 9h10M7 13h6M7 17h8\"/><circle cx=\"17\" cy=\"17\" r=\"1\"/>\n</svg>\n",
+      "variant": "normal",
+      "tags": [
+        "dev",
+        "open",
+        "props",
+        "development",
+        "code",
+        "tools"
       ]
     },
     {
@@ -10588,6 +10790,20 @@
       ]
     },
     {
+      "name": "remotion",
+      "category": "dev",
+      "path": "icons/dev/remotion.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <rect x=\"3\" y=\"5\" width=\"18\" height=\"14\" rx=\"2\"/><path d=\"M10 9l6 3-6 3V9z\"/><circle cx=\"17\" cy=\"8\" r=\"1\"/>\n</svg>\n",
+      "variant": "normal",
+      "tags": [
+        "dev",
+        "remotion",
+        "development",
+        "code",
+        "tools"
+      ]
+    },
+    {
       "name": "render",
       "category": "brand",
       "path": "icons/brand/render.svg",
@@ -11863,6 +12079,20 @@
       ]
     },
     {
+      "name": "solidstart",
+      "category": "dev",
+      "path": "icons/dev/solidstart.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <polygon points=\"12,2 22,8.5 22,15.5 12,22 2,15.5 2,8.5\"/><path d=\"M12 2v20M2 8.5l10 5.5 10-5.5M2 15.5l10-5.5 10 5.5\"/>\n</svg>\n",
+      "variant": "normal",
+      "tags": [
+        "dev",
+        "solidstart",
+        "development",
+        "code",
+        "tools"
+      ]
+    },
+    {
       "name": "sonarqube",
       "category": "dev",
       "path": "icons/dev/sonarqube.svg",
@@ -12899,6 +13129,20 @@
       ]
     },
     {
+      "name": "testcontainers",
+      "category": "dev",
+      "path": "icons/dev/testcontainers.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <rect x=\"3\" y=\"5\" width=\"7\" height=\"7\" rx=\"1\"/><rect x=\"14\" y=\"5\" width=\"7\" height=\"7\" rx=\"1\"/><rect x=\"3\" y=\"14\" width=\"7\" height=\"7\" rx=\"1\"/><rect x=\"14\" y=\"14\" width=\"7\" height=\"7\" rx=\"1\"/>\n</svg>\n",
+      "variant": "normal",
+      "tags": [
+        "dev",
+        "testcontainers",
+        "development",
+        "code",
+        "tools"
+      ]
+    },
+    {
       "name": "thai-airways",
       "category": "thai",
       "path": "icons/thai/thai-airways.svg",
@@ -12974,6 +13218,21 @@
         "temple",
         "thailand",
         "local"
+      ]
+    },
+    {
+      "name": "theatre-js",
+      "category": "dev",
+      "path": "icons/dev/theatre-js.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <rect x=\"2\" y=\"4\" width=\"20\" height=\"16\" rx=\"2\"/><path d=\"M6 8v8M10 8v8M14 8v8M18 8v8\"/><path d=\"M2 12h20\"/>\n</svg>\n",
+      "variant": "normal",
+      "tags": [
+        "dev",
+        "theatre",
+        "js",
+        "development",
+        "code",
+        "tools"
       ]
     },
     {
@@ -14115,10 +14374,25 @@
       ]
     },
     {
+      "name": "vike-ssr",
+      "category": "dev",
+      "path": "icons/dev/vike-ssr.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M3 3l9 18 9-18H3z\"/><path d=\"M12 8v10M8 13l4-2 4 2\"/>\n</svg>\n",
+      "variant": "normal",
+      "tags": [
+        "dev",
+        "vike",
+        "ssr",
+        "development",
+        "code",
+        "tools"
+      ]
+    },
+    {
       "name": "vinxi",
       "category": "dev",
       "path": "icons/dev/vinxi.svg",
-      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M4 4l8 16 8-16\"/>\n  <path d=\"M12 20v-8\"/>\n  <circle cx=\"12\" cy=\"12\" r=\"2\"/>\n</svg>\n",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\"/><path d=\"M3 9h18M9 3v18\"/><circle cx=\"6\" cy=\"6\" r=\"1\"/><circle cx=\"15\" cy=\"15\" r=\"1\"/>\n</svg>\n",
       "variant": "normal",
       "tags": [
         "dev",
