@@ -1,19 +1,19 @@
 {
-  "generated": "2025-11-17T01:46:28.963Z",
+  "generated": "2025-11-17T02:09:06.526Z",
   "stats": {
-    "total": 852,
+    "total": 863,
     "gradient": 784,
     "animated": 130,
     "animated-gradient": 268,
     "categories": {
       "thai": 40,
-      "technology": 201,
+      "technology": 202,
       "business": 112,
       "app": 11,
       "brand": 58,
       "essential": 134,
       "entertainment": 59,
-      "dev": 82,
+      "dev": 92,
       "home": 28,
       "healthcare": 27,
       "social": 58,
@@ -390,6 +390,24 @@
         "ais",
         "thailand",
         "local"
+      ]
+    },
+    {
+      "name": "akash",
+      "category": "technology",
+      "path": "icons/technology/blockchain/akash.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M3 3h18v18H3z\"/>\n  <path d=\"M8 3v18\"/>\n  <path d=\"M3 8h5\"/>\n  <path d=\"M3 13h5\"/>\n  <path d=\"M3 18h5\"/>\n  <circle cx=\"15\" cy=\"10\" r=\"3\"/>\n  <path d=\"M13 17l4-4\"/>\n</svg>\n",
+      "variants": {
+        "normal": true,
+        "gradient": false,
+        "animated": false,
+        "animated-gradient": false
+      },
+      "tags": [
+        "technology",
+        "akash",
+        "tech",
+        "software"
       ]
     },
     {
@@ -4405,6 +4423,25 @@
       ]
     },
     {
+      "name": "effect",
+      "category": "dev",
+      "path": "icons/dev/effect.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <circle cx=\"12\" cy=\"12\" r=\"10\"/>\n  <path d=\"M8 12h8\"/>\n  <path d=\"M12 8l4 4-4 4\"/>\n</svg>\n",
+      "variants": {
+        "normal": true,
+        "gradient": false,
+        "animated": false,
+        "animated-gradient": false
+      },
+      "tags": [
+        "dev",
+        "effect",
+        "development",
+        "code",
+        "tools"
+      ]
+    },
+    {
       "name": "egg",
       "category": "home",
       "path": "icons/home/food/egg.svg",
@@ -5860,6 +5897,25 @@
       ]
     },
     {
+      "name": "grafbase",
+      "category": "dev",
+      "path": "icons/dev/grafbase.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M21 12a9 9 0 1 1-9-9c2.52 0 4.93 1 6.74 2.74L21 8\"/>\n  <path d=\"M21 3v5h-5\"/>\n  <path d=\"M12 8v8\"/>\n  <path d=\"M8 12h8\"/>\n</svg>\n",
+      "variants": {
+        "normal": true,
+        "gradient": false,
+        "animated": false,
+        "animated-gradient": false
+      },
+      "tags": [
+        "dev",
+        "grafbase",
+        "development",
+        "code",
+        "tools"
+      ]
+    },
+    {
       "name": "graphql",
       "category": "dev",
       "path": "icons/dev/graphql.svg",
@@ -6953,6 +7009,25 @@
       ]
     },
     {
+      "name": "kysely",
+      "category": "dev",
+      "path": "icons/dev/kysely.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M12 2L2 7v10l10 5 10-5V7l-10-5z\"/>\n  <path d=\"M2 7l10 5\"/>\n  <path d=\"M12 12l10-5\"/>\n  <path d=\"M12 12v10\"/>\n  <path d=\"M7.5 9.5v5\"/>\n</svg>\n",
+      "variants": {
+        "normal": true,
+        "gradient": false,
+        "animated": false,
+        "animated-gradient": false
+      },
+      "tags": [
+        "dev",
+        "kysely",
+        "development",
+        "code",
+        "tools"
+      ]
+    },
+    {
       "name": "lab-grown",
       "category": "technology",
       "path": "icons/technology/lab-grown.svg",
@@ -6969,6 +7044,25 @@
         "grown",
         "tech",
         "software"
+      ]
+    },
+    {
+      "name": "lago",
+      "category": "dev",
+      "path": "icons/dev/lago.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <rect x=\"3\" y=\"5\" width=\"18\" height=\"14\" rx=\"2\"/>\n  <path d=\"M7 9h10\"/>\n  <path d=\"M7 13h6\"/>\n  <circle cx=\"17\" cy=\"13\" r=\"1\"/>\n</svg>\n",
+      "variants": {
+        "normal": true,
+        "gradient": false,
+        "animated": false,
+        "animated-gradient": false
+      },
+      "tags": [
+        "dev",
+        "lago",
+        "development",
+        "code",
+        "tools"
       ]
     },
     {
@@ -8752,6 +8846,25 @@
       ]
     },
     {
+      "name": "nitric",
+      "category": "dev",
+      "path": "icons/dev/nitric.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M12 2L2 7l10 5 10-5-10-5z\"/>\n  <path d=\"M2 17l10 5 10-5\"/>\n  <path d=\"M2 12l10 5 10-5\"/>\n  <path d=\"M12 12v5\"/>\n</svg>\n",
+      "variants": {
+        "normal": true,
+        "gradient": false,
+        "animated": false,
+        "animated-gradient": false
+      },
+      "tags": [
+        "dev",
+        "nitric",
+        "development",
+        "code",
+        "tools"
+      ]
+    },
+    {
       "name": "nitro",
       "category": "dev",
       "path": "icons/dev/nitro.svg",
@@ -9061,6 +9174,25 @@
       ]
     },
     {
+      "name": "oxc",
+      "category": "dev",
+      "path": "icons/dev/oxc.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <circle cx=\"9\" cy=\"12\" r=\"6\"/>\n  <circle cx=\"16\" cy=\"8\" r=\"3\"/>\n  <circle cx=\"16\" cy=\"16\" r=\"3\"/>\n</svg>\n",
+      "variants": {
+        "normal": true,
+        "gradient": false,
+        "animated": false,
+        "animated-gradient": false
+      },
+      "tags": [
+        "dev",
+        "oxc",
+        "development",
+        "code",
+        "tools"
+      ]
+    },
+    {
       "name": "package",
       "category": "technology",
       "path": "icons/technology/programming/package.svg",
@@ -9340,6 +9472,25 @@
       ]
     },
     {
+      "name": "permit",
+      "category": "dev",
+      "path": "icons/dev/permit.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <rect x=\"3\" y=\"11\" width=\"18\" height=\"11\" rx=\"2\"/>\n  <path d=\"M7 11V7a5 5 0 0 1 9.9-1\"/>\n  <circle cx=\"12\" cy=\"16\" r=\"1\"/>\n  <path d=\"M16 11V9a4 4 0 0 0-8 0v2\"/>\n</svg>\n",
+      "variants": {
+        "normal": true,
+        "gradient": false,
+        "animated": false,
+        "animated-gradient": false
+      },
+      "tags": [
+        "dev",
+        "permit",
+        "development",
+        "code",
+        "tools"
+      ]
+    },
+    {
       "name": "perplexity",
       "category": "brand",
       "path": "icons/brand/perplexity.svg",
@@ -9372,6 +9523,25 @@
         "healthcare",
         "personalized",
         "medicine"
+      ]
+    },
+    {
+      "name": "pglite",
+      "category": "dev",
+      "path": "icons/dev/pglite.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <circle cx=\"12\" cy=\"12\" r=\"10\"/>\n  <path d=\"M8 12h8\"/>\n  <path d=\"M12 8v8\"/>\n  <path d=\"M15.5 8.5L12 12l-3.5-3.5\"/>\n</svg>\n",
+      "variants": {
+        "normal": true,
+        "gradient": false,
+        "animated": false,
+        "animated-gradient": false
+      },
+      "tags": [
+        "dev",
+        "pglite",
+        "development",
+        "code",
+        "tools"
       ]
     },
     {
@@ -12866,6 +13036,25 @@
       ]
     },
     {
+      "name": "tanstack",
+      "category": "dev",
+      "path": "icons/dev/tanstack.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <rect x=\"3\" y=\"3\" width=\"8\" height=\"8\" rx=\"1\"/>\n  <rect x=\"13\" y=\"3\" width=\"8\" height=\"8\" rx=\"1\"/>\n  <rect x=\"3\" y=\"13\" width=\"8\" height=\"8\" rx=\"1\"/>\n  <rect x=\"13\" y=\"13\" width=\"8\" height=\"8\" rx=\"1\"/>\n</svg>\n",
+      "variants": {
+        "normal": true,
+        "gradient": false,
+        "animated": false,
+        "animated-gradient": false
+      },
+      "tags": [
+        "dev",
+        "tanstack",
+        "development",
+        "code",
+        "tools"
+      ]
+    },
+    {
       "name": "target",
       "category": "business",
       "path": "icons/business/marketing/target.svg",
@@ -14930,6 +15119,25 @@
         "twitter",
         "media",
         "network"
+      ]
+    },
+    {
+      "name": "xata",
+      "category": "dev",
+      "path": "icons/dev/xata.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\"/>\n  <path d=\"M3 9h18\"/>\n  <path d=\"M9 21V9\"/>\n  <path d=\"M15 13v4\"/>\n  <path d=\"M12 15v2\"/>\n</svg>\n",
+      "variants": {
+        "normal": true,
+        "gradient": false,
+        "animated": false,
+        "animated-gradient": false
+      },
+      "tags": [
+        "dev",
+        "xata",
+        "development",
+        "code",
+        "tools"
       ]
     },
     {
