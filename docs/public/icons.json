@@ -1,15 +1,15 @@
 {
-  "generated": "2025-11-17T04:08:47.211Z",
+  "generated": "2025-11-17T04:13:14.860Z",
   "stats": {
-    "total": 1037,
+    "total": 1057,
     "variant": "normal",
     "categories": {
       "thai": 40,
-      "technology": 268,
+      "technology": 272,
       "business": 115,
       "app": 11,
       "brand": 58,
-      "dev": 197,
+      "dev": 213,
       "essential": 134,
       "entertainment": 59,
       "home": 28,
@@ -1843,6 +1843,20 @@
       ]
     },
     {
+      "name": "capacitor",
+      "category": "dev",
+      "path": "icons/dev/capacitor.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <circle cx=\"12\" cy=\"12\" r=\"10\"/><circle cx=\"12\" cy=\"12\" r=\"6\"/><path d=\"M12 2v4M12 18v4\"/><path d=\"M6 6l2 2M16 16l2 2M6 18l2-2M16 8l2-2\"/>\n</svg>\n",
+      "variant": "normal",
+      "tags": [
+        "dev",
+        "capacitor",
+        "development",
+        "code",
+        "tools"
+      ]
+    },
+    {
       "name": "capcut",
       "category": "app",
       "path": "icons/app/capcut.svg",
@@ -3397,6 +3411,20 @@
       ]
     },
     {
+      "name": "dioxus",
+      "category": "dev",
+      "path": "icons/dev/dioxus.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <circle cx=\"12\" cy=\"12\" r=\"10\"/><path d=\"M8 8l8 8M16 8l-8 8\"/><circle cx=\"12\" cy=\"12\" r=\"4\"/><path d=\"M12 2v4M12 18v4M2 12h4M18 12h4\"/>\n</svg>\n",
+      "variant": "normal",
+      "tags": [
+        "dev",
+        "dioxus",
+        "development",
+        "code",
+        "tools"
+      ]
+    },
+    {
       "name": "directus",
       "category": "dev",
       "path": "icons/dev/directus.svg",
@@ -3781,6 +3809,20 @@
       ]
     },
     {
+      "name": "electric-sql",
+      "category": "technology",
+      "path": "icons/technology/database/electric-sql.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M12 2l-9 9h6v11l9-9h-6V2z\"/><circle cx=\"12\" cy=\"12\" r=\"2\"/>\n</svg>\n",
+      "variant": "normal",
+      "tags": [
+        "technology",
+        "electric",
+        "sql",
+        "tech",
+        "software"
+      ]
+    },
+    {
       "name": "element",
       "category": "social",
       "path": "icons/social/element.svg",
@@ -3965,6 +4007,20 @@
       ]
     },
     {
+      "name": "expo",
+      "category": "dev",
+      "path": "icons/dev/expo.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M12 2L2 7v10l10 5 10-5V7L12 2z\"/><path d=\"M12 2v20\"/><circle cx=\"12\" cy=\"7\" r=\"2\"/><circle cx=\"12\" cy=\"17\" r=\"2\"/>\n</svg>\n",
+      "variant": "normal",
+      "tags": [
+        "dev",
+        "expo",
+        "development",
+        "code",
+        "tools"
+      ]
+    },
+    {
       "name": "external",
       "category": "essential",
       "path": "icons/essential/actions/external.svg",
@@ -4143,6 +4199,20 @@
         "fastly",
         "tech",
         "software"
+      ]
+    },
+    {
+      "name": "fathom",
+      "category": "dev",
+      "path": "icons/dev/fathom.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <circle cx=\"12\" cy=\"12\" r=\"10\"/><path d=\"M8 12l2 2 4-4\"/><path d=\"M12 6v12M6 12h12\"/>\n</svg>\n",
+      "variant": "normal",
+      "tags": [
+        "dev",
+        "fathom",
+        "development",
+        "code",
+        "tools"
       ]
     },
     {
@@ -5804,6 +5874,20 @@
       ]
     },
     {
+      "name": "instant-db",
+      "category": "technology",
+      "path": "icons/technology/database/instant-db.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M12 2l-9 20h18L12 2z\"/><path d=\"M12 8v8\"/><circle cx=\"12\" cy=\"18\" r=\"1\"/>\n</svg>\n",
+      "variant": "normal",
+      "tags": [
+        "technology",
+        "instant",
+        "db",
+        "tech",
+        "software"
+      ]
+    },
+    {
       "name": "invoice",
       "category": "business",
       "path": "icons/business/finance/invoice.svg",
@@ -5814,6 +5898,20 @@
         "invoice",
         "work",
         "office"
+      ]
+    },
+    {
+      "name": "ionic",
+      "category": "dev",
+      "path": "icons/dev/ionic.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <circle cx=\"12\" cy=\"12\" r=\"10\"/><circle cx=\"12\" cy=\"12\" r=\"4\"/><circle cx=\"12\" cy=\"6\" r=\"2\"/><circle cx=\"6\" cy=\"16\" r=\"2\"/><circle cx=\"18\" cy=\"16\" r=\"2\"/>\n</svg>\n",
+      "variant": "normal",
+      "tags": [
+        "dev",
+        "ionic",
+        "development",
+        "code",
+        "tools"
       ]
     },
     {
@@ -5859,6 +5957,20 @@
       ]
     },
     {
+      "name": "jotai",
+      "category": "dev",
+      "path": "icons/dev/jotai.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <circle cx=\"12\" cy=\"6\" r=\"3\"/><circle cx=\"6\" cy=\"18\" r=\"3\"/><circle cx=\"18\" cy=\"18\" r=\"3\"/><path d=\"M12 9v3\"/><path d=\"M12 12l-4 4\"/><path d=\"M12 12l4 4\"/>\n</svg>\n",
+      "variant": "normal",
+      "tags": [
+        "dev",
+        "jotai",
+        "development",
+        "code",
+        "tools"
+      ]
+    },
+    {
       "name": "joystick",
       "category": "entertainment",
       "path": "icons/entertainment/games/joystick.svg",
@@ -5869,6 +5981,20 @@
         "joystick",
         "media",
         "fun"
+      ]
+    },
+    {
+      "name": "june",
+      "category": "dev",
+      "path": "icons/dev/june.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\"/><circle cx=\"8\" cy=\"8\" r=\"2\"/><circle cx=\"16\" cy=\"8\" r=\"2\"/><path d=\"M8 16c2-2 6-2 8 0\"/>\n</svg>\n",
+      "variant": "normal",
+      "tags": [
+        "dev",
+        "june",
+        "development",
+        "code",
+        "tools"
       ]
     },
     {
@@ -6272,6 +6398,20 @@
         "protocol",
         "media",
         "network"
+      ]
+    },
+    {
+      "name": "leptos",
+      "category": "dev",
+      "path": "icons/dev/leptos.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M12 2l-2 5-5 2 5 2 2 5 2-5 5-2-5-2-2-5z\"/><circle cx=\"12\" cy=\"12\" r=\"6\"/><path d=\"M12 6v12M6 12h12\"/>\n</svg>\n",
+      "variant": "normal",
+      "tags": [
+        "dev",
+        "leptos",
+        "development",
+        "code",
+        "tools"
       ]
     },
     {
@@ -7292,6 +7432,20 @@
       ]
     },
     {
+      "name": "mobx",
+      "category": "dev",
+      "path": "icons/dev/mobx.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <circle cx=\"12\" cy=\"12\" r=\"10\"/><path d=\"M12 2v20M2 12h20\"/><circle cx=\"12\" cy=\"12\" r=\"3\"/><path d=\"M6 6l12 12M18 6L6 18\"/>\n</svg>\n",
+      "variant": "normal",
+      "tags": [
+        "dev",
+        "mobx",
+        "development",
+        "code",
+        "tools"
+      ]
+    },
+    {
       "name": "modal",
       "category": "brand",
       "path": "icons/brand/modal.svg",
@@ -7567,6 +7721,20 @@
         "n26",
         "work",
         "office"
+      ]
+    },
+    {
+      "name": "nanostores",
+      "category": "dev",
+      "path": "icons/dev/nanostores.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <circle cx=\"12\" cy=\"12\" r=\"10\"/><circle cx=\"12\" cy=\"12\" r=\"6\"/><circle cx=\"12\" cy=\"12\" r=\"2\"/><path d=\"M12 2v4M12 18v4M2 12h4M18 12h4\"/>\n</svg>\n",
+      "variant": "normal",
+      "tags": [
+        "dev",
+        "nanostores",
+        "development",
+        "code",
+        "tools"
       ]
     },
     {
@@ -8645,6 +8813,20 @@
       ]
     },
     {
+      "name": "pinia",
+      "category": "dev",
+      "path": "icons/dev/pinia.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M12 2l-9 9 9 9 9-9-9-9z\"/><path d=\"M12 2v18M3 11h18\"/><circle cx=\"12\" cy=\"11\" r=\"4\"/>\n</svg>\n",
+      "variant": "normal",
+      "tags": [
+        "dev",
+        "pinia",
+        "development",
+        "code",
+        "tools"
+      ]
+    },
+    {
       "name": "pinterest",
       "category": "social",
       "path": "icons/social/platforms/pinterest.svg",
@@ -8773,6 +8955,20 @@
         "engineering",
         "tech",
         "software"
+      ]
+    },
+    {
+      "name": "plausible",
+      "category": "dev",
+      "path": "icons/dev/plausible.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\"/><path d=\"M8 16v-4M12 16v-6M16 16v-8\"/><path d=\"M8 10l4-2 4 2\"/>\n</svg>\n",
+      "variant": "normal",
+      "tags": [
+        "dev",
+        "plausible",
+        "development",
+        "code",
+        "tools"
       ]
     },
     {
@@ -8982,6 +9178,19 @@
         "pound",
         "work",
         "office"
+      ]
+    },
+    {
+      "name": "powersync",
+      "category": "technology",
+      "path": "icons/technology/database/powersync.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <circle cx=\"12\" cy=\"12\" r=\"10\"/><path d=\"M12 2v20\"/><path d=\"M12 2l-5 8h10l-5 8v-8\"/>\n</svg>\n",
+      "variant": "normal",
+      "tags": [
+        "technology",
+        "powersync",
+        "tech",
+        "software"
       ]
     },
     {
@@ -12405,6 +12614,20 @@
       ]
     },
     {
+      "name": "umami",
+      "category": "dev",
+      "path": "icons/dev/umami.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\"/><path d=\"M8 8v8M12 10v6M16 6v12\"/>\n</svg>\n",
+      "variant": "normal",
+      "tags": [
+        "dev",
+        "umami",
+        "development",
+        "code",
+        "tools"
+      ]
+    },
+    {
       "name": "umbrella",
       "category": "nature",
       "path": "icons/nature/weather/umbrella.svg",
@@ -12971,6 +13194,20 @@
       ]
     },
     {
+      "name": "wails",
+      "category": "dev",
+      "path": "icons/dev/wails.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\"/><path d=\"M3 9h18M9 3v18\"/><path d=\"M12 12l6 6M18 12l-6 6\"/>\n</svg>\n",
+      "variant": "normal",
+      "tags": [
+        "dev",
+        "wails",
+        "development",
+        "code",
+        "tools"
+      ]
+    },
+    {
       "name": "wallet",
       "category": "business",
       "path": "icons/business/finance/wallet.svg",
@@ -13026,6 +13263,21 @@
       ]
     },
     {
+      "name": "wasp-lang",
+      "category": "dev",
+      "path": "icons/dev/wasp-lang.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <circle cx=\"12\" cy=\"12\" r=\"10\"/><path d=\"M12 2c-2 4-3 8-3 10s1 6 3 10c2-4 3-8 3-10s-1-6-3-10z\"/><ellipse cx=\"12\" cy=\"12\" rx=\"9\" ry=\"4\"/>\n</svg>\n",
+      "variant": "normal",
+      "tags": [
+        "dev",
+        "wasp",
+        "lang",
+        "development",
+        "code",
+        "tools"
+      ]
+    },
+    {
       "name": "watch",
       "category": "technology",
       "path": "icons/technology/devices/watch.svg",
@@ -13034,6 +13286,19 @@
       "tags": [
         "technology",
         "watch",
+        "tech",
+        "software"
+      ]
+    },
+    {
+      "name": "watermelondb",
+      "category": "technology",
+      "path": "icons/technology/database/watermelondb.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <circle cx=\"12\" cy=\"12\" r=\"10\"/><ellipse cx=\"12\" cy=\"12\" rx=\"10\" ry=\"5\"/><path d=\"M12 7v10\"/><circle cx=\"8\" cy=\"10\" r=\"1\"/><circle cx=\"16\" cy=\"10\" r=\"1\"/><circle cx=\"10\" cy=\"14\" r=\"1\"/><circle cx=\"14\" cy=\"14\" r=\"1\"/>\n</svg>\n",
+      "variant": "normal",
+      "tags": [
+        "technology",
+        "watermelondb",
         "tech",
         "software"
       ]
@@ -13555,6 +13820,20 @@
         "zora",
         "media",
         "fun"
+      ]
+    },
+    {
+      "name": "zustand",
+      "category": "dev",
+      "path": "icons/dev/zustand.svg",
+      "svg": "<svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\">\n  <rect x=\"3\" y=\"3\" width=\"8\" height=\"8\" rx=\"1\"/><rect x=\"13\" y=\"3\" width=\"8\" height=\"8\" rx=\"1\"/><rect x=\"3\" y=\"13\" width=\"8\" height=\"8\" rx=\"1\"/><rect x=\"13\" y=\"13\" width=\"8\" height=\"8\" rx=\"1\"/><circle cx=\"12\" cy=\"12\" r=\"1.5\"/>\n</svg>\n",
+      "variant": "normal",
+      "tags": [
+        "dev",
+        "zustand",
+        "development",
+        "code",
+        "tools"
       ]
     }
   ]
