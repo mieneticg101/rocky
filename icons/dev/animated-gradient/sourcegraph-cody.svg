@@ -1,0 +1,29 @@
+<svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="url(#grad-sourcegraph-cody)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad-sourcegraph-cody" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#10b981;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#06b6d4;stop-opacity:1"/>
+    </linearGradient>
+  </defs>
+  <circle cx="12" cy="8" r="3">
+    <animate attributeName="r" values="3;4;3" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <path d="M12 11v6">
+    <animate attributeName="stroke-dasharray" values="0,6;6,0;0,6" dur="2s" repeatCount="indefinite"/>
+  </path>
+  <circle cx="12" cy="19" r="2">
+    <animate attributeName="r" values="2;3;2" dur="1.5s" repeatCount="indefinite"/>
+  </circle>
+  <path d="M16 13l4 2">
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="1.5s" repeatCount="indefinite"/>
+  </path>
+  <path d="M8 13l-4 2">
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="1.5s" begin="0.5s" repeatCount="indefinite"/>
+  </path>
+  <circle cx="20" cy="15" r="1">
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="4" cy="15" r="1">
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.5s" repeatCount="indefinite"/>
+  </circle>
+</svg>

@@ -1,0 +1,31 @@
+<svg viewBox="0 0 24 24" width="24" height="24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad-animated-gradient-docker-anim" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1">
+        <animate attributeName="stop-color" values="#3b82f6;#8b5cf6;#3b82f6" dur="3s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" style="stop-color:#8b5cf6;stop-opacity:1">
+        <animate attributeName="stop-color" values="#8b5cf6;#3b82f6;#8b5cf6" dur="3s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+  <defs>
+    <linearGradient id="docker-anim-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#2496ed;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1d7dcc;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect x="4" y="10" width="3" height="3" stroke="url(#docker-anim-gradient)" stroke-width="1.5" fill="url(#docker-anim-gradient)" opacity="0.2">
+    <animate attributeName="opacity" values="0.2;0.5;0.2" dur="3s" repeatCount="indefinite" begin="0s"/>
+  </rect>
+  <rect x="8" y="10" width="3" height="3" stroke="url(#docker-anim-gradient)" stroke-width="1.5" fill="url(#docker-anim-gradient)" opacity="0.2">
+    <animate attributeName="opacity" values="0.2;0.5;0.2" dur="3s" repeatCount="indefinite" begin="0.2s"/>
+  </rect>
+  <rect x="12" y="10" width="3" height="3" stroke="url(#docker-anim-gradient)" stroke-width="1.5" fill="url(#docker-anim-gradient)" opacity="0.2">
+    <animate attributeName="opacity" values="0.2;0.5;0.2" dur="3s" repeatCount="indefinite" begin="0.4s"/>
+  </rect>
+  <rect x="8" y="6" width="3" height="3" stroke="url(#docker-anim-gradient)" stroke-width="1.5" fill="url(#docker-anim-gradient)" opacity="0.2">
+    <animate attributeName="opacity" values="0.2;0.5;0.2" dur="3s" repeatCount="indefinite" begin="0.6s"/>
+  </rect>
+  <path d="M3 14c0-2 2-3 4-3h10c2 0 4 1 4 3" stroke="url(#docker-anim-gradient)" stroke-width="1.5" stroke-linecap="round"/>
+</svg>

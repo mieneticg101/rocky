@@ -1,0 +1,12 @@
+<svg viewBox="0 0 24 24" width="24" height="24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad-openai" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#8b5cf6;stop-opacity:1"/>
+    </linearGradient>
+  </defs>
+  <circle cx="12" cy="12" r="9" stroke="url(#grad-openai)" stroke-width="1.5"/>
+  <path d="M12 3v18M3 12h18" stroke="url(#grad-openai)" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M7.05 7.05l9.9 9.9M16.95 7.05l-9.9 9.9" stroke="url(#grad-openai)" stroke-width="1.5" stroke-linecap="round"/>
+  <circle cx="12" cy="12" r="3" stroke="url(#grad-openai)" stroke-width="1.5"/>
+</svg>

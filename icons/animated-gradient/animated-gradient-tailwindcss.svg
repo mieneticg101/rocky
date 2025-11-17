@@ -1,0 +1,21 @@
+<svg viewBox="0 0 24 24" width="24" height="24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad-animated-gradient-tailwindcss-anim" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1">
+        <animate attributeName="stop-color" values="#3b82f6;#8b5cf6;#3b82f6" dur="3s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" style="stop-color:#8b5cf6;stop-opacity:1">
+        <animate attributeName="stop-color" values="#8b5cf6;#3b82f6;#8b5cf6" dur="3s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+  <defs>
+    <linearGradient id="tailwind-anim-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#06b6d4;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#3b82f6;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <path d="M6 12c0-3 1.5-5 4.5-5 4.5 0 3 3 6 3 1.5 0 2.5-1 2.5-3-3 0-1.5 3-6 3-3 0-4.5-1.5-4.5-4.5C8.5 8 11 7 12 7c3 0 4.5 2 4.5 5 0 3-1.5 5-4.5 5-4.5 0-3-3-6-3-1.5 0-2.5 1-2.5 3z" stroke="url(#tailwind-anim-gradient)" stroke-width="1.5" fill="url(#tailwind-anim-gradient)" opacity="0.2">
+    <animate attributeName="opacity" values="0.2;0.4;0.2" dur="3s" repeatCount="indefinite"/>
+  </path>
+</svg>

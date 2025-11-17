@@ -1,0 +1,23 @@
+<svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="url(#grad-check-circle-success-anim)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad-check-circle-success-anim" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1">
+        <animate attributeName="stop-color" values="#3b82f6;#8b5cf6;#3b82f6" dur="3s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" style="stop-color:#8b5cf6;stop-opacity:1">
+        <animate attributeName="stop-color" values="#8b5cf6;#3b82f6;#8b5cf6" dur="3s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+  <circle cx="12" cy="12" r="10" stroke-dasharray="63" stroke-dashoffset="63">
+    <animate attributeName="stroke-dashoffset" values="63;0" dur="0.5s" fill="freeze"/>
+  </circle>
+  <path d="M9 12l2 2 4-4" stroke-dasharray="10" stroke-dashoffset="10" opacity="0">
+    <animate attributeName="stroke-dashoffset" values="10;0" dur="0.3s" fill="freeze" begin="0.5s"/>
+    <animate attributeName="opacity" values="0;1" dur="0.1s" fill="freeze" begin="0.5s"/>
+  </path>
+  <circle cx="12" cy="12" r="0" fill="url(#grad-check-circle-success-anim)" opacity="0" stroke="none">
+    <animate attributeName="r" values="0;15;18" dur="0.6s" fill="freeze" begin="0.5s"/>
+    <animate attributeName="opacity" values="0.4;0.1;0" dur="0.6s" fill="freeze" begin="0.5s"/>
+  </circle>
+</svg>

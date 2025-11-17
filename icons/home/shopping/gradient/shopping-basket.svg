@@ -1,0 +1,14 @@
+<svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="url(#grad-shopping-basket)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad-shopping-basket" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f59e0b;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#ef4444;stop-opacity:1"/>
+    </linearGradient>
+  </defs>
+  <path d="M5.42 9.42 8 12"/>
+  <circle cx="4" cy="8" r="2"/>
+  <path d="m14 6 7-3-2 8"/>
+  <path d="M18.42 9.42 16 12"/>
+  <circle cx="20" cy="8" r="2"/>
+  <path d="M7.8 11.8 4 20h16l-3.8-8.2"/>
+</svg>

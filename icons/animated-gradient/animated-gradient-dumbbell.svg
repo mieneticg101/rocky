@@ -1,0 +1,30 @@
+<svg viewBox="0 0 24 24" width="24" height="24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad-animated-gradient-dumbbell-anim" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1">
+        <animate attributeName="stop-color" values="#3b82f6;#8b5cf6;#3b82f6" dur="3s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" style="stop-color:#8b5cf6;stop-opacity:1">
+        <animate attributeName="stop-color" values="#8b5cf6;#3b82f6;#8b5cf6" dur="3s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+  <defs>
+    <linearGradient id="dumbbell-anim-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ff512f;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#dd2476;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <path d="M6.5 6.5l11 11" stroke="url(#dumbbell-anim-gradient)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+    <animate attributeName="stroke-dasharray" values="0 30;30 0" dur="3s" repeatCount="indefinite"/>
+  </path>
+  <path d="M21 21l-2-2m0 0l-2.5-2.5M19 19l2.5-2.5L19 14M3 3l2 2m0 0l2.5 2.5M5 5L2.5 7.5 5 10" stroke="url(#dumbbell-anim-gradient)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="2s" repeatCount="indefinite"/>
+  </path>
+  <rect x="14" y="14" width="4" height="4" rx="1" transform="rotate(-45 16 16)" stroke="url(#dumbbell-anim-gradient)" stroke-width="1.5" fill="url(#dumbbell-anim-gradient)" opacity="0.3">
+    <animate attributeName="opacity" values="0.3;0.5;0.3" dur="2s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="4" y="4" width="4" height="4" rx="1" transform="rotate(-45 6 6)" stroke="url(#dumbbell-anim-gradient)" stroke-width="1.5" fill="url(#dumbbell-anim-gradient)" opacity="0.3">
+    <animate attributeName="opacity" values="0.3;0.5;0.3" dur="2s" repeatCount="indefinite"/>
+  </rect>
+</svg>

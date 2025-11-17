@@ -1,0 +1,16 @@
+<svg viewBox="0 0 24 24" width="24" height="24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad-animated-gitlab-anim" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1">
+        <animate attributeName="stop-color" values="#3b82f6;#8b5cf6;#3b82f6" dur="3s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" style="stop-color:#8b5cf6;stop-opacity:1">
+        <animate attributeName="stop-color" values="#8b5cf6;#3b82f6;#8b5cf6" dur="3s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+  <path d="M12 21l-8-6 2-9 6 3 6-3 2 9-8 6z" stroke="url(#grad-animated-gitlab-anim)" stroke-width="1.5" stroke-linejoin="round" fill="url(#grad-animated-gitlab-anim)" opacity="0.1">
+    <animate attributeName="opacity" values="0.1;0.3;0.1" dur="3s" repeatCount="indefinite"/>
+  </path>
+  <path d="M12 9v12M4 15l8-6 8 6" stroke="url(#grad-animated-gitlab-anim)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,23 @@
+<svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="url(#grad-menu-toggle-anim)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad-menu-toggle-anim" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1">
+        <animate attributeName="stop-color" values="#3b82f6;#8b5cf6;#3b82f6" dur="3s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" style="stop-color:#8b5cf6;stop-opacity:1">
+        <animate attributeName="stop-color" values="#8b5cf6;#3b82f6;#8b5cf6" dur="3s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+  <line x1="3" y1="12" x2="21" y2="12"/>
+  <line x1="3" y1="6" x2="21" y2="6">
+    <animateTransform attributeName="transform" type="rotate" values="0 12 6;45 12 12;0 12 6" dur="0.5s"/>
+    <animate attributeName="y1" values="6;12;6" dur="0.5s"/>
+    <animate attributeName="y2" values="6;12;6" dur="0.5s"/>
+  </line>
+  <line x1="3" y1="18" x2="21" y2="18">
+    <animateTransform attributeName="transform" type="rotate" values="0 12 18;-45 12 12;0 12 18" dur="0.5s"/>
+    <animate attributeName="y1" values="18;12;18" dur="0.5s"/>
+    <animate attributeName="y2" values="18;12;18" dur="0.5s"/>
+  </line>
+</svg>

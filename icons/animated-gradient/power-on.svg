@@ -1,0 +1,22 @@
+<svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="url(#grad-power-on-anim)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad-power-on-anim" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1">
+        <animate attributeName="stop-color" values="#3b82f6;#8b5cf6;#3b82f6" dur="3s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" style="stop-color:#8b5cf6;stop-opacity:1">
+        <animate attributeName="stop-color" values="#8b5cf6;#3b82f6;#8b5cf6" dur="3s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+  <path d="M18.36 6.64a9 9 0 1 1-12.73 0"/>
+  <line x1="12" y1="2" x2="12" y2="12"/>
+  <circle cx="12" cy="12" r="9" opacity="0" stroke-dasharray="57" stroke-dashoffset="57">
+    <animate attributeName="stroke-dashoffset" values="57;0" dur="1s" fill="freeze"/>
+    <animate attributeName="opacity" values="0;1" dur="0.3s" fill="freeze"/>
+  </circle>
+  <circle cx="12" cy="12" r="0" fill="url(#grad-power-on-anim)" opacity="0" stroke="none">
+    <animate attributeName="r" values="0;12;15" dur="1s" fill="freeze" begin="0.5s"/>
+    <animate attributeName="opacity" values="0.5;0.2;0" dur="1s" fill="freeze" begin="0.5s"/>
+  </circle>
+</svg>

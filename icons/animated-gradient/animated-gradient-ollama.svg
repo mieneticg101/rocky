@@ -1,0 +1,27 @@
+<svg viewBox="0 0 24 24" width="24" height="24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad-animated-gradient-ollama-anim" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1">
+        <animate attributeName="stop-color" values="#3b82f6;#8b5cf6;#3b82f6" dur="3s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" style="stop-color:#8b5cf6;stop-opacity:1">
+        <animate attributeName="stop-color" values="#8b5cf6;#3b82f6;#8b5cf6" dur="3s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+  <defs>
+    <linearGradient id="ollama-anim-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#fc466b;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#3f5efb;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <circle cx="12" cy="8" r="6" stroke="url(#ollama-anim-gradient)" stroke-width="1.5">
+    <animate attributeName="r" values="6;6.5;6" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <path d="M12 14c-4 0-7 2-7 4v2h14v-2c0-2-3-4-7-4" stroke="url(#ollama-anim-gradient)" stroke-width="1.5">
+    <animate attributeName="opacity" values="1;0.7;1" dur="2s" repeatCount="indefinite"/>
+  </path>
+  <circle cx="12" cy="8" r="2" stroke="url(#ollama-anim-gradient)" stroke-width="1.5">
+    <animate attributeName="r" values="2;2.5;2" dur="1.5s" repeatCount="indefinite"/>
+  </circle>
+</svg>
