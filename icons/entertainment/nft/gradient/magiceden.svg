@@ -1,0 +1,17 @@
+<svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="url(#grad-magiceden)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad-magiceden" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ec4899;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#f97316;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <circle cx="12" cy="12" r="3"/>
+  <path d="M12 1v6"/>
+  <path d="M12 17v6"/>
+  <path d="m4.2 4.2 4.2 4.2"/>
+  <path d="m15.6 15.6 4.2 4.2"/>
+  <path d="M1 12h6"/>
+  <path d="M17 12h6"/>
+  <path d="m4.2 19.8 4.2-4.2"/>
+  <path d="m15.6 8.4 4.2-4.2"/>
+</svg>
