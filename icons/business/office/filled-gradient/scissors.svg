@@ -1,0 +1,13 @@
+<svg viewBox="0 0 24 24" width="24" height="24" fill="url(#grad-filled-scissors)" stroke="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad-filled-scissors" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#10b981;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#06b6d4;stop-opacity:1"/>
+    </linearGradient>
+  </defs>
+  <circle <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite"/> cx="6" cy="6" r="3"/>
+  <circle <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite"/> cx="6" cy="18" r="3"/>
+  <line x1="20" y1="4" x2="8.12" y2="15.88"/>
+  <line x1="14.47" y1="14.48" x2="20" y2="20"/>
+  <line x1="8.12" y1="8.12" x2="12" y2="12"/>
+</svg>

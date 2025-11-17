@@ -1,0 +1,6 @@
+<svg viewBox="0 0 24 24" width="24" height="24" fill="currentColor" stroke="none" xmlns="http://www.w3.org/2000/svg">
+  <path <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite"/> d="M8 5h5a3 3 0 0 1 0 6H8V5z" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round"/>
+  <path <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite"/> d="M8 11h6a3 3 0 0 1 0 6H8v-6z" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round"/>
+  <line x1="11" y1="3" x2="11" y2="19" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+  <circle <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite"/> cx="12" cy="12" r="9" stroke="currentColor" stroke-width="1.5"/>
+</svg>

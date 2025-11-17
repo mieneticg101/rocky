@@ -1,0 +1,10 @@
+<svg viewBox="0 0 24 24" width="24" height="24" fill="url(#grad-filled-chart-pie)" stroke="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad-filled-chart-pie" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#10b981;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#06b6d4;stop-opacity:1"/>
+    </linearGradient>
+  </defs>
+  <path <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite"/> d="M21.21 15.89A10 10 0 1 1 8 2.83"/>
+  <path <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite"/> d="M22 12A10 10 0 0 0 12 2v10z"/>
+</svg>

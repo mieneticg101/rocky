@@ -1,0 +1,8 @@
+<svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    path:nth-child(odd) { opacity: 0.3; }
+    rect:nth-child(odd) { opacity: 0.3; }
+    circle:nth-child(odd) { opacity: 0.3; }
+  </style>
+  <rect <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite"/> x="3" y="3" width="8" height="8" rx="1"/><rect <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite"/> x="13" y="3" width="8" height="8" rx="1"/><rect <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite"/> x="3" y="13" width="8" height="8" rx="1"/><rect <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite"/> x="13" y="13" width="8" height="8" rx="1"/><circle <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite"/> cx="12" cy="12" r="1.5"/>
+</svg>
