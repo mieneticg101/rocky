@@ -1,0 +1,9 @@
+<svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="url(#grad-vendor-management)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad-vendor-management" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#F857A6;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#FF5858;stop-opacity:1"/>
+    </linearGradient>
+  </defs>
+  <circle cx="12" cy="8" r="3"/><path d="M6 21v-2a4 4 0 0 1 4-4h4a4 4 0 0 1 4 4v2"/><rect x="8" y="15" width="8" height="2"/>
+</svg>

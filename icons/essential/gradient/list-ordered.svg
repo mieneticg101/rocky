@@ -1,0 +1,9 @@
+<svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="url(#grad-list-ordered)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad-list-ordered" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4776E6;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#8E54E9;stop-opacity:1"/>
+    </linearGradient>
+  </defs>
+  <line x1="10" y1="6" x2="21" y2="6"/><line x1="10" y1="12" x2="21" y2="12"/><line x1="10" y1="18" x2="21" y2="18"/><path d="M4 6h1v4M4 10h2M6 18H4c0-1 2-2 2-3s-1-1.5-2-1"/>
+</svg>

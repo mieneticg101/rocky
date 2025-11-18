@@ -1,0 +1,12 @@
+<svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="url(#grad-emoji-picker)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad-emoji-picker" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FEE140;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#FA709A;stop-opacity:1"/>
+    </linearGradient>
+  </defs>
+  <circle cx="12" cy="12" r="8"/>
+  <circle cx="9" cy="10" r="1" fill="url(#grad-emoji-picker)"/>
+  <circle cx="15" cy="10" r="1" fill="url(#grad-emoji-picker)"/>
+  <path d="M8 14s1.5 2 4 2 4-2 4-2"/>
+</svg>

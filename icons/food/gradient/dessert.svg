@@ -1,0 +1,9 @@
+<svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="url(#grad-dessert)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad-dessert" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#EC4899;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#FBBF24;stop-opacity:1"/>
+    </linearGradient>
+  </defs>
+  <circle cx="12" cy="16" r="6"/><path d="M12 10v6M9 13l6-3"/><path d="M8 8c0-2 2-4 4-4s4 2 4 4"/>
+</svg>

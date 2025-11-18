@@ -1,0 +1,9 @@
+<svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="url(#grad-nutrition)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad-nutrition" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#10B981;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#6EE7B7;stop-opacity:1"/>
+    </linearGradient>
+  </defs>
+  <circle cx="12" cy="12" r="10"/><path d="M12 2v20M2 12h20"/><path d="M6 6l12 12M6 18L18 6"/>
+</svg>

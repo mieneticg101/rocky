@@ -1,0 +1,9 @@
+<svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="url(#grad-smart-lighting)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad-smart-lighting" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FBBF24;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#F59E0B;stop-opacity:1"/>
+    </linearGradient>
+  </defs>
+  <path d="M12 2v3M12 19v3M5 12H2M22 12h-3"/><path d="M16.24 7.76l2.12-2.12M5.64 18.36l2.12-2.12M7.76 7.76L5.64 5.64M18.36 18.36l-2.12-2.12"/><circle cx="12" cy="12" r="4"/>
+</svg>

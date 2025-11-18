@@ -1,0 +1,9 @@
+<svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="url(#grad-font-style)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad-font-style" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#D299C2;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#FEF9D7;stop-opacity:1"/>
+    </linearGradient>
+  </defs>
+  <path d="M4 20h16M6 4h12v4M12 4v16"/>
+</svg>

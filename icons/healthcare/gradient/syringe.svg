@@ -1,0 +1,9 @@
+<svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="url(#grad-syringe)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad-syringe" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#8B5CF6;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#EC4899;stop-opacity:1"/>
+    </linearGradient>
+  </defs>
+  <path d="M18 2l4 4M10 10l8-8M2 22l4-4 8 8-4 4z"/><line x1="10" y1="14" x2="14" y2="10"/>
+</svg>
